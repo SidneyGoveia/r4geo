@@ -64,20 +64,20 @@ description: "Portal de Geotecnologias Livres" # Site description and default de
 url: "https://geosaber.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: "/r4geo"
 repo: "https://github.com/geosaber/r4geo"
-email: "contato@geosaber.com.br"
+email: "geosaber@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 #avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 7. Site navigation
 navigation_header:
   Início: /
-  Cursos: /elements/
+  #Cursos: /elements/
   Blog: /blog/
-  Tutoriais: /tutorial/
-  Serviços: /categories/
-  Sobre: /about/
+  #Tutoriais: /tutorial/
+  #Serviços: /categories/
+  #Sobre: /about/
   Contato: /contact/
-  Busca: /search/
+  #Busca: /search/
 
 navigation_footer:
   Created by Geosaber: http://www.geosaber.com.br
@@ -87,7 +87,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   LinkedIn: https://www.linkedin.com/company/geosaber
   #Google+: https://plus.google.com/+DavidDarnes
   Facebook: https://www.facebook.com/Sidney.Geosaber
-  GitHub: https://github.com/daviddarnes
+  GitHub: https://github.com/geosaber
   link: http://www.geosaber.com.br
   RSS: /feed.xml
 
