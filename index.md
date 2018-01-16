@@ -19,9 +19,7 @@ Para maiores informações, visite nosso site [Geosaber](http://www.geosaber.com
 
 #### Conjunto de rotinas do R para executar comandos dentro do QGIS de forma integrada.
 
-<p style="text-align: justify;">
 **QGIS** é um software livre de *Sistemas de Informação Geográfica (SIG)* que permite usar de forma integrada a *Linguagem Computacional Estatística* **R** adicionando um conjunto de diversas ferramentas que auxiliam nas análises de dados espaciais entre elas o uso de pacotes Geoestatísticos e não Geoestatísticos. Estas ferramentas são incorporadas por meio de *Rscripts* (***Caixa de Ferramentas de Processamento do QGIS***) executando comandos dentro do QGIS.
-</p>
 
 ```markdown
 ##Basic statistics=group
