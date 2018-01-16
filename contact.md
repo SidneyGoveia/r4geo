@@ -1,7 +1,9 @@
 ---
-title: Thanks!
+title: Contato
 indexing: false
 sitemap: false
 ---
 
-Thanks for getting in touch! We'll respond as soon as we can.
+Fale contato conosco:
+- ***e-mail***: geosaber@gmail.com
+- ***whatsapp***: 11982331208
