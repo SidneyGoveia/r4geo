@@ -4,7 +4,7 @@ feature_text: |
   # Geosaber
   10 anos ministrando Cursos de SIG livres presenciais, on site e in company
 feature_image: "https://unsplash.it/1300/400?image=971"
-excerpt: "Iniciado em 2007, o portal [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas tecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org)"
+excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas tecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org)."
 ---
 
 Fomos os primeiros a ofertar **Cursos de QGIS** no Brasil e somos os únicos a oferecer um **Curso de QGIS e R para Geoestatística** com rotinas funcionais - _Rscripts_ - completas e integradas para _**Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal**_ desenvolvidas por Nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
@@ -17,7 +17,8 @@ Para maiores informações, visite nosso site [Geosaber](http://www.geosaber.com
 
 ## Rscripts (QGIS)
 
-Conjunto de rotinas do R para executar comandos dentro do QGIS de forma integrada.
+###Conjunto de rotinas do R para executar comandos dentro do QGIS de forma integrada.
+
 QGIS é um software livre de Sistemas de Informação Geográfica (SIG) que permite usar de forma integrada a ***Lingugem Computacional Estatística*** **R** adicionando um conjunto de diversas ferramentas, que auxiliam nas análises de dados espaciais entre elas o uso de pacotes Geoestatísticos e não Geoestatísticos. Estas ferramentas são incorporadas por meio de Rscripts (*Caixa de Ferramentas de Processamento do QGIS*) executando comandos dentro do QGIS.
 
 ```markdown
