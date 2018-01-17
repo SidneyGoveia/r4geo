@@ -1,5 +1,5 @@
 ---
-title: Referências sobre Análise Espacial no R
+title: Análise Geoespacial no R
 category: General
 feature_image: "https://unsplash.it/1200/400?image=200"
 ---
@@ -8,11 +8,17 @@ feature_image: "https://unsplash.it/1200/400?image=200"
 
 Para aqueles que vão começar a usar o R para análise de dados espacializados, este é um pequeno guia de referência.
 
-## Pacotes Espaciais do R
+### Pacotes Espaciais do R
 - **[spatstat](http://spatstat.org)** - *analysing spatial point patterns*
 - sp
 - Gstat
 - rgdal
 
-## Tutoriais
+### Tutoriais
 - **[R Spatial](http://rspatial.org)** - *Spatial Data Analysis and Modeling with R*
+
+### Workshops
+- **[UseR2017](https://edzer.github.io/UseR2017)** - *Spatial Data in R: New Directions*
+
+### Blogs
+- **[r-spatial](http://r-spatial.org)**
