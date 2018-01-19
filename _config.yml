@@ -75,7 +75,7 @@ navigation_header:
   Blog: /blog/
   #Tutoriais: /tutorial/
   #Serviços: /categories/
-  #Sobre: /about/
+  Sobre: /about/
   Contato: /contact/
   #Busca: /search/
 
