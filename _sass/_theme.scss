@@ -44,7 +44,7 @@ body {
 .feature {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
-  text-align: stretch; //text-align: center; 
+  text-align: center; 
   background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
@@ -52,7 +52,7 @@ body {
     min-height: 35vh;
     max-width: 60%;
     @include flex-direction(column);
-    @include justify-content(stretch); //@include justify-content(center);
+    @include justify-content(center);
   }
 }
 
