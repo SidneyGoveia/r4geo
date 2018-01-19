@@ -26,7 +26,7 @@ author: Sidney Goveia # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Geosaber # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/Geosaber_SS
+    - https://twitter.com/SS_Geosaber
     - https://www.facebook.com/SS.Geosaber
     - https://www.linkedin.com/company/geosaber
     - https://plus.google.com/+geosaber
