@@ -1,13 +1,5 @@
 # Site configuration
 # 1. Installed Gems
-# 2. Gem settings
-# 3. Jekyll settings
-# 4. Collections
-# 5. Jekyll collections settings
-# 6. Site settings
-# 7. Site navigation
-
-# 1. Installed Gems
 plugins:
 - jekyll-sitemap
 - jekyll-mentions
@@ -19,7 +11,7 @@ plugins:
 - jemoji
 
 # 2. Gem settings
-paginate: 2 # jekyll-paginate > items per page
+paginate: 5 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 
 author: Sidney Goveia # jekyll-seo-tag > default author
@@ -45,8 +37,7 @@ collections:
     title: Blog # Needed for Siteleaf
     output: true
     description: "Publicações" # The post list page content
-    feature_text: |
-      Benvindo ao Blog
+    feature_text: |Benvindo ao Blog
     feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 5. Jekyll collections settings
@@ -71,16 +62,16 @@ email: "geosaber@gmail.com"
 # 7. Site navigation
 navigation_header:
   Início: /
-  #Cursos: /elements/
+  #Cursos: /courses/
   Blog: /blog/
   #Tutoriais: /tutorial/
-  #Serviços: /categories/
+  #Serviços: /services/
   Sobre: /about/
   Contato: /contact/
-  #Busca: /search/
+  Busca: /search/
 
 navigation_footer:
-  Created by Geosaber: http://www.geosaber.com.br
+  Criado by Geosaber: http://www.geosaber.com.br
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/Geosaber_SS
