@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/200/300/?random"
 
 # *WhiteboxTools library*
 
-![WhiteboxTools](/img/whiteboxtoolslogoblue.png)
+![WhiteboxTools](/r4geo/img/whiteboxtoolslogoblue.png)
 
 ---
 >***WhiteboxTools*** é um mecanismo avançado de análise de dados geoespaciais.
