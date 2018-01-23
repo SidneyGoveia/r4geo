@@ -7,6 +7,7 @@ feature_image: "https://picsum.photos/200/300/?random"
 # *WhiteboxTools library*
 
 ![WhiteboxTools](/img/whiteboxtoolslogoblue.png)
+
 ---
 >***WhiteboxTools*** é um mecanismo avançado de análise de dados geoespaciais.
 A biblioteca foi desenvolvida usando a linguagem de programação *Rust*, uma linguagem de sistemas de alto desempenho e segura, muitas vezes visto como um substituto moderno para C/C++.
