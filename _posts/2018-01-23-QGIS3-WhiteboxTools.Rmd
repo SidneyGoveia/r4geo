@@ -1,6 +1,6 @@
 ---
 title: "QGIS 3.0 e Whitebox GAT"
-output: html_document
+category: General
 ---
 
 # *WhiteboxTools library*
