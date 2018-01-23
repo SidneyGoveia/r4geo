@@ -1,6 +1,6 @@
 ---
 title: QGIS 3.0 e Whitebox GAT
-category: QGIS
+category: General
 feature_image: "https://picsum.photos/200/300/?random"
 ---
 
