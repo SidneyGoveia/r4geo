@@ -19,7 +19,7 @@ http://training.gismentors.eu/grass-gis-workshop-jena-2018
 ## Geospatial Modeling and Analysis
 [NCSU GIS/MEA582](http://ncsu-geoforall-lab.github.io/geospatial-modeling-course/grass)
 
-#Introduction to GRASS GIS with Terrain Analysis examples
+## Introduction to GRASS GIS with Terrain Analysis examples
 [Advanced GIS training - U. S. Fish and Wildlife Service](https://grasswiki.osgeo.org/wiki/Introduction_to_GRASS_GIS_with_terrain_analysis_examples)
 
 ## Workshop on urban growth modeling with FUTURES (urban growth modeling framework)
