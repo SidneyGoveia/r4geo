@@ -2,7 +2,6 @@
 layout: page
 title: Sobre
 tagline: Informações
-permalink: /about.html
 ---
 
 Essa é a página do projeto de desenvolvimento de aplicações em R e QGIS para a Análise de Dados Espaciais.
