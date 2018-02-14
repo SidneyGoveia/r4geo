@@ -4,7 +4,7 @@ indexing: false
 sitemap: false
 ---
 
-### Fale contato conosco:
+### Fale conosco:
 - ***e-mail***: geosaber@gmail.com
 - ***whatsapp***: 11982331208
 
