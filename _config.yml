@@ -63,7 +63,7 @@ email: "geosaber@gmail.com"
 # 7. Site navigation
 navigation_header:
   Início: /
-  #Cursos: /courses/
+  Cursos: /courses/
   Blog: /blog/
   #Tutoriais: /tutorial/
   #Serviços: /services/
