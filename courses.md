@@ -7,9 +7,11 @@ feature_image: "https://unsplash.it/1300/400?image=1061"
 excerpt: "Cursos de QGIS e SIG livres"
 ---
 # Cursos in house e in company
+
 - Geoprocessamento com QGIS
 - Geoestatística com QGIS e R/Gstat
 - Cadastro Técnico Saneamento/Municipal
+
 ---
 ## Curso de QGIS
 
