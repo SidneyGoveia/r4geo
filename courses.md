@@ -3,7 +3,7 @@ layout: page
 title: Cursos
 feature_text: |
   Cursos de QGIS e R
-feature_image: "https://unsplash.it/1300/400?image=1061"
+feature_image: "https://unsplash.it/200/300/?random"
 excerpt: "Cursos de QGIS e SIG livres"
 ---
 # Cursos in house e in company
