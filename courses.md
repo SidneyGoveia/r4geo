@@ -1,16 +1,18 @@
 ---
+layout: page
 title: Cursos
+tagline: Cursos
 feature_text: |
   Cursos de QGIS e R
 feature_image: "https://unsplash.it/1300/400?image=1061"
 excerpt: "Cursos de QGIS e SIG livres"
-aside: true
+aside: false
 ---
 
 # Cursos
 
+- Geoprocessamento com QGIS
 - Geoestatística com QGIS e R/Gstat
-
 - Cadastro Técnico Saneamento/Municipal
 
 ´´´
