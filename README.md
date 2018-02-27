@@ -1,35 +1,10 @@
-# R Scripts e Webapps
+# Website
 > *Copyright 2018 [Geosaber](http://www.geosaber.com.br)*
 
 Para maiores informações, visite nosso site [Geosaber](http://www.geosaber.com.br) e conheça mais sobre o Desenvolvimento de ***_Shinyapps, [Rwebapps](https://www.opencpu.org/apps.html) e Rscripts {QGIS}_*** e também sobre ***Cursos de R e QGIS***.
 
-## Rscripts (QGIS)
-
-Conjunto de rotinas do R para executar comandos dentro do QGIS de forma integrada.
-
-```markdown
-Syntax highlighted code block
-
-# Geoestatística
-## Variograma Experimental e Modelagem
-### Krigagem Ordinária e Universal (KO e KU)
-
-- Modelagem
-- Simulação
-
-1. Predição
-2. Probabilidade
-
-**R** e _QGIS_ e `Code` scripts
-
-[Shiny](url) e ![Geosaber](src)
-```
-
-## Plataforma Web de Aplicações do R
-Aplicações [Geosaber.Shinyapps.io](https://geostatistics.shinyapps.io/geoestistics_v2) para Geoestatistica e Analise de Dados Espaciais online.
-
 ---
-# Licença
+## Licença
 
 ***Copyright 2018 Geosaber***
 
