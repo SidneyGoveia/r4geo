@@ -5,7 +5,7 @@ feature_image: "https://picsum.photos/200/300/?random"
 ---
 # Provedores de Dados no QGIS 3.0
 A primeira das dúvidas que surgiu com o lançamento do **QGIS 3.0** foi como inserir Imagens e Mapas de fundo, uma vez que o Complemento *QuickMapServices* (substituto do *OpenLayers Plugin*, que é obsoleto).
-A resposta está em uma solução antiga, que publicamos em nosso blog [Alternativa ao OpenLayers no QGIS](https://sites.google.com/site/geosaber/Tutoriais/alternativaaoopenlayersnoqgis) mas que agora está muito mais fácil de se aplicar.
+A resposta está em uma solução antiga, que publicamos em nosso blog: [Alternativa ao OpenLayers no QGIS](https://sites.google.com/site/geosaber/Tutoriais/alternativaaoopenlayersnoqgis) mas que agora está muito mais fácil de se aplicar.
 
 ## ARCGIS REST API SERVICE no QGIS
 Entre no *Data Source Manager* {Camadas > Gerenciador de Fontes de Dados} e escolha o provedor ***Servidor de Mapas do ArcGIS***
