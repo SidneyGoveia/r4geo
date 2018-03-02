@@ -5,7 +5,7 @@ feature_image: "https://picsum.photos/200/300/?random"
 ---
 
 # Cursos Tutoriais do GRASS GIS 7
-![Jena 2018](/img/jena-rivers.png "Jena 2018")
+![Jena 2018](https://github.com/geosaber/r4geo/raw/gh-pages/img/jena-rivers.png "Jena 2018")
 
 ### GRASS GIS Workshop in Jena 2018 (¹)
 [Workshop Jena 2018](http://training.gismentors.eu/grass-gis-workshop-jena-2018)
