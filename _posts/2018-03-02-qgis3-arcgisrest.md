@@ -20,9 +20,10 @@ Escolha a Imagem e clique em Adicionar para acrescentar à lista de Camadas. Na 
 
 ![QGIS 3 ArcGIS REST API](/img/ArcGISREST03.png "QGIS 3 ArcGIS REST API")
 
-> Também existem outras camadas disponíveis no Serviço de Mapas do ArcGIS, basta alterar o nome ao inserir a URL:
-```
+> Também existem outras camadas disponíveis no **Serviço de Mapas do ArcGIS**, basta alterar o nome ao inserir a URL:
+
 ### Serviços
+```
 - ESRI_Imagery_World_2D (MapServer)
 - ESRI_StreetMap_World_2D (MapServer)
 - I3_Imagery_Prime_World (GlobeServer)
