@@ -39,7 +39,7 @@ Escolha a Imagem e clique em Adicionar para acrescentar à lista de Camadas. Na 
 - World_Terrain_Base (MapServer)
 - World_Topo_Map (MapServer)
 ```
----
+
 ### Referências
 * [HOW TO USE ARCGIS REST API SERVICE IN QGIS](http://www.geodose.com/2017/08/how-to-use-arcgis-rest-api-service-qgis.html)
 * [ArcGIS Map Server](http://server.arcgisonline.com/arcgis/rest/services)
