@@ -9,12 +9,15 @@ A resposta está em uma solução antiga, que publicamos em nosso blog [Alternat
 
 ## ARCGIS REST API SERVICE no QGIS
 Entre no *Data Source Manager* {Camadas > Gerenciador de Fontes de Dados} e escolha o provedor ***Servidor de Mapas do ArcGIS***
+
 ![ArcGIS MapServer](/img/ArcGISREST02.png "Data Source Manager")
 
 Em *Conexões de servidor* clique em *Novo* e insira a URL do [World Imagery](http://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer)
+
 ![World Imagery](/img/ArcGISREST01.png "World Imagery")
 
 Escolha a Imagem e clique em Adicionar para acrescentar à lista de Camadas. Na aba do *Navegador* vai aparecer a conexão *ArcGISMapServer* onde se pode acrescentar outras Imagens, disponíveis no *World Imagery*.
+
 ![QGIS 3 ArcGIS REST API](/img/ArcGISREST03.png "QGIS 3 ArcGIS REST API")
 
 > Também existem outras camadas disponíveis no Serviço de Mapas do ArcGIS, basta alterar o nome ao inserir a URL:
