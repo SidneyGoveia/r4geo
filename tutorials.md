@@ -2,7 +2,7 @@
 layout: page
 title: Tutoriais
 feature_text: |
-  Cursos de QGIS e R
+  TUTORIAIS
 feature_image: "https://unsplash.it/200/300/?image=1036"
 excerpt: "Cursos de QGIS e SIG livres"
 ---
@@ -10,5 +10,3 @@ excerpt: "Cursos de QGIS e SIG livres"
 #### - Geoprocessamento com QGIS
 #### - Geoestatística com QGIS e R/Gstat
 #### - Cadastro Técnico Saneamento/Municipal
-
-{% include site-search.html %}
