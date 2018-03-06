@@ -5,7 +5,7 @@ tagline: Consultoria
 ---
 # Treinamentos e Consultoria em QGIS e SIG livre
 ---
-|2016|Banco de Brasília - BRB|Brasília - DF|
+| 2016 | Banco de Brasília - BRB | Brasília - DF |
 
 **Projeto: Curso de Geoprocessamento Avançado com o QGIS**
 
