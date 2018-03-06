@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Serviços
+title: Cursos
+feature_text: |
+  Cursos de QGIS
+feature_image: "https://unsplash.it/200/300/?image=1036"
+excerpt: "Treinamentos em QGIS e Consultoria com SIG livre"
 tagline: Consultoria
 ---
+
 # Treinamentos em QGIS e Consultoria com SIG livre
 ---
 2016 | Banco de Brasília - BRB | Brasília - DF
