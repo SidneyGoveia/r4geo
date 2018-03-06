@@ -3,9 +3,8 @@ layout: page
 title: Serviços
 tagline: Consultoria
 ---
-
 # Treinamentos e Consultoria em QGIS e SIG livre
-
+---
 2016
 
 Banco de Brasília - BRB
@@ -15,7 +14,7 @@ Brasília - DF
 Projeto: Curso de Geoprocessamento Avançado com o QGIS
 
 ·     Capacitação dos Analistas do Banco de Brasíla em Sistemas de Informações Geográficas e Bancos de Dados Espaciais.
-
+---
 2016
 
 Prefeitura Municipal da Estância de Socorro
@@ -25,7 +24,7 @@ Socorro - SP
 Projeto: Desenvolvimento do Sistema Municipal de Informações Ambientais
 
 ·     Implementação do Banco de Dados Espaciais da Bacia do Rio Camanducaia, no município da Estância de Socorro – SP.
-
+---
 2015
 
 Prefeitura Municipal de São Paulo
@@ -35,7 +34,7 @@ São Paulo – SP
 Projeto: Curso de Geoprocessamento Avançado com o QGIS
 
 ·     Capacitação de técnicos da Secretaria Municipal de Desenvolvimento Urbano da Prefeitura de São Paulo – SMDU em Sistemas de Informações Geográficas e Bancos de Dados Espaciais.
-
+---
 2015
 
 Detran - Roraima
@@ -46,6 +45,7 @@ Projeto: Treinamento para desenvolvimento de Servidor de Mapas com QGIS Server
 
 ·     Assessoria no desenvolvimento de Geoportal dos acidentes de trânsito na cidade de Boa Vista – RR.
 
+---
 2015
 
 Universidade Federal do Piauí – UFPI
@@ -56,6 +56,7 @@ Projeto: Curso de Geoprocessamento Avançado com o QGIS
 
 ·     Treinamento em QGIS para os Pesquisadores (alunos de Pós-Graduação e Iniciação Científica)
 
+---
 2015
 
 Prefeitura Municipal de Brusque
@@ -66,8 +67,7 @@ Projeto: Curso de Geoprocessamento Avançado com o QGIS
 
 ·     Capacitação de técnicos da Prefeitura de Brusque em Sistemas de Informações Geográficas e Bancos de Dados Espaciais.
 
- 
-
+---
 2015
 
 COBRAPE – Companhia Brasileira de Projetos e Empreendimentos
