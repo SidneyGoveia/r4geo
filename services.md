@@ -59,111 +59,74 @@ tagline: Consultoria
 - Capacitação de técnicos da Companhia Brasileira de Projetos e Empreendimentos – COBRAPE em Sistemas de Informações Geográficas e Bancos de Dados Espaciais.
 
 ---
-2014
-
-Universidade Federal do Mato Grosso do Sul – UFMS
-
-Campo Grande – MS
+2014 | Universidade Federal do Mato Grosso do Sul – UFMS | Campo Grande – MS
+--- | --- | ---
 
 **Projeto: Curso de Geoprocessamento Avançado com o QGIS**
 - Treinamento em QGIS para os Pesquisadores (alunos de Pós-Graduação e Iniciação Científica)
 
 ---
-2013
-
-Universidade Federal de Santa Maria - UFSM
-
-Santa Maria - RS
+2013 | Universidade Federal de Santa Maria - UFSM | Santa Maria - RS
+--- | --- | ---
 
 **Projeto: Curso de Geoprocessamento Avançado com o QGIS**
-
 - Treinamento em QGIS para os Pesquisadores (alunos de Pós-Graduação e Iniciação Científica)
 
 ---
-2012
-
-Prefeitura Municipal de Cascavel
-
-Cascavel – PR
+2012 | Prefeitura Municipal de Cascavel | Cascavel – PR
+--- | --- | ---
 
 **Projeto: Curso de Geoprocessamento Avançado com o QGIS e PostGIS.**
-
 - Capacitação de técnicos da Prefeitura de Cascavel em Sistemas de Informações Geográficas e Bancos de Dados Espaciais.
 
-2012
-
-DR/SPM - Correios
-
-São Paulo - SP
+---
+2012 | DR/SPM - Correios | São Paulo - SP
+--- | --- | ---
 
 **Projeto: Curso de Geoprocessamento Avançado com o QGIS e PostGIS.**
-
 - Capacitação de técnicos da DR/SPM da ECT/Correios em Sistemas de Informações Geográficas e Bancos de Dados Espaciais.
 
 ---
-2011
-
-LARP/MAE/USP
-
-São Paulo - SP
+2011 | LARP/MAE/USP | São Paulo - SP
+--- | --- | ---
 
 **Projeto: Curso de Geoprocessamento e Treinamento em QGIS.**
-
 - Treinamento em QGIS para os Pesquisadores (alunos de Pós-Graduação e Iniciação Científica) do Laboratório de Arqueologia Romana Provincial – MAE/USP.
 
 ---
-2010
-
-CTI/CenpRA
-
-Campinas - SP
+2010 | CTI/CenpRA | Campinas - SP
+--- | --- | ---
 
 **Projeto: Mapeamento dos Projetos dos Centros Tecnológicos de Inclusão Digital**
-
 - Elaboração de mapas por Geoprocessamento para o projeto conjunto do CTI - Centro de Tecnologia da Informação Renato Archer e o e CGEE – Centro de Gestão Estudos Estratégicos e Ministério de Ciência e Tecnologia.
 
 ---
-2010
-
-DR/SC - Correios
-
-Florianópolis - SC
+2010 | DR/SC - Correios | Florianópolis - SC
+--- | --- | ---
 
 **Projeto: Curso de Geoprocessamento e Capacitação em SIG usando o QGIS**
 
 - Capacitação de técnicos da DR/SC da ECT/Correios em Sistemas de Informações Geográficas
 
 ---
-2010
-
-DR/SPM - Correios
-
-São Paulo – SP
+2010 | DR/SPM - Correios | São Paulo – SP
+--- | --- | ---
 
 **Projeto: Curso de Geoprocessamento e Capacitação em SIG usando o QGIS**
-
 - Capacitação de técnicos da DR/SPM da ECT/Correios em Sistemas de Informações Geográficas
 
 ---
-2009
-
-DR/SPI - Correios
-
-Bauru - SP
+2009 | DR/SPI - Correios | Bauru - SP
+--- | --- | ---
 
 **Projeto: Curso de Geoprocessamento e Capacitação em SIG usando o QGIS**
-
 - Capacitação de técnicos da DR/SPI da ECT/Correios em Sistemas de Informações Geográficas
 
 ---
-2009
-
-Brasil
-
-Brasil - BR
+2009 | Brasil | Brasil - BR
+--- | --- | ---
 
 **Projeto: Capacitação em SIG para o Projeto Pólos do Biodiesel**
-
 - Capacitação de técnicos nas Unidades da Federação (São Paulo - SP, Porto Alegre - RS, Brasília – DF, Fortaleza – CE, Montes Claros – MG, Goiânia – GO) em SIG para o Projeto Pólos do Biodiesel da Plural Consultoria e SAF / MDA (Ministério do Desenvolvimento Agrário).
 
 ---
