@@ -43,3 +43,4 @@ Escolha a Imagem e clique em Adicionar para acrescentar à lista de Camadas. Na 
 ### Referências
 * [HOW TO USE ARCGIS REST API SERVICE IN QGIS](http://www.geodose.com/2017/08/how-to-use-arcgis-rest-api-service-qgis.html)
 * [ArcGIS Map Server](http://server.arcgisonline.com/arcgis/rest/services)
+* [XYZ Tile Layers](https://www.spatialbias.com/2018/02/qgis-3.0-xyz-tile-layers)
