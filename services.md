@@ -4,7 +4,7 @@ title: Serviços
 tagline: Consultoria
 ---
 
-# Treinamentos e Concultoria em SIG livre
+# Treinamentos e Consultoria em QGIS e SIG livre
 
 2016
 
