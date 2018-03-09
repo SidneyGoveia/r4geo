@@ -9,7 +9,8 @@ Para fazer a Extração de Rede de Drenagens e Delimitação de Bacias Hidrográ
 > ***Processar - Caixa de Ferramentas -> GRASS -> Raster***
 
 ## Modelo Digital de Elevação
-Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resolução de 12.5 metros do PALSAR (interferometria por RADAR) do satélite japonês ALOS.
+Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resolução de 12.5 metros do PALSAR (interferometria por RADAR) do satélite japonês ALOS. Ele já vem em Sistema de Referência Espacial UTM.
+
 - ***Alaska Satellite Facility (ASF) -> Datasets -> SAR Datasets -> ALOS PALSAR***
 ![ASF](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_PALSAR_ASF.png)
 
@@ -26,16 +27,21 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 
 ### Extração de Rede de Drenagens
 > *r.stream.extract*
-
 ![Extract](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_stream.extract.png)
+
+**OBS:** quanto **maior** o valor *Minimum flow accumulation for streams* mais detalhada será a Rede de Drenagens!
 
 - **Rede de Drenagens**
 ![Streams](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_unique_stream.png)
 
+- Para melhorar as linhas da drenagem (suavizar) você pode generalizá-las
+> ***Vector*** -> *v.generalize*  
+
 ### Delimitação de Bacias Hidrográficas
 > *r.watershed*
-
 ![Watershed](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_watershed.png)
+
+**OBS:** quanto **menor** o valor *Minimum size of exterior watershed basin* mais detalhada será a Rede de Drenagens!
 
 - **Bacias Hidrográficas**
 ![Watershed Basin](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_watershed_basin.png)
@@ -47,7 +53,6 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 
 ### Delimitação de Bacia a partir de um Exutório
 > *r.water.outlet*
-
 ![Outlet](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_water_outlet.png)
 
 ### Conversão Raster > Vetor (Polígonos)
