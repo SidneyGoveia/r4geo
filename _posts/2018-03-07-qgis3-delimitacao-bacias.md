@@ -19,8 +19,6 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 ### Relevo Sombreado no QGIS
 ![Hillshade](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_Hillshade.png)
 
----
-
 ## Extração de Rede de Drenagens
 ![Extract](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_stream.extract.png)
 
@@ -29,6 +27,18 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 
 ## Delimitação de Bacias Hidrográficas
 ![Watershed](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_watershed.png)
+
+### Bacias Hidrográficas
+![Watershed Basin](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_watershed_basin.png)
+
+### Conversão Raster > Vetor (Polígonos)
+![Vector](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_to_vect_watershed_basin.png)
+
+## Delimitação de Bacia a partir de um Exutório
+![Outlet](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_water_outlet.png)
+
+### Conversão Raster > Vetor (Polígonos)
+![Vector](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_to_vect_basin.png)
 
 ### Bacia delimitada a partir de exutório
 ![Bacias](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_basin_outlet.png)
