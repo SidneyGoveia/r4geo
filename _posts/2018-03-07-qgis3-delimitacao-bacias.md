@@ -23,6 +23,8 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 - **Relevo Sombreado no QGIS**
 ![Hillshade](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_Hillshade.png)
 
+---
+
 ## Análise Hidrológica no QGIS
 
 ### Extração de Rede de Drenagens
@@ -37,6 +39,8 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 
 - Para melhorar as linhas da drenagem (suavizar) você pode generalizá-las
 > ***Vector*** -> *v.generalize*  
+
+---
 
 ### Delimitação de Bacias Hidrográficas
 > *r.watershed*
@@ -57,6 +61,8 @@ Três saídas são importantes:
 > *r.to.vect*
 
 ![Vector](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_to_vect_watershed_basin.png)
+
+---
 
 ### Delimitação de Bacia a partir de um Exutório
 > *r.water.outlet*
