@@ -46,9 +46,9 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 **OBS:** quanto **menor** o valor usado em *Minimum size of exterior watershed basin* mais subbacias serão geradas, ou seja, menos células para definir uma bacia. {use 10000 como valor inicial}
 
 Três saídas são importantes:
-- *Drainage direction* - Usado para fazer a Delimitação de uma bacia a partir de um exutório {'ponto de fuga'};
-- *Unique label for each watershed basin* - as Bacias Hidrográficas {'raster colorido'}
-- *Stream segments* - Rede de Drenagem (se você não tiver extraído no passo anterior); {'raster'}
+- *Drainage direction* - Usado para fazer a Delimitação de uma bacia a partir de um exutório *{**ponto de fuga**}*;
+- *Unique label for each watershed basin* - as Bacias Hidrográficas {'raster colorido'};
+- *Stream segments* - Rede de Drenagem (se você não tiver extraído no passo anterior); *{**raster**}*
 
 - **Bacias Hidrográficas**
 ![Watershed Basin](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_watershed_basin.png)
@@ -63,7 +63,7 @@ Três saídas são importantes:
 
 ![Outlet](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_water_outlet.png)
 
-**OBS:** cuidado ao marcar o ponto de exutório. {use somente números inteiros com X,Y separados por vírgula}
+**OBS:** cuidado ao marcar o ponto de exutório, ao clicar no botão de reticências para ir ao mapa marcar o ponto o QGIS retorna com o seguinte formato (744549.6962090165,7509591.017418033 [EPSG:32722]). *{**use somente números inteiros com X,Y separados por vírgula**}*
 
 ### Conversão Raster > Vetor (Polígonos)
 > *r.to.vect*
