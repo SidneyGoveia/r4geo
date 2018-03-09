@@ -27,9 +27,10 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 
 ### Extração de Rede de Drenagens
 > *r.stream.extract*
+
 ![Extract](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_stream.extract.png)
 
-**OBS:** quanto **maior** o valor *Minimum flow accumulation for streams* mais detalhada será a Rede de Drenagens!
+**OBS:** quanto **maior** o valor usado em *Minimum flow accumulation for streams* mais detalhada será a Rede de Drenagens, ou seja, uma resolução maior é usada. {use 10 como valor inicial}
 
 - **Rede de Drenagens**
 ![Streams](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_unique_stream.png)
@@ -39,9 +40,14 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 
 ### Delimitação de Bacias Hidrográficas
 > *r.watershed*
+
 ![Watershed](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_watershed.png)
 
-**OBS:** quanto **menor** o valor *Minimum size of exterior watershed basin* mais detalhada será a Rede de Drenagens!
+**OBS:** quanto **menor** o valor usado em *Minimum size of exterior watershed basin* mais subbacias serão geradas, ou seja, menos células para definir uma bacia. {use 10000 como valor inicial}
+Três saídas são importantes:
+- *Drainage direction* - Usado para fazer a Delimitação de uma bacia a partir de um exutório ('ponto de fuga');
+- *Unique label for each watershed basin* - as Bacias Hidrográficas (***raster***)
+- *Stream segments* - Rede de Drenagem (se você não tiver extraído no passo anterior);
 
 - **Bacias Hidrográficas**
 ![Watershed Basin](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_watershed_basin.png)
@@ -53,7 +59,10 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 
 ### Delimitação de Bacia a partir de um Exutório
 > *r.water.outlet*
+
 ![Outlet](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_water_outlet.png)
+
+**OBS:** cuidado ao marcar o ponto de exutório. {use somente números inteiros com X,Y separados por vírgula}
 
 ### Conversão Raster > Vetor (Polígonos)
 > *r.to.vect*
