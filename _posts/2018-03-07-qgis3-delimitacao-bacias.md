@@ -44,10 +44,11 @@ Para esse tutorial, vamos usar o MDE (Modelo Digital de Elevação) de resoluç�
 ![Watershed](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_watershed.png)
 
 **OBS:** quanto **menor** o valor usado em *Minimum size of exterior watershed basin* mais subbacias serão geradas, ou seja, menos células para definir uma bacia. {use 10000 como valor inicial}
+
 Três saídas são importantes:
-- *Drainage direction* - Usado para fazer a Delimitação de uma bacia a partir de um exutório ('ponto de fuga');
-- *Unique label for each watershed basin* - as Bacias Hidrográficas (***raster***)
-- *Stream segments* - Rede de Drenagem (se você não tiver extraído no passo anterior);
+- *Drainage direction* - Usado para fazer a Delimitação de uma bacia a partir de um exutório {'ponto de fuga'};
+- *Unique label for each watershed basin* - as Bacias Hidrográficas {'raster colorido'}
+- *Stream segments* - Rede de Drenagem (se você não tiver extraído no passo anterior); {'raster'}
 
 - **Bacias Hidrográficas**
 ![Watershed Basin](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_watershed_basin.png)
