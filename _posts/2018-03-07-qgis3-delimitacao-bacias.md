@@ -69,7 +69,7 @@ Três saídas são importantes:
 
 ![Outlet](https://github.com/geosaber/r4geo/raw/gh-pages/img/ALOS_r_water_outlet.png)
 
-**OBS:** cuidado ao marcar o ponto de exutório, ao clicar no botão de reticências para ir ao mapa marcar o ponto o QGIS retorna com o seguinte formato (744549.6962090165,7509591.017418033 [EPSG:32722]). *{**use somente números inteiros com X,Y separados por vírgula**}*
+**OBS:** cuidado ao marcar o ponto de exutório *Coordinates of outlet point (x,y)*, ao clicar no botão de reticências para ir ao mapa marcar o ponto o QGIS retorna com o seguinte formato (*744549.6962090165,7509591.017418033 [EPSG:32722]*). *{**use somente números inteiros com X,Y separados por vírgula**}*
 
 ### Conversão Raster > Vetor (Polígonos)
 > *r.to.vect*
