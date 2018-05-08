@@ -17,6 +17,7 @@ Para aqueles que vão começar a usar o R para análise de dados espacializados,
 
 ### Tutoriais
 - **[R Spatial](http://rspatial.org)** - *Spatial Data Analysis and Modeling with R*
+- **[rspatial](https://cengel.github.io/rspatial)** - *Introduction to Mapping and Spatial Analysis with R*
 
 ### Workshops
 - **[UseR2017](https://edzer.github.io/UseR2017)** - *Spatial Data in R: New Directions*
