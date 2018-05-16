@@ -54,7 +54,7 @@ title: "Geosaber" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Portal de Geotecnologias Livres" # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.geosaber.com.br" # Site url, also used in jekyll-seo-tag
-baseurl: "/site"
+baseurl: "/"
 repo: "https://github.com/geosaber/site"
 email: "geosaber@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
