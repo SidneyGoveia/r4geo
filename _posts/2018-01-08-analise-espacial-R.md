@@ -24,3 +24,4 @@ Para aqueles que vão começar a usar o R para análise de dados espacializados,
 
 ### Blogs
 - **[r-spatial](http://r-spatial.org)**
+- **[UCR](http://uc-r.github.io)**
