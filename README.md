@@ -1,7 +1,7 @@
 # Website
 > *Copyright 2018 [Geosaber](http://www.geosaber.com.br)*
 
-Para maiores informações, visite nosso site [Geosaber](http://www.geosaber.com.br) e conheça mais sobre o Desenvolvimento de ***_Shinyapps, [Rwebapps](https://www.opencpu.org/apps.html) e Rscripts {QGIS}_*** e também sobre ***Cursos de R e QGIS***.
+Desenvolvimento de ***Shinyapps, [Rwebapps](https://www.opencpu.org/apps.html) e Rscripts {QGIS}*** e também sobre ***Cursos de R e QGIS*** com **Treinamentos** ***in house ou in company***.
 
 ---
 ## Licença
