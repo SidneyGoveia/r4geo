@@ -12,9 +12,9 @@ Fomos os primeiros a ofertar **Cursos de QGIS** no Brasil e somos os únicos a o
 {% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Geosaber" link="https://sites.google.com/site/geosaber" color="#F4A460" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Shinyapps" link="https://geostatistics.shinyapps.io/geoestistics_v2" color="#00FFFF" %}
 
 ## Cursos presenciais *in house e in company*
-- Geoprocessamento com QGIS
-- Geoestatística com QGIS e R/Gstat
-- Cadastro Técnico Saneamento/Municipal com QGIS e PostGIS
+- Geoprocessamento com **[QGIS](https://qgis.org) e [GRASS GIS](https://grass.osgeo.org)**
+- Geoestatística com **[QGIS](https://qgis.org) e [R](https://www.r-project.org)/[Gstat](http://gstat.org)** (R *package*)
+- Cadastro Técnico Saneamento/Municipal com **[QGIS](https://qgis.org) e [PostGIS](http://postgis.org)**
 
 ---
 ### Licença
