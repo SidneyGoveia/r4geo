@@ -16,7 +16,7 @@ Fomos os primeiros a ofertar **Cursos de QGIS** no Brasil e somos os únicos a o
 - Geoestatística com QGIS e R/Gstat
 - Cadastro Técnico Saneamento/Municipal com QGIS e PostGIS
 
-´´´
+---
 ### Licença
 
 ***Copyright 2018 Geosaber***
