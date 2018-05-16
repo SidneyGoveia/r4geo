@@ -53,9 +53,9 @@ lang: pt-BR # Set the site language
 title: "Geosaber" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Portal de Geotecnologias Livres" # Site description and default description, also used in jekyll-seo-tag
-url: "https://geosaber.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "/r4geo"
-repo: "https://github.com/geosaber/r4geo"
+url: "https://www.geosaber.com.br" # Site url, also used in jekyll-seo-tag
+baseurl: "/site"
+repo: "https://github.com/geosaber/site"
 email: "geosaber@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 #avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
@@ -72,7 +72,7 @@ navigation_header:
   Busca: /search/
 
 navigation_footer:
-  Criado by Geosaber: http://www.geosaber.com.br
+  Geosaber: https://www.geosaber.com.br
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/Geosaber_SS
@@ -80,7 +80,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Google+: https://plus.google.com/+GeosaberBrasil
   Facebook: https://www.facebook.com/Sidney.Geosaber
   GitHub: https://github.com/geosaber
-  link: http://www.geosaber.com.br
+  link: https://www.geosaber.com.br
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
