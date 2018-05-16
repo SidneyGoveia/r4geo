@@ -1,3 +1,11 @@
+---
+layout: page
+title: R Scripts
+feature_text: |
+  R Scripts e Webapps
+feature_image: "https://unsplash.it/200/300/?image=1036"
+excerpt: "R Scripts e Webapps"
+---
 # R Scripts e Webapps
 
 Para maiores informações, visite nosso site [Geosaber](https://www.geosaber.com.br) e conheça mais sobre o Desenvolvimento de ***Shinyapps, [Rwebapps](https://www.opencpu.org/apps.html) e Rscripts {QGIS}*** e também sobre ***Cursos de R e QGIS***.
