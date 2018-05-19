@@ -6,12 +6,6 @@ feature_text: |
 feature_image: "https://unsplash.it/200/300/?image=1036"
 excerpt: "Cursos de QGIS e SIG livres"
 ---
-# Cursos in house e in company
-#### - Geoprocessamento com QGIS
-#### - Geoestatística com QGIS e R/Gstat
-#### - Cadastro Técnico Saneamento/Municipal
-
----
 ## Curso de QGIS
 
 As aulas no Curso Básico (Condensado) são voltadas ao Mapeamento Temático, abrangendo ferramentas para criação e edição de dados Vetoriais e Raster (Imagens) e no Curso Avançado (Intensivo) é abordado a Análise Espacial, de Terreno, Delimitação de Bacias Hidrográficas, Interpolação de Dados, Classificação Automática de Imagens (Supervisionada e Não-Supervisionada), Estatística Espacial e Geoestatística.
