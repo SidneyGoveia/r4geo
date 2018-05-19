@@ -13,6 +13,8 @@ excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi c
 
 {% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Geosaber" link="https://sites.google.com/site/geosaber" color="#F4A460" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Shinyapps" link="https://geostatistics.shinyapps.io/geoestistics_v2" color="#00FFFF" %}
 
+---
+
 ### Geosaber - 10 anos ministrando Cursos de SIG livres, presenciais on site e in company
 Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência no treinamento em Sistemas de Informações Geográficas Livres e Abertas, em especial nas geotecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***.
 
