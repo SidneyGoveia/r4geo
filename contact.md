@@ -6,6 +6,7 @@ sitemap: false
 
 ### Fale conosco:
 - ***contato***: geosaber@gmail.com
+
 *Sidney Goveia* - Especialista SIG e Instrutor de QGIS
 - ***e-mail***: sidney.goveia@audoc.com.br
 - ***whatsapp***: (11)982-331-208
