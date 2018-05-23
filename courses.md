@@ -12,7 +12,7 @@ As aulas no Curso Básico (Condensado) são voltadas ao Mapeamento Temático, ab
 
 > Para fazer o Curso Avançado é pré-requisito o conhecimento prévio do conteúdo do Curso Básico.
 
-{% include button.html text="Inscrição" icon="github" link="https://sites.google.com/view/geosaber" color="#0366d6" %}
+{% include button.html text="Inscrição" icon="telegram" link="https://sites.google.com/view/geosaber" color="#2CA5E0" %}
 
 ### Ementa do Curso Básico (NB01)
 
