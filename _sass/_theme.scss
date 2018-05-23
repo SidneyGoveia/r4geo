@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  width: 90%;
+  width: 95%;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -22,7 +22,7 @@ body {
     text-align: right;
   }
   .logo {
-    @include flex(0 0 auto);
+    @include flex(5 0 auto);
   }
   .container {
     @include flexbox;
