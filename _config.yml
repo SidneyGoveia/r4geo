@@ -66,9 +66,9 @@ navigation_header:
   Cursos: /courses/
   Blog: /blog/
   Tutoriais: /tutorials/
-  Rscripts: /rscripts/
+  Rscripts: /tutorials/rscripts/
   Serviços: /services/
-  Sobre: /about/
+  Sobre: /contact/about/
   Contato: /contact/
   Busca: /search/
 
