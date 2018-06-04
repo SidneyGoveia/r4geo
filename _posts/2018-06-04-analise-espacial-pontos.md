@@ -1,6 +1,6 @@
 ---
 title: Crime Point Analysis in R
-category: Tutorial
+category: Tutoriais
 feature_image: "https://picsum.photos/200/300/?random"
 ---
 # Análise Espacial de Dados Pontuais
