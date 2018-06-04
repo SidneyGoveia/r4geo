@@ -10,7 +10,7 @@ Usando os módulos do **GRASS** pelo menu Processamento no **QGIS** é possível
 hidrográficas</span>* e *<span class="underline">extração da rede de drenagens</span>* (***r.watershed***) de forma quase automatizada.
 Inclusive delimitar um bacia em particular, entrando as coordenadas do ponto de <span class="underline">*exutório*</span> (***r.water.outlet***).
 
-![Bacias_GRASS7](https://github.com/geosaber/r4geo/raw/gh-pages/img/Bacias_GRASS7.pngBacias_GRASS7.png)
+![Bacias_GRASS7](https://github.com/geosaber/r4geo/raw/gh-pages/img/Bacias_GRASS7.png)
 
 ### Passo a Passo
 
