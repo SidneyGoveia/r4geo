@@ -3,6 +3,7 @@ title: QGIS Strahler Plugin
 category: Tutoriais
 feature_image: "https://picsum.photos/200/300/?random"
 ---
+## QGIS Strahler - Complemento de ordenamento de rede de drenagens
 <span style="font-family: Arial , Helvetica , sans-serif;">Esse
 Complemento calcula o número ***Strahler*** (ordem/hierarquia) de cada
 segmento em uma rede de drenagem e adiciona ele em um novo Campo na
