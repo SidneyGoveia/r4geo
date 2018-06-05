@@ -9,7 +9,7 @@ feature_image: "https://picsum.photos/200/300/?random"
 
 <div class="separator" style="clear: both; text-align: center;">
 
-[<span style="font-family: Arial , Helvetica , sans-serif;">![](https://2.bp.blogspot.com/-uOt7uY0wFKA/V75D9B4hblI/AAAAAAAACAc/aRaYw2S3ZnA6vsCzC6dCRmZ3TFMTg9vJgCLcB/s1600/Profile.png)</span>](https://2.bp.blogspot.com/-uOt7uY0wFKA/V75D9B4hblI/AAAAAAAACAc/aRaYw2S3ZnA6vsCzC6dCRmZ3TFMTg9vJgCLcB/s1600/Profile.png)
+![](https://github.com/geosaber/r4geo/raw/gh-pages/img/Profile.png)
 
 </div>
 
