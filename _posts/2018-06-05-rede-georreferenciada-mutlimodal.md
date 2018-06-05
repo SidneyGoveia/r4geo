@@ -20,7 +20,6 @@ Estão disponíveis os arquivos em formato “shape” para os dois cenários, c
 4. Modo Rodoviário
 5. Modo Dutoviário
 
----
 ## Referências
 - [Empresa de Planejamento e Logística - EPL](http://www.epl.gov.br/rede-georeferenciada)
 
