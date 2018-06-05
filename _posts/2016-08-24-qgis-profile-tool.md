@@ -9,7 +9,7 @@ feature_image: "https://picsum.photos/200/300/?random"
 
 <div class="separator" style="clear: both; text-align: center;">
 
-![](https://github.com/geosaber/r4geo/raw/gh-pages/img/Profile.png)
+![Profile](https://github.com/geosaber/r4geo/raw/gh-pages/img/Profile.png)
 
 </div>
 
