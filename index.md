@@ -19,3 +19,9 @@ excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi c
 Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência no treinamento em Sistemas de Informações Geográficas Livres e Abertas, em especial nas geotecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***.
 
 Fomos os primeiros a ofertar **Cursos de QGIS** no Brasil e somos os únicos a oferecer um **Curso de QGIS com R integrado para Geoestatística** com rotinas funcionais - *Rscripts* - completas e integradas para ***Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal*** desenvolvidas por nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
+
+## Google Sites (desde 2008)
+- [Geosaber](https://sites.google.com/site/geosaber)
+
+## Blogger (desde 2007)
+- [Blog](https://geosaber.blogspot.com)
