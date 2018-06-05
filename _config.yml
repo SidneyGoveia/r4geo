@@ -36,9 +36,9 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: true
-    description: "Publicações" # The post list page content
+    description: "https://geosaber.blogspot.com" # The post list page content
     feature_text: |
-      Benvindo ao Blog
+      Publicações
     feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 5. Jekyll collections settings
