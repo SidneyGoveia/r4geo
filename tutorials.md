@@ -6,7 +6,12 @@ feature_text: |
 feature_image: "https://unsplash.it/200/300/?image=1036"
 excerpt: "Cursos de QGIS e SIG livres"
 ---
-### [Tutoriais](https://sites.google.com/site/geosaber/Tutoriais)
+## Apostila Mapas Temáticos no QGIS 2.8 - Wien
+![Mapas Temáticos no QGIS 2.8](https://github.com/geosaber/r4geo/raw/gh-pages/img/Capa2.png)
+
+[Baixar](https://github.com/geosaber/r4geo/raw/gh-pages/docs/Mapas-Tematicos-QGIS-2.8.pdf)
+
+### [Tutoriais](https://sites.google.com/site/geosaber)
 - Alternativa ao OpenLayers no QGIS
 - Análise Hidrológica no QGIS
 - Conversão para Reflectância de Imagens do Landsat 8 no QGIS
