@@ -1,8 +1,6 @@
 ---
 title: Cursos de QGIS e R
 feature_text: |
-  # Geosaber
-  10 anos ministrando Cursos de SIG livres, presenciais on site e in company
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/capa_geosaber.jpg"
 excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas geotecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
