@@ -4,7 +4,7 @@ category: General
 feature_image: "https://picsum.photos/5032/2920?image=976"
 tag: shapefile, GeoJSON, CSV, Vetor, edição vetorial
 ---
-# Mapshaper - editar arquivos Shapefile, GeoJSON, TopoJSON e CSV *online*
+# Mapshaper - edição de arquivos Shapefile, GeoJSON, TopoJSON e CSV *online*
 O Mapshaper é um *software* para edição de **Shapefile, GeoJSON, TopoJSON, CSV** e vários outros formatos de dados, escrito em *JavaScript*.
 
 A UI da Web do [Mapshaper](http://www.mapshaper.org) suporta simplificação interativa, edição de dados de atributo e execução de comandos em um console integrado.
