@@ -36,7 +36,7 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: true
-    description: "https://geosaber.blogspot.com" # The post list page content
+    description: https://geosaber.blogspot.com # The post list page content
     feature_text: |
       Publicações
     feature_image: "https://unsplash.it/1300/400?image=1067"
