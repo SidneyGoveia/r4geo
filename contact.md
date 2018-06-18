@@ -8,7 +8,7 @@ sitemap: false
 - ***contato***: geosaber@gmail.com
 - ***Telegram***: https://t.me/Geosaber
 
-- *Sidney Goveia* - Especialista SIG e Instrutor de QGIS
+#### *Sidney Schaberle Goveia* - Especialista SIG e Instrutor de QGIS
 - ***e-mail***: sidney.goveia@audoc.com.br
 - ***whatsapp***: (11)982-331-208
 
