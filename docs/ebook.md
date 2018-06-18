@@ -134,13 +134,13 @@ Configurando a Escala:
 
 ### 5\. Referências
 
--[Noções de Cartografia](http://www.ibge.gov.br/home/geociencias/cartografia/manual_nocoes/elementos_representacao.html)
--[http://www.concar.ibge.gov.br/detalheDocumentos.aspx?cod=8](http://www.concar.ibge.gov.br/detalheDocumentos.aspx?cod=8)
--[http://www.gitta.info/TerrainAnalyi/en/html/index.html](http://www.gitta.info/TerrainAnalyi/en/html/index.html)
--[http://www2.jpl.nasa.gov/srtm/SRTM_D31639.pdf](http://www2.jpl.nasa.gov/srtm/SRTM_D31639.pdf)
--[http://landsat.usgs.gov/documents/Landsat8DataUsersHandbook.pdf](http://landsat.usgs.gov/documents/Landsat8DataUsersHandbook.pdf)
--[Remote Sensing Methods](http://wiki.landscapetoolbox.org/doku.php/remote_sensing_methods:home)
--[HTML to Markdown](http://domchristie.github.io/turndown)
+- [Noções de Cartografia](http://www.ibge.gov.br/home/geociencias/cartografia/manual_nocoes/elementos_representacao.html)
+- [http://www.concar.ibge.gov.br/detalheDocumentos.aspx?cod=8](http://www.concar.ibge.gov.br/detalheDocumentos.aspx?cod=8)
+- [http://www.gitta.info/TerrainAnalyi/en/html/index.html](http://www.gitta.info/TerrainAnalyi/en/html/index.html)
+- [http://www2.jpl.nasa.gov/srtm/SRTM_D31639.pdf](http://www2.jpl.nasa.gov/srtm/SRTM_D31639.pdf)
+- [http://landsat.usgs.gov/documents/Landsat8DataUsersHandbook.pdf](http://landsat.usgs.gov/documents/Landsat8DataUsersHandbook.pdf)
+- [Remote Sensing Methods](http://wiki.landscapetoolbox.org/doku.php/remote_sensing_methods:home)
+- [HTML to Markdown](http://domchristie.github.io/turndown)
 
 ### [![Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://sites.google.com/site/geosaber/_/rsrc/1467172203291/Tutoriais/mapastematicosnoqgis/Creative-Commons_XS1-300x105.jpg)](http://creativecommons.org/licenses/by-nc-nd/4.0)
 
