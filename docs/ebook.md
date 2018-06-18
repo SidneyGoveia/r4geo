@@ -1,19 +1,30 @@
-### Guia de Elaboração de Mapas Temáticos no QGIS 2.8 Wien
+## Guia de Elaboração de Mapas Temáticos no QGIS 2.8 Wien
 
-Versão completa do Tutorial em PDF (25/08/2015): \[download id="5820"\] Este é um guia rápido de como montar um Mapa Temático no QGIS usando Dados Públicos.
+Versão completa do Tutorial em PDF (25/08/2015): [download id="5820"]
+
+Este é um guia rápido de como montar um Mapa Temático no QGIS usando Dados Públicos.
 
 ### 1\. Início
 
-Esse Mapa foi criado usando o QGIS 2.8.3 Wien 64 bits - LTR (versão de longa duração) no Windows 10 Professional. ![](https://sites.google.com/site/geosaber/_/rsrc/1467172203290/Tutoriais/mapastematicosnoqgis/Bauru_100mil.png) Primeiro algumas recomendações básicas de trabalho:
+Esse Mapa foi criado usando o QGIS 2.8.3 Wien 64 bits - LTR (versão de longa duração) no Windows 10 Professional.
+![Bauru 100mil](https://sites.google.com/site/geosaber/_/rsrc/1467172203290/Tutoriais/mapastematicosnoqgis/Bauru_100mil.png)
+
+Primeiro algumas recomendações básicas de trabalho:
 
 -   O nome de usuário do Windows não pode conter acentuações e evite espaços entre palavras;
 -   Não use a pasta 'Desktop' no Windows, porque sobrecarrega o Sistema (tudo que está em seu desktop é carregado para a memória);
--   Não use acentuação em nomes de Pastas e evite caminhos muito longos (endereços de pastas).
+-   Não use acentuação em nomes de Pastas e evite caminhos muito longos (endereços de pastas/subpastas);
 -   Organize seus arquivos numa Pasta de Trabalho (*Workspace*) e armazene Imagens multibanda em pastas (facilita para fazer empilhamento das bandas e mosaicos das cenas).
 
 ### 2\. Camada Vetorial
 
-Primeiro vamos baixar a Carta Topográfica da Folha Bauru 1:50.000 no site do IBGE (tudo deve começar com uma boa base cartográfica). [![IBGE](https://sites.google.com/site/geosaber/_/rsrc/1467172203291/Tutoriais/mapastematicosnoqgis/IBGE.png)](http://downloads.ibge.gov.br/downloads_geociencias.htm) No caso de não existir o arquivo DOC com a descrição dos dados (e principalmente o Datum da Carta), você pode baixar a Carta escaneada no site: [http://biblioteca.ibge.gov.br/visualizacao/mapas/GEBIS%20-%20RJ/SF-22-Z-B-I-4.jpg](http://biblioteca.ibge.gov.br/visualizacao/mapas/GEBIS%20-%20RJ/SF-22-Z-B-I-4.jpg) Agora, de posse dos Vetores e das informações do Sistema de Referência Espacial (SRC) onde temos SF.22 é de UTM zona 22S e no selo da Carta encontramos o Datum Córrego Alegre referente à essa Carta. Também devemos notar que as Unidades estão em Quilômetros (Km), por isso será necessário criarmos um SRC Personalizado para poder adicionar esses Vetores no QGIS.
+Primeiro vamos baixar a Carta Topográfica da Folha Bauru 1:50.000 no site do IBGE (tudo deve começar com uma boa base cartográfica).
+[![IBGE](https://sites.google.com/site/geosaber/_/rsrc/1467172203291/Tutoriais/mapastematicosnoqgis/IBGE.png)](http://downloads.ibge.gov.br/downloads_geociencias.htm)
+
+No caso de não existir o arquivo .DOC com a descrição dos dados (e principalmente o Datum da Carta), você pode baixar a Carta escaneada no site:
+[SF-22-Z-B-I-4](http://biblioteca.ibge.gov.br/visualizacao/mapas/GEBIS%20-%20RJ/SF-22-Z-B-I-4.jpg)
+
+Agora, de posse dos Vetores e das informações do Sistema de Referência Espacial (SRC) onde temos SF.22 é de UTM zona 22S e no selo da Carta encontramos o Datum Córrego Alegre referente à essa Carta. Também devemos notar que as Unidades estão em Quilômetros (Km), por isso será necessário criarmos um SRC Personalizado para poder adicionar esses Vetores no QGIS.
 
 [![QGIS](https://sites.google.com/site/geosaber/_/rsrc/1467172203291/Tutoriais/mapastematicosnoqgis/Novo_SRC.png)](http://qgis.org/pt_BR/docs/index.html)
 
@@ -21,7 +32,9 @@ Adicionar Camada Vetorial (mude o tipo de arquivo para DGN - do CAD *Microstatio
 
 [![QGIS](https://sites.google.com/site/geosaber/_/rsrc/1467172203291/Tutoriais/mapastematicosnoqgis/tipo%20geometria.png)](http://qgis.org/pt_BR/docs/index.html)
 
-O IBGE separa os Vetores por temas: Hidrografia (rios = linhas e reservatórios = polígonos); Hipsometria (Curvas de Nível = linhas e Pontos Cotados = pontos); Sistema Viário (rodovias e ferrovias = linhas, nesse caso a distinção é feita pelo atributo na coluna Level). Ao Adicionar, o QGIS pede o SRC e você deve usar o Novo SRC que foi criado especialmente para esses arquivos DGN (coordenadas planas cartesianas e unidades em quilômetros). Outra forma de atribuir um SRC, se a Camada já foi Adicionada é clicar com o botão direita nela e usar a opção Definir o SRC da Camada (igual ao *Define Projection* no ArcGIS...). O QGIS só reconhece / trabalha com Geometrias (Pontos, Linhas e Polígonos), não reconhecendo o tipo *Annotation* (Texto) dos CADs. Para contornar isso, ele cria Pontos onde os Textos eram ancorados e armazena o texto na Tabela de Atributos (que podem ser exibidos posteriormente como Rótulos). Infelizmente, muitos textos são trazidos de forma desmembrada por letra, o que torna inútil exportar esses Pontos para *Shapefile* (arquivo vetorial padrão [OpenGIS](http://www.opengeospatial.org/)). Para exportar as Camadas para outros Formatos (SHP, KML, DXF, etc.) ou mudar o Sistema de Referência Espacial (Transformação de Sistema de Referência Espacial) é só clicar com o botão direito do mouse em cima do nome da Camada e escolher a opção Salvar Como...
+O IBGE separa os Vetores por temas: Hidrografia (rios = linhas e reservatórios = polígonos); Hipsometria (Curvas de Nível = linhas e Pontos Cotados = pontos); Sistema Viário (rodovias e ferrovias = linhas, nesse caso a distinção é feita pelo atributo na coluna Level).
+
+Ao Adicionar, o QGIS pede o SRC e você deve usar o Novo SRC que foi criado especialmente para esses arquivos DGN (coordenadas planas cartesianas e unidades em quilômetros). Outra forma de atribuir um SRC, se a Camada já foi Adicionada é clicar com o botão direita nela e usar a opção Definir o SRC da Camada (igual ao *Define Projection* no ArcGIS...). O QGIS só reconhece / trabalha com Geometrias (Pontos, Linhas e Polígonos), não reconhecendo o tipo *Annotation* (Texto) dos CADs. Para contornar isso, ele cria Pontos onde os Textos eram ancorados e armazena o texto na Tabela de Atributos (que podem ser exibidos posteriormente como Rótulos). Infelizmente, muitos textos são trazidos de forma desmembrada por letra, o que torna inútil exportar esses Pontos para *Shapefile* (arquivo vetorial padrão [OpenGIS](http://www.opengeospatial.org/)). Para exportar as Camadas para outros Formatos (SHP, KML, DXF, etc.) ou mudar o Sistema de Referência Espacial (Transformação de Sistema de Referência Espacial) é só clicar com o botão direito do mouse em cima do nome da Camada e escolher a opção Salvar Como...
 
 [![QGIS](https://sites.google.com/site/geosaber/_/rsrc/1467172203291/Tutoriais/mapastematicosnoqgis/Salvar%20Vetor.png)](http://qgis.org/pt_BR/docs/index.html)
 
@@ -121,7 +134,13 @@ Configurando a Escala:
 
 ### 5\. Referências
 
-\*\*\*[http://www.ibge.gov.br/home/geociencias/cartografia/manual\_nocoes/elementos\_representacao.html](http://www.ibge.gov.br/home/geociencias/cartografia/manual_nocoes/elementos_representacao.html) **[http://www.concar.ibge.gov.br/detalheDocumentos.aspx?cod=8](http://www.concar.ibge.gov.br/detalheDocumentos.aspx?cod=8) [http://www.gitta.info/TerrainAnalyi/en/html/index.html](http://www.gitta.info/TerrainAnalyi/en/html/index.html) *[http://www2.jpl.nasa.gov/srtm/SRTM_D31639.pdf](http://www2.jpl.nasa.gov/srtm/SRTM_D31639.pdf) [http://landsat.usgs.gov/documents/Landsat8DataUsersHandbook.pdf](http://landsat.usgs.gov/documents/Landsat8DataUsersHandbook.pdf) [Remote Sensing Methods](http://wiki.landscapetoolbox.org/doku.php/remote_sensing_methods:home)
+-[Noções de Cartografia](http://www.ibge.gov.br/home/geociencias/cartografia/manual_nocoes/elementos_representacao.html)
+-[http://www.concar.ibge.gov.br/detalheDocumentos.aspx?cod=8](http://www.concar.ibge.gov.br/detalheDocumentos.aspx?cod=8)
+-[http://www.gitta.info/TerrainAnalyi/en/html/index.html](http://www.gitta.info/TerrainAnalyi/en/html/index.html)
+-[http://www2.jpl.nasa.gov/srtm/SRTM_D31639.pdf](http://www2.jpl.nasa.gov/srtm/SRTM_D31639.pdf)
+-[http://landsat.usgs.gov/documents/Landsat8DataUsersHandbook.pdf](http://landsat.usgs.gov/documents/Landsat8DataUsersHandbook.pdf)
+-[Remote Sensing Methods](http://wiki.landscapetoolbox.org/doku.php/remote_sensing_methods:home)
+-[HTML to Markdown](http://domchristie.github.io/turndown)
 
 ### [![Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://sites.google.com/site/geosaber/_/rsrc/1467172203291/Tutoriais/mapastematicosnoqgis/Creative-Commons_XS1-300x105.jpg)](http://creativecommons.org/licenses/by-nc-nd/4.0)
 
