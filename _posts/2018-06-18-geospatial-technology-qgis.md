@@ -16,3 +16,6 @@ Curso online da GeoAcademy na plataforma Canvas:
 * MÓDULO 6 - Compreender a teledetecção (sensoriamento remoto) e a análises
 * MÓDULO 7 - Técnicas de análise geoespaciais básicas
 * Exame final (certificado de curso autenticado)
+
+## Referências
+- [SpatialQueryLab](http://spatialquerylab.com/foss4g-academy-curriculum)
