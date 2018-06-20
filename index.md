@@ -4,8 +4,8 @@ feature_text: |
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/capa_geosaber.jpg"
 excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas geotecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
-# Novidade: Cursos Online 2018 em nossa plataforma de EAD!
-Estamos preparando nossos cursos para serem oferecidos na paltaforma de Ensino A Distância que vamos lançar muito em breve.
+# Novidade: Cursos Online 2018!
+Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A Distância (EAD) que vamos lançar muito em breve.
 
 ## Cursos presenciais *in house e in company*
   - Geoprocessamento com **[QGIS](https://qgis.org) e [GRASS GIS](https://grass.osgeo.org)**
