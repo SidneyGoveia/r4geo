@@ -19,3 +19,5 @@ Curso online da GeoAcademy na plataforma Canvas:
 
 ## Referências
 - [SpatialQueryLab](http://spatialquerylab.com/foss4g-academy-curriculum)
+- [CN-1681-INTRO-QGIS](https://learn.canvas.net/courses/464)
+- [GST-101](https://canvas.instructure.com/courses/941260)
