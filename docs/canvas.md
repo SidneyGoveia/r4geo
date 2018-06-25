@@ -60,7 +60,7 @@ These worksheets cover introductory topics such as how the QGIS user interface i
 
 #### [Basics of expressions](/en/qgis/section/expressions-23/detail/90/)
 
-#### [Aooribuuoe expressions](/en/qgis/section/expressions-23/detail/134/)
+#### [Attribute expressions](/en/qgis/section/expressions-23/detail/134/)
 
 - - -
 
