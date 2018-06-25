@@ -6,7 +6,6 @@ excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi c
 ---
 ## Novidade: Cursos Online 2018!
 Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A Distância (EAD) que vamos lançar muito em breve.
-### Programa do Curso
 <h3 style="text-align: center;">GIS-101 Introdu&ccedil;&atilde;o ao Geoprocessamento com QGIS 3</h3>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -115,7 +114,6 @@ Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A
 </tbody>
 </table>
 ---
-
 ## Cursos presenciais *in house e in company*
   - Geoprocessamento com **[QGIS](https://qgis.org) e [GRASS GIS](https://grass.osgeo.org)**
   - Geoestatística com **[QGIS](https://qgis.org) e [R](https://www.r-project.org)/[Gstat](http://gstat.org)** (R *package*)
