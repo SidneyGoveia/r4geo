@@ -7,7 +7,9 @@ excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi c
 ## Novidade: Cursos Online 2018!
 Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A Distância (EAD) que vamos lançar muito em breve.
 - [GIS-101](https://github.com/geosaber/r4geo/blob/gh-pages/docs/gis-101.md)
-- [GIS-101]({{ site.baseurl }}{% link docs/gis-101.md %})
+- [GIS-101]({% link /docs/gis-101.md %})
+
+{{ site.baseurl }}{% link docs/gis-101.md %}
 
 ---
 ## Cursos presenciais *in house e in company*
