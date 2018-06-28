@@ -12,8 +12,6 @@ As aulas no Curso Básico (Condensado) são voltadas ao Mapeamento Temático, ab
 
 > Para fazer o Curso Avançado é pré-requisito o conhecimento prévio do conteúdo do Curso Básico.
 
-/- {% include button.html text="Inscrição" icon="plex" link="https://sites.google.com/view/geosaber" color="#FF4500" %} -\
-
 ### Ementa do Curso Básico (NB01)
 
 1. Introdução ao QGIS;
