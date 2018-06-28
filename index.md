@@ -16,7 +16,7 @@ Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A
   - Geoestatística com **[QGIS](https://qgis.org) e [R](https://www.r-project.org)/[Gstat](http://gstat.org)** (R *package*)
   - Cadastro Técnico Saneamento/Municipal com **[QGIS](https://qgis.org) e [PostGIS](http://postgis.org)**
 
-{% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Google Sites" link="https://sites.google.com/site/geosaber" color="#F4A460" %} {% include button.html text="Blogger" icon="twitter" link="https://geosaber.blogspot.com" color="#D2691E" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Shinyapps" link="https://geostatistics.shinyapps.io/geoestistics_v2" color="#00FFFF" %}
+{% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Google Sites" link="https://sites.google.com/site/geosaber" color="#F4A460" %} {% include button.html text="Blogger" link="https://geosaber.blogspot.com" color="#D2691E" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Shinyapps" link="https://geostatistics.shinyapps.io/geoestistics_v2" color="#00FFFF" %}
 
 ---
 ## Sobre
