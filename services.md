@@ -410,4 +410,4 @@ tagline: Consultoria
 </tbody>
 </table>
 
-[Ir para página inicial]({{ site.url }}{{ site.baseurl }})
+[Voltar para o Início]({{ site.url }}{{ site.baseurl }})
