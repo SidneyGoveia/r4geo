@@ -6,7 +6,7 @@ excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi c
 ---
 ## Novidade: Cursos Online 2018!
 Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A Distância (EAD) que vamos lançar muito em breve.
-- GIS-101 Introdução ao Geoprocessamento com QGIS 3
+- [GIS-101 Introdução ao Geoprocessamento com QGIS 3]({{ site.baseurl }}{% link docs/gis-101.html %})
 - ***GIS-102 Modelagem de Sistemas de Cadastro de Redes de Água com QGIS e PostGIS***
 - ***GIS-103 Geoestatística no QGIS com Rscripts (R/Gstat)***
 
