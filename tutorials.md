@@ -6,8 +6,8 @@ feature_text: |
 feature_image: "https://unsplash.it/200/300/?image=1036"
 excerpt: "Cursos de QGIS e SIG livres"
 ---
-### Apostila Mapas Temáticos no QGIS 2.8 - [Baixar](https://github.com/geosaber/r4geo/raw/gh-pages/docs/Mapas-Tematicos-QGIS-2.8.pdf)
-![Mapas Temáticos no QGIS 2.8](https://github.com/geosaber/r4geo/raw/gh-pages/img/Capa2.png)
+### Apostila Mapas Temáticos no QGIS 2.8
+- [Baixar]({{ site.baseurl }}{% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
 
 ### [Tutoriais](https://sites.google.com/site/geosaber)
 - [Alternativa ao OpenLayers no QGIS](https://sites.google.com/site/geosaber/Tutoriais/alternativaaoopenlayersnoqgis)
