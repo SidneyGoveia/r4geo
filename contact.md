@@ -1,5 +1,11 @@
 ---
+layout: page
 title: Contato
+feature_text: |
+  Cursos de QGIS
+feature_image: "https://picsum.photos/5032/2920?image=976"
+excerpt: "Treinamentos em QGIS e Consultoria com SIG livre"
+tagline: Consultoria
 indexing: false
 sitemap: false
 ---
@@ -13,7 +19,7 @@ sitemap: false
 - ***whatsapp***: (11)982-331-208
 
 ---
-![Audoc.con](https://github.com/geosaber/r4geo/raw/gh-pages/img/logo_audoc.png)
+![Audoc.con]({{ site.baseurl }}{% link /img/logo_audoc.png %})
 ## Audoc.con Assessoria e Consultoria Ltda.
 
 **Site:** <http://www.audoc.com.br>
