@@ -7,7 +7,7 @@ excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi c
 ## Novidade: Cursos Online 2018!
 Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A Distância (EAD) que vamos lançar muito em breve.
 - ***[GIS-101 Introdução ao Geoprocessamento com QGIS 3]({{ site.baseurl }}{% link docs/gis-101.md %})***
-- ***GIS-102 Modelagem de Sistemas de Cadastro de Redes de Água com QGIS e PostGIS***
+- ***GIS-102 Modelagem de Sistemas para Cadastro de Redes de Água - QGIS/PostGIS***
 - ***GIS-103 Geoestatística no QGIS com Rscripts (R/Gstat)***
 
 ---
@@ -16,7 +16,7 @@ Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A
   - Geoestatística com **[QGIS](https://qgis.org) e [R](https://www.r-project.org)/[Gstat](http://gstat.org)** (R *package*)
   - Cadastro Técnico Saneamento/Municipal com **[QGIS](https://qgis.org) e [PostGIS](http://postgis.org)**
 
-{% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Shinyapps" link="https://geostatistics.shinyapps.io/geoestistics_v2" color="#00FFFF" %}
+{% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Shinyapps" link="https://geostatistics.shinyapps.io/geoestistics_v2" color="#00FFFF" %} {% include button.html text="Google Sites" link="https://sites.google.com/site/geosaber" color="#FF4500" %} {% include button.html text="Blogger" link="https://geosaber.blogspot.com" color="#98FB98" %}
 
 ---
 ## Sobre
