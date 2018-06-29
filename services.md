@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Cursos
+title: Serviços
 feature_text: |
   Cursos de QGIS
 feature_image: "https://picsum.photos/5032/2920?image=976"
 excerpt: "Treinamentos em QGIS e Consultoria com SIG livre"
 tagline: Consultoria
 ---
-<h4><span style="color: #3366ff;">Consultoria em Geoprocessamento e Cursos ministrados <em>in Company</em></span></h4>
+## Consultoria e Treinamentos em Geoprocessamento (desde 2004)
 <table style="height: 5012px;" width="880">
 <tbody>
 <tr>
