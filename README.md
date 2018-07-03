@@ -14,4 +14,4 @@ Desenvolvimento de ***_Rscripts{QGIS} e Shinyapps_***
 
 ![](https://github.com/geosaber/r4geo/raw/gh-pages/img/CC-BY-NC-ND.200px.png)
 
-[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR)
+[Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR)
