@@ -30,7 +30,7 @@ excerpt: "Cursos de QGIS e SIG livres"
 ### Materiais de Estudo
 [Livros/Apostilas](https://sites.google.com/site/geosaber/Livros)
 
-<h3>Referências usadas no Curso de Geoprocessamento</h3>
+<h4>Referências usadas no Curso de Geoprocessamento</h4>
 <ul>
  	<li><a href="https://drive.google.com/open?id=0B7o53zMePi1MZVZ0YXBqMDNmMVk">Mapas Temáticos no QGIS</a> - Guia de elaboração de Mapas Temáticos no QGIS 2.8 LTR. Geoasaber / S. S. Goveia, 2015.</li>
 </ul>
@@ -100,7 +100,7 @@ excerpt: "Cursos de QGIS e SIG livres"
 <ul>
  	<li><a href="http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx">GeoSampa</a> - Mapa Digital da Cidade de São Paulo</li>
 </ul>
-<h3>Cursos de SIG livre em Universidades</h3>
+<h4>Cursos de SIG livre em Universidades</h4>
 University courses using OSGeo related material
 <ul>
  	<li><a href="http://wiki.osgeo.org/wiki/University_courses_using_OSGeo_related_material">http://wiki.osgeo.org/wiki/University_courses_using_OSGeo_related_material</a></li>
