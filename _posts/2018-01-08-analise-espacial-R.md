@@ -7,6 +7,7 @@ feature_image: "https://unsplash.it/1200/400?image=200"
 # Análise de Dados Espaciais no R
 
 Para aqueles que vão começar a usar o R para análise de dados espacializados, este é um pequeno guia de referência.
+[![Applied Spatial Data Analysis with R]({% link /img/applied-spatial.png %})](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7618-4.pdf)
 
 ### Pacotes Espaciais do R
 - **[spatstat](http://spatstat.org)** - *analysing spatial point patterns*
