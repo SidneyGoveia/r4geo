@@ -29,11 +29,15 @@ Spatial data with the sp and sf packages*
 - **[rspatial](https://cengel.github.io/rspatial)** - *Introduction to Mapping and Spatial Analysis with R*
 - **[Geocomputation with R](http://geocompr.robinlovelace.net)** - *Geocomputation with R*
 - **[GeoMLA](https://github.com/thengl/GeoMLA)** - *RFsp — Random Forest for spatial data (R tutorial)*
+- **[Geospatial analysis in R](http://geog.uoregon.edu/bartlein/courses/geog495/lec07.html)** - GEOG495 - University Oregon.
+- **[Geospatial Analysis in R](http://data-analytics.net/cep/Schedule_files/geospatial.html)** - *Introduction: The power to “roll your own” maps by Major David Beskow*
 
 ### e-Books
 - **[Predictive Soil Mapping with R](https://envirometrix.github.io/PredictiveSoilMapping/)** - *Predictive Soil Mapping for advanced R users*
 - **[A Practical Guide to Geostatistical Mapping](https://library.wur.nl/isric/fulltext/isricu_i27272_001.pdf)** - *2nd Edition, 2009.*
 - **[A Practical Guide to Geostatistical Mapping of Environmental Variables](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/practical-guide-geostatistical-mapping-environmental-variables)** - 2007.
+- **[Applied Spatial Data Analysis with R](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7618-4.pdf)** - 2nd Edition.
+- **[An Introduction to Spatial Data Analysis and Visualisation in R](http://www.spatialanalysisonline.com/An%20Introduction%20to%20Spatial%20Data%20Analysis%20in%20R.pdf)**
 
 ### Workshops
 - **[UseR2017](https://edzer.github.io/UseR2017)** - *Spatial Data in R: New Directions*
@@ -41,3 +45,5 @@ Spatial data with the sp and sf packages*
 ### Blogs
 - **[r-spatial](http://r-spatial.org)**
 - **[UCR](http://uc-r.github.io)**
+- **[Spatial.ly](http://spatial.ly/r)** - *Maps and Data Visualisations with R*
+- **[R Spatial Analysis Notes](https://gist.github.com/sboysel/fc661f26ef51eae6377b)**
