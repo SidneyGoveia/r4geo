@@ -44,7 +44,10 @@ collections:
 # 5. Jekyll collections settings
 defaults:
   -
+    scope:
+      path: ""
     values:
+      image: "/assets/default-social-image.png" # Default image for sharing
 
 # 6. Site settings
 encoding: utf-8 # Make sure the encoding is right
