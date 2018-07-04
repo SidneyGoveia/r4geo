@@ -14,6 +14,7 @@ Para aqueles que vão começar a usar o R para análise de dados espacializados,
 - Gstat
 - rgdal
 - georob
+- [sf](https://r-spatial.github.io/sf) - Simple Features for R
 
 ### Tutoriais
 - **[R Spatial](http://rspatial.org)** - *Spatial Data Analysis and Modeling with R*
