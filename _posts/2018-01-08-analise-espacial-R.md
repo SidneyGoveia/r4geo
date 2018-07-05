@@ -53,7 +53,7 @@ Spatial data with the sp and sf packages*
 
 ---
 
-## Spatial Analysis - Mauricio Vancine
+## Spatial Analysis - [Maurício Vancine](https://sites.google.com/view/mauriciovancine/home)
 - **[R-Spatial-Analysis](https://github.com/mauriciovancine/R-Spatial-Analysis)** - Mauricio Vancine
 
 ### Books
