@@ -49,4 +49,7 @@ Spatial data with the sp and sf packages*
 - **[r-spatial](http://r-spatial.org)**
 - **[UCR](http://uc-r.github.io)**
 - **[Spatial.ly](http://spatial.ly/r)** - *Maps and Data Visualisations with R*
-- **[R Spatial Analysis Notes](https://gist.github.com/sboysel/fc661f26ef51eae6377b)**
+
+### Gist/Github
+- **[R Spatial Analysis Notes](https://gist.github.com/sboysel/fc661f26ef51eae6377b)** - Sam Boysel
+- **[R-Spatial-Analysis](https://github.com/mauriciovancine/R-Spatial-Analysis)** - Mauricio Vancine
