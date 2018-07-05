@@ -52,8 +52,8 @@ Spatial data with the sp and sf packages*
 - **[R Spatial Analysis Notes](https://gist.github.com/sboysel/fc661f26ef51eae6377b)** - Sam Boysel
 
 ---
-
-## Spatial Analysis - [Maurício Vancine](https://sites.google.com/view/mauriciovancine/home)/Ecologia-UNESP
+# Spatial Analysis 
+## [Maurício Vancine](https://sites.google.com/view/mauriciovancine/home) - Ecologia/UNESP
 ### Books
 - An Introduction to R for Spatial Analysis and Mapping. (Brunsdon & Comber 2015)
 - Applied Spatial Data Analysis with R. (Bivant et al. 2013)
