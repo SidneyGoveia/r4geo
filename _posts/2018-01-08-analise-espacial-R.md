@@ -7,6 +7,7 @@ feature_image: "https://unsplash.it/1200/400?image=200"
 # Análise de Dados Espaciais no R
 
 Para aqueles que vão começar a usar o R para análise de dados espacializados, este é um pequeno guia de referência.
+
 [![Applied Spatial Data Analysis with R]({% link /img/applied-spatial.png %})](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7618-4.pdf)
 
 ### Pacotes Espaciais do R
@@ -37,7 +38,8 @@ Spatial data with the sp and sf packages*
 - **[Predictive Soil Mapping with R](https://envirometrix.github.io/PredictiveSoilMapping/)** - *Predictive Soil Mapping for advanced R users*
 - **[A Practical Guide to Geostatistical Mapping](https://library.wur.nl/isric/fulltext/isricu_i27272_001.pdf)** - *2nd Edition, 2009.*
 - **[A Practical Guide to Geostatistical Mapping of Environmental Variables](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/practical-guide-geostatistical-mapping-environmental-variables)** - 2007.
-- **[Applied Spatial Data Analysis with R](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7618-4.pdf)** - 2nd Edition.
+- **[Applied Spatial Data Analysis with R](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7618-4.pdf)** - 2nd Edition {somente disponivel por acesso institucional - universidades públicas}
+- **[Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf)** - 1nd Edition.
 - **[An Introduction to Spatial Data Analysis and Visualisation in R](http://www.spatialanalysisonline.com/An%20Introduction%20to%20Spatial%20Data%20Analysis%20in%20R.pdf)**
 
 ### Workshops
