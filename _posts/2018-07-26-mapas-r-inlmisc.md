@@ -17,6 +17,6 @@ tag: R, mapas, leaflet
 ## USGS R Training Curriculum
 Esta é uma coleção do currículo de treinamento do USGS R e materiais que correspondem a workshops específicos. Os cursos atuais são Introdução ao R, Introdução aos Pacotes do USGS R e Desenvolvimento do Pacote R.
 
-- [![USGS-R Training](https://github.com/geosaber/r4geo/raw/gh-pages/img/r-logo.png)](https://owi.usgs.gov/R/training-curriculum)
+[![USGS-R Training](https://github.com/geosaber/r4geo/raw/gh-pages/img/r-logo.png)](https://owi.usgs.gov/R/training-curriculum)
 
 O ***[USGS-R](https://owi.usgs.gov/R)*** é uma comunidade de suporte para usuários da linguagem de programação científica R. Os recursos do USGS-R incluem materiais de treinamento R, ferramentas R para recuperação e análise de dados do USGS e suporte para um grupo crescente de desenvolvedores do USGS-R.
