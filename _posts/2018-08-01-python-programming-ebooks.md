@@ -21,4 +21,4 @@ tag: Python, programming, hidrology
 >Esses livros estão disponíveis em vários formatos eletrônicos; alguns também estão à venda em cópia impressa.
 
 ## Referências
-- [Books|Allen Downey](http://www.allendowney.com/wp/books)
+- [Books - Allen Downey](http://www.allendowney.com/wp/books)
