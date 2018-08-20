@@ -9,7 +9,7 @@ Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A
 - **[GIS-101 Introdução ao Geoprocessamento com QGIS 3]({{ site.baseurl }}{% link docs/gis-101.md %})**
 - **GIS-102 Modelagem de Sistemas para Cadastro de Redes de Água - QGIS/PostGIS**
 - **GIS-103 Geoestatística no QGIS com Rscripts (R/Gstat)**
-
+---
 {% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Blogger" icon="Blogger" link="https://geosaber.blogspot.com" color="#F4A460" %} {% include button.html text="Google Sites" icon="Google" link="https://sites.google.com/site/geosaber" color="#FF4500" %}
 ---
 ## Cursos presenciais *in house e in company*
