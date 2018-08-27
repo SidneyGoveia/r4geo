@@ -10,13 +10,11 @@ indexing: false
 sitemap: false
 ---
 
-### Fale conosco:
-- ***contato***: <geosaber@gmail.com>
-- ***Telegram***: <https://t.me/Geosaber>
-
-#### *Sidney Schaberle Goveia* - Especialista SIG e Instrutor de QGIS
+## Fale conosco:
+> *Sidney Schaberle Goveia* - Especialista SIG e Instrutor de QGIS
 - ***e-mail***: <sidney.goveia@audoc.com.br>
 - ***whatsapp***: (11)982-331-208
+- ***Telegram***: <https://t.me/Geosaber>
 
 ---
 ![Audoc.con]({{ site.baseurl }}{% link /img/logo_audoc.png %})
