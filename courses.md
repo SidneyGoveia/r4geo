@@ -6,13 +6,6 @@ feature_text: |
 feature_image: "https://picsum.photos/5032/2920?image=976"
 excerpt: "Cursos de QGIS e SIG livres"
 ---
-## Novidade: Cursos Online 2018!
-Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A Distância (EAD) que vamos lançar muito em breve.
-- **[GIS-101 Introdução ao Geoprocessamento com QGIS 3]({{ site.baseurl }}{% link docs/gis-101.md %})**
-- **GIS-102 Modelagem de Sistemas para Cadastro de Redes de Água - QGIS/PostGIS**
-- **GIS-103 Geoestatística no QGIS com Rscripts (R/Gstat)**
-
----
 ## Curso de QGIS
 As aulas no Curso Básico (Condensado) são voltadas ao Mapeamento Temático, abrangendo ferramentas para criação e edição de dados Vetoriais e Raster (Imagens) e no Curso Avançado (Intensivo) é abordado a Análise Espacial, de Terreno, Delimitação de Bacias Hidrográficas, Interpolação de Dados, Classificação Automática de Imagens (Supervisionada e Não-Supervisionada), Estatística Espacial e Geoestatística.
 
