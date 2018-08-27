@@ -12,6 +12,36 @@ tagline: Consultoria
 <table style="height: 5012px;" width="90%">
 <tbody>
 <tr>
+<td colspan="2" width="13%"><strong>2018</strong></td>
+<td colspan="2" width="64%"><strong>Monitora.info</strong></td>
+<td colspan="2" width="21%"><strong>Barueri - SP</strong></td>
+</tr>
+<tr>
+<td colspan="6" width="99%">Projeto: Desenvolvimento Sistema de Cadastro de Redes de Água e Esgoto com QGIS e PostGIS</td>
+</tr>
+<tr>
+<td style="text-align: left;" colspan="6" width="99%">
+<ul>
+ 	<li>Consultoria no desenvolvimento do Sistema de Cadastro de Redes de Águas e Esgoto para o Município de Colatina - ES</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="13%"><strong>2017</strong></td>
+<td colspan="2" width="64%"><strong>Centro Internacional de Hidroinformática (CIH) - Parque Tecnológico Itaipú</strong></td>
+<td colspan="2" width="21%"><strong>Foz do Iguaçú - PR</strong></td>
+</tr>
+<tr>
+<td colspan="6" width="99%">Projeto: Treinamento Avançado em Geoestatística com o QGIS e R</td>
+</tr>
+<tr>
+<td style="text-align: left;" colspan="6" width="99%">
+<ul>
+ 	<li>Consultoria para o Desenvolvimento de Rotinas (Rscripts) de Geoestatística no QGIS</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td colspan="2" width="13%"><strong>2017</strong></td>
 <td colspan="2" width="64%"><strong>Companhia de Saneamento Básico Águas de Joinville</strong></td>
 <td colspan="2" width="21%"><strong>Joinville - SC</strong></td>
