@@ -12,6 +12,21 @@ tagline: Consultoria
 <table style="height: 5012px;" width="90%">
 <tbody>
 <tr>
+<td colspan="2" width="13%"><strong>2017</strong></td>
+<td colspan="2" width="64%"><strong>Companhia de Saneamento Básico Águas de Joinville</strong></td>
+<td colspan="2" width="21%"><strong>Joinville - SC</strong></td>
+</tr>
+<tr>
+<td colspan="6" width="99%">Projeto: Curso de Geoprocessamento Avançado com o QGIS e PostGIS</td>
+</tr>
+<tr>
+<td style="text-align: left;" colspan="6" width="99%">
+<ul>
+ 	<li>Capacitação dos técnicos em Sistemas de Informações Geográficas e Bancos de Dados Espaciais.</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td colspan="2" width="13%"><strong>2016</strong></td>
 <td colspan="2" width="64%"><strong>Banco de Brasília - BRB</strong></td>
 <td colspan="2" width="21%"><strong>Brasília - DF</strong></td>
