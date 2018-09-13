@@ -86,3 +86,5 @@ As aulas no Curso Básico (Condensado) são voltadas ao Mapeamento Temático, ab
 10. Extração de Rede de Drenagem e Delimitação Automática de Bacias Hidrográficas;
 
 11. Álgebra de Mapas e Análise de Multi-Critérios.
+
+[Ir para a página Inicial]({{ site.url }}{{ site.baseurl }})
