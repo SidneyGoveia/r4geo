@@ -11,9 +11,6 @@ excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi c
 
 {% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Blogger" icon="Blogger" link="https://geosaber.blogspot.com" color="#F4A460" %} {% include button.html text="Google Sites" icon="Google" link="https://sites.google.com/site/geosaber" color="#FF4500" %}
 
-## ~~Novidade: Cursos Online 2018!
-Estamos preparando nossos cursos para serem oferecidos na plataforma de Ensino A Distância (EAD) que vamos lançar muito em breve.
-
 ---
 ## Sobre
 ### Geosaber - 10 anos ministrando Cursos de SIG livres, presenciais on site e in company
