@@ -7,17 +7,17 @@ feature_image: "https://picsum.photos/5032/2920?image=976"
 excerpt: "Cursos de QGIS e SIG livres"
 ---
 ## Cursos Oferecidos
-**[GIS-101 Introdução ao Geoprocessamento com QGIS 3]({{ site.baseurl }}{% link docs/gis-101.md %})**
+### [GIS-101 Introdução ao Geoprocessamento com QGIS 3]({{ site.baseurl }}{% link docs/gis-101.md %})
  - **Duração**: 24 horas
  - **Valor**: ***R$600*** para Profissionais e ***R$500*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
  
-**[GIS-102 Geoestatística no QGIS com Rscripts (R/Gstat)]({{ site.baseurl }}{% link docs/gis-102.md %})**
+### [GIS-102 Geoestatística no QGIS com Rscripts (R/Gstat)]({{ site.baseurl }}{% link docs/gis-102.md %})
  - **Duração**: 16 horas
  - **Valor**: ***R$800*** para Profissionais e ***R$700*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
  
-**[GIS-103 Modelagem de Sistemas para Cadastro de Redes de Água - QGIS/PostGIS]({{ site.baseurl }}{% link docs/gis-103.md %})**
+### [GIS-103 Modelagem de Sistemas para Cadastro de Redes de Água - QGIS/PostGIS]({{ site.baseurl }}{% link docs/gis-103.md %})
  - **Duração**: 16 horas
  - **Valor**: ***R$600*** para Profissionais e ***R$500*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
