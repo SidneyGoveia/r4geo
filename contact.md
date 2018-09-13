@@ -42,4 +42,4 @@ sitemap: false
 - Especialização em Geoprocessamento Aplicado ao Planejamento e Gestão Socioambiental pelo UNICSUL.
 - ***Currículo Lattes***: <a href="http://lattes.cnpq.br/1697798807178318" rel="nofollow">http://lattes.cnpq.br/1697798807178318</a>
 
-[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
+[Ir para a página Inicial]({{ site.url }}{{ site.baseurl }})
