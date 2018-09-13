@@ -26,8 +26,8 @@ sitemap: false
 - **Tel:** (11) 5594-8092
 - **CNPJ** 04.040.661/0001-00
 
-## Colaboradores
-### Sidney Schaberle Goveia
+### Colaboradores
+#### Sidney Schaberle Goveia
 - Sócio-Consultor da Audoc.con Assessoria e Consultoria Ltda.
 - Especialista em Geoprocessamento e Sensoriamento Remoto.
 - Desde 1998 atuando em trabalhos e prestando assessoria com SIG livres.
@@ -35,7 +35,7 @@ sitemap: false
 - Colaborador do <a href="http://www.sigrb.com.br/" target="_blank" rel="nofollow noopener">SIG-RB</a> (2004-2010).
 - ***Currículo Lattes***: <a href="http://lattes.cnpq.br/2361170068800828" target="_blank" rel="nofollow noopener">http://lattes.cnpq.br/2361170068800828</a>
 
-### Luzia Monteiro Araújo Soares
+#### Luzia Monteiro Araújo Soares
 - Sócia Diretora da Audoc.con Assessoria e Consultoria Ltda.
 - Economista pela FACESP.
 - Especialização em Planejamento Energético pela UNICAMP.
