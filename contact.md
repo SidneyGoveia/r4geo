@@ -9,9 +9,12 @@ tagline: Consultoria
 indexing: false
 sitemap: false
 ---
+## Sobre
+**Geosaber** é um projeto iniciado em 2007 e mantido por Sidney Schaberle Goveia.
+- Especialista em SIG (1998) e Instrutor de QGIS (desde 2009)
 
 ## Fale conosco:
-> *Sidney Schaberle Goveia* - Especialista SIG e Instrutor de QGIS
+#### *Sidney Schaberle Goveia* 
 - ***e-mail***: <sidney.goveia@audoc.com.br>
 - ***Whatsapp***: (11) 982-331-208
 - ***Telegram***: <https://t.me/Geosaber>
@@ -25,3 +28,21 @@ sitemap: false
 **Tel:** (11) 5594-8092
 
 **CNPJ** 04.040.661/0001-00
+
+## Colaboradores
+### Sidney Schaberle Goveia
+- Sócio-Consultor da Audoc.con Assessoria e Consultoria Ltda.
+- Especialista em Geoprocessamento e Sensoriamento Remoto.
+- Desde 1998 atuando em trabalhos e prestando assessoria com SIG livres.
+- Instrutor de Cursos pela Audoc.con Assessoria e Consultoria desde 2008.
+- Colaborador do <a href="http://www.sigrb.com.br/" target="_blank" rel="nofollow noopener">SIG-RB</a>.
+***Currículo Lattes***: <a href="http://lattes.cnpq.br/2361170068800828" target="_blank" rel="nofollow noopener">http://lattes.cnpq.br/2361170068800828</a>
+
+### Luzia Monteiro Araújo Soares
+- Sócia Diretora da Audoc.con Assessoria e Consultoria Ltda.</span>
+- Economista pela FACESP.</span>
+- Especialização em Planejamento Energético pela UNICAMP.</span>
+- Especialização em Geoprocessamento Aplicado ao Planejamento e Gestão Socioambiental pelo UNICSUL.</span>
+***Currículo Lattes***: <a href="http://lattes.cnpq.br/1697798807178318" rel="nofollow">http://lattes.cnpq.br/1697798807178318</a>
+
+[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
