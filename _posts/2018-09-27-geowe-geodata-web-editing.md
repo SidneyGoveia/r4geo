@@ -27,9 +27,11 @@ Este projeto visa trazer a edição de dados espaciais para qualquer usuário, n
 - Armazenamento de dados no Github ou Google Drive
 - [Versão ao vivo](http://map.geowe.org)
 
+[![Dados](https://github.com/geosaber/r4geo/raw/gh-pages/img/GeoWE_dados.png)](http://www.geowe.org/index.php?id=caracteristicas)
+
 ***GeoWE (Web Mapping Editing)*** surge a partir da motivação de uma equipe de desenvolvedores ansiosos para crescer tecnologicamente, compartilhar conhecimentos e, ao mesmo tempo, oferecer ao mundo GIS uma nova alternativa para o desenvolvimento de aplicações Web orientadas para a edição de dados geográficos.
 
 ## Referências
 - [GeoWE](http://www.geowe.org)
-- (http://rltsistemas.blogspot.com/2016/12/montando-mi-sig-web-con-geowe.html)
-- (https://dondeycuanto.com/geowe-plataforma-sig-libre)
+- http://rltsistemas.blogspot.com/2016/12/montando-mi-sig-web-con-geowe.html
+- https://dondeycuanto.com/geowe-plataforma-sig-libre
