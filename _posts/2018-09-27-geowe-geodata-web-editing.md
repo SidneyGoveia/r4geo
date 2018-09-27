@@ -17,15 +17,15 @@ Este projeto visa trazer a edição de dados espaciais para qualquer usuário, n
 - Geolocation e suporte de geocodificação
 - Suporte de geoprocessamento
 - Compartilhamento de camada de Geodata via URL
-- Formatos suportados de Geodata Open: KML, GML, WKT e geojson
+- Formatos suportados de Open Geodata: KML, GML, WKT e GeoJSON
 - WMS e suporte WFS
 - Catálogo camada base raster: Google Maps, OSM, Bing, etc
-- Múltiplas opções de entrada e saída com transformação de projeção
+- Múltiplas opções de entrada e saída com Transformação de Projeção
 - Suporte a vários dispositivos
 - Suporte de estilo e personalização
 - Recursos de validação de geometria
 - Armazenamento de dados no Github ou Google Drive
-- [Versão ao vivo](http://map.geowe.org)
+- [Ver versão ao vivo](http://map.geowe.org)
 
 [![Dados](https://github.com/geosaber/r4geo/raw/gh-pages/img/GeoWE_dados.png)](http://www.geowe.org/index.php?id=caracteristicas)
 
@@ -33,5 +33,5 @@ Este projeto visa trazer a edição de dados espaciais para qualquer usuário, n
 
 ## Referências
 - [GeoWE](http://www.geowe.org)
-- http://rltsistemas.blogspot.com/2016/12/montando-mi-sig-web-con-geowe.html
-- https://dondeycuanto.com/geowe-plataforma-sig-libre
+- [Montando mi SIG Web con GeoWE](http://rltsistemas.blogspot.com/2016/12/montando-mi-sig-web-con-geowe.html)
+- [GeoWE: Plataforma SIG libre](https://dondeycuanto.com/geowe-plataforma-sig-libre)
