@@ -12,6 +12,20 @@ Do ponto de vista tecnológico, o **GeoWE** pretende integrar avanços técnicos
 
 Este projeto visa trazer a edição de dados espaciais para qualquer usuário, no maior número de dispositivos (PC, Tablet, celular,...) e sem a necessidade de amplo conhecimento sobre sistemas SIG, de uma forma simples e promover a usabilidade.
 
+## Características
+- Edição avançada de Geodata
+- Geolocation e suporte de geocodificação
+- Suporte de geoprocessamento
+- Compartilhamento de camada de Geodata via URL
+- Formatos suportados de Geodata Open: KML, GML, WKT e geojson
+- WMS e suporte WFS
+- Catálogo camada base raster: Google Maps, OSM, Bing, etc
+- Múltiplas opções de entrada e saída com transformação de projeção
+- Suporte a vários dispositivos
+- Suporte de estilo e personalização
+- Recursos de validação de geometria
+- [Versão ao vivo](http://map.geowe.org)
+
 ***GeoWE (Web Mapping Editing)*** surge a partir da motivação de uma equipe de desenvolvedores ansiosos para crescer tecnologicamente, compartilhar conhecimentos e, ao mesmo tempo, oferecer ao mundo GIS uma nova alternativa para o desenvolvimento de aplicações Web orientadas para a edição de dados geográficos.
 
 ## Referências
