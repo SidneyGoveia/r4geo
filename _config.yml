@@ -59,6 +59,7 @@ url: "https://www.geosaber.com.br" # Site url, also used in jekyll-seo-tag
 baseurl: "/"
 repo: "https://github.com/geosaber/site"
 email: "geosaber@gmail.com"
+google_analytics: 'UA-25726356-1'
 
 # 7. Site navigation
 navigation_header:
