@@ -14,6 +14,7 @@ sitemap: false
 - ***e-mail***: <sidney.goveia@audoc.com.br>
 - ***Whatsapp***: (11) 982-331-208
 - ***Telegram***: <https://t.me/Geosaber>
+- ***Gitter***: <https://gitter.im/ss-geosaber>
 
 ## Sobre
 - **Geosaber** é um projeto iniciado em 2007 e mantido por Sidney Schaberle Goveia.
