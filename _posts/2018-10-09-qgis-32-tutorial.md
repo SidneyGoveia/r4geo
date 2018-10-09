@@ -1,13 +1,12 @@
 ---
 title: Tutorial do QGIS 3.2 Bonn
 category: General
-feature_image: "https://picsum.photos/200/300/?random"
+feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.png"
 ---
 
 # ***Introduction to mapping and visualisation in QGIS***
 
 [![QGIS 3.2 tutorial](https://github.com/geosaber/r4geo/raw/gh-pages/img/prevalence-map.png)](http://development-frontiers.com/tutorials)
-
 ---
 ## *Development Frontiers in Crime, Livelihoods and Poverty in Sub-Saharan Africa*
 *Estes tutoriais são projetados como um curso introdutório para ajudar os usuários a estar familiarizado com QGIS mapeamento básico e capacidades de geoprocessamento.
