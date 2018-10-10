@@ -14,25 +14,25 @@ Os pré-requisitos são um conhecimento básico de computação e temas relacion
 
 ### Usando QGIS para pré-processamento
 
-- QGIS e dados abertos para aplicações hidrológicas-manual de exercício (v 3.2.3)
+- QGIS e dados abertos para aplicações hidrológicas - manual de exercício (v 3.2.3)
 
-- Exercícios: usando QGIS para aquisição de dados e pré-processamento (v 2.18.13)-LTR
+- Exercícios: Usando QGIS para aquisição de dados e pré-processamento (v 2.18.13)-LTR
 
-- Exercício de dados 1: digitalização a partir de um mapa digitalizado
+- Exercício de dados 1: Digitalização a partir de um mapa digitalizado
 
-- Exercício de dados 2: importação de dados tabulares em GIS e interpolação
+- Exercício de dados 2: Importação de dados tabulares em GIS e interpolação
 
-- Dados exercício 4: planejamento espacial usando álgebra mapa
+- Dados exercício 4: Planejamento espacial usando álgebra mapa
 
-- Exercício de dados 5: análise de DEM e delineação de captura
+- Exercício de dados 5: Análise de MDE e delimitação de bacias
 
-- Exercício de dados 7: projeto do mapa
+- Exercício de dados 7: Projeto de Mapa
 
 - Canal do YouTube com screencasts
 
-- Slides de palestras
+  - Slides de palestras
 
-- Webinar gravado: software Open Source e dados abertos para gestão integrada de recursos hídricos
+  - Webinar gravado: software Open Source e dados abertos para gestão integrada de recursos hídricos
 
 ### Usando GDAL para pré-processamento
 
