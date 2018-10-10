@@ -18,15 +18,15 @@ Os pré-requisitos são um conhecimento básico de computação e temas relacion
 
 - Exercícios: Usando QGIS para aquisição de dados e pré-processamento (v 2.18.13)-LTR
 
-- Exercício de dados 1: Digitalização a partir de um mapa digitalizado
+- Dados de exercício 1: Digitalização a partir de um mapa digitalizado
 
-- Exercício de dados 2: Importação de dados tabulares em GIS e interpolação
+- Dados de exercício 2: Importação de dados tabulares em GIS e interpolação
 
-- Dados exercício 4: Planejamento espacial usando álgebra mapa
+- Dados de exercício 4: Planejamento espacial usando álgebra mapa
 
-- Exercício de dados 5: Análise de MDE e delimitação de bacias
+- Dados de exercício 5: Análise de MDE e delimitação de bacias
 
-- Exercício de dados 7: Projeto de Mapa
+- Dados de exercício 7: Projeto de Mapa
 
 - Canal do YouTube com screencasts
 
@@ -38,15 +38,19 @@ Os pré-requisitos são um conhecimento básico de computação e temas relacion
 
 - Exercícios: introdução ao DOS e GDAL
 
-- Dados exercícios GDAL
+- Dados de exercícios no GDAL
 
-- Exercício conversão em lote de dados GDAL
+- Dados de exercícios conversão em lote de dados no GDAL
 
 ### Python 3 tutorial
 
 - Uma introdução ao scripting em Python 3
 
-- Pasta Leituras (PDF)
+  1. Introdução ao script
+ 
+  2. Introdução ao Python
+ 
+  3. Introdução às bibliotecas do Python
 
 ## Referências:
 
