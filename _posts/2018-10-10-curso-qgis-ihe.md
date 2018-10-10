@@ -12,24 +12,41 @@ feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.
 *O curso é projetado para profissionais (engenheiros e cientistas) ativos no setor de água/meio ambiente, especialmente os envolvidos no planejamento e gestão de sistemas de água, bem como modelagem numérica.
 Os pré-requisitos são um conhecimento básico de computação e temas relacionados à água.*
 
-### Objetivos de aprendizagem
-Após este curso você será capaz de:
+### Usando QGIS para pré-processamento
 
-- Compreender os conceitos básicos de SIG
+- QGIS e dados abertos para aplicações hidrológicas-manual de exercício (v 3.2.3)
 
-  - Raster, vetor, projeções, análise geoespacial
+- Exercícios: usando QGIS para aquisição de dados e pré-processamento (v 2.18.13)-LTR
 
-- Usar um SIG para:
+- Exercício de dados 1: digitalização a partir de um mapa digitalizado
 
-  - Mapeamento temático
+- Exercício de dados 2: importação de dados tabulares em GIS e interpolação
 
-  - Processamento e edição de dados básicos
+- Dados exercício 4: planejamento espacial usando álgebra mapa
 
-  - Geoprocessamento básico e análises
+- Exercício de dados 5: análise de DEM e delineação de captura
 
-  - Processamento de MDE e delimitação de bacias
+- Exercício de dados 7: projeto do mapa
 
-  - Encontrar software Open Source e dados abertos
+- Canal do YouTube com screencasts
+
+- Slides de palestras
+
+- Webinar gravado: software Open Source e dados abertos para gestão integrada de recursos hídricos
+
+### Usando GDAL para pré-processamento
+
+- Exercícios: introdução ao DOS e GDAL
+
+- Dados exercícios GDAL
+
+- Exercício conversão em lote de dados GDAL
+
+### Python 3 tutorial
+
+- Uma introdução ao scripting em Python 3
+
+- Pasta Leituras (PDF)
 
 ## Referências:
 
