@@ -1,6 +1,6 @@
 ---
 title: Tutorial do QGIS 3.2 Bonn
-category: General
+category: Tutorial
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.png"
 ---
 
