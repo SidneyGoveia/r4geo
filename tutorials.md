@@ -74,11 +74,9 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 </ul>
 <ol>
  	<li style="list-style-type: none;">
-<ol>
  	<li>Análise de densidade de eventos pontuais utilizando o QGIS;</li>
  	<li>Georreferenciamento de imagens de sensoriamento remoto no QGIS.</li>
  	<li>Inferência espacial usando o QGIS - Análise Multicritérios.</li>
-</ol>
 </li>
 </ol>
 <ul>
