@@ -16,6 +16,7 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 
 ### Apostila Mapas Temáticos no QGIS (2.8) - Curso de Geoprocessamento com QGIS
 - [Baixar]({{ site.baseurl }}{% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
+
 ---
 ## [Tutoriais](https://sites.google.com/site/geosaber)
 - [Alternativa ao OpenLayers no QGIS](https://sites.google.com/site/geosaber/Tutoriais/alternativaaoopenlayersnoqgis)
