@@ -1,15 +1,23 @@
 ---
 layout: page
-title: Tutoriais
+title: Tutoriais e Apostilas
 feature_text: |
   TUTORIAIS
 feature_image: "https://picsum.photos/5032/2920?image=976"
 excerpt: "Cursos de QGIS e SIG livres"
+tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 ---
-### Apostila Mapas Temáticos no QGIS 2.8
+## Apostilas & e-Books
+### QGIS (2.18) Aplicado ao Ordenamento Territorial Municipal
+- [SIGPampa](http://porteiras.s.unipampa.edu.br/sigpampa/publicacoes)
+
+### Análise Espacial em QGIS (2.16) - Exercícios do Módulo de Formação em Sistemas de Informação Geográfica
+- [Projeto SOPHIA](https://www.sophia-mar.pt/pt/formacoes)
+
+### Apostila Mapas Temáticos no QGIS (2.8)
 - [Baixar]({{ site.baseurl }}{% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
 
-### [Tutoriais](https://sites.google.com/site/geosaber)
+## [Tutoriais](https://sites.google.com/site/geosaber)
 - [Alternativa ao OpenLayers no QGIS](https://sites.google.com/site/geosaber/Tutoriais/alternativaaoopenlayersnoqgis)
 - [Análise Hidrológica no QGIS](https://sites.google.com/site/geosaber/Tutoriais/analisehidrologicanoqgis)
 - [Conversão para Reflectância de Imagens do Landsat 8 no QGIS](https://sites.google.com/site/geosaber/Tutoriais/conversaoparareflectanciadeimagensdolandsat8noqgis)
@@ -27,7 +35,7 @@ excerpt: "Cursos de QGIS e SIG livres"
 - [QGIS Server in the Cloud](https://sites.google.com/site/geosaber/Tutoriais/qgisserverinthecloud)
 - [Simulando Cores Reais em Imagens ASTER](https://sites.google.com/site/geosaber/Tutoriais/imagensaster)
 
-### Materiais de Estudo
+## Materiais de Estudo
 [Livros/Apostilas](https://sites.google.com/site/geosaber/Livros)
 
 <h4>Referências usadas no Curso de Geoprocessamento</h4>
