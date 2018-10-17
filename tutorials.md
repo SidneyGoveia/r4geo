@@ -8,23 +8,23 @@ excerpt: "Cursos de QGIS e SIG livres"
 tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 ---
 ## *Apostilas & e-Books*
-### QGIS and Open Data for Hydrological Applications - Exercise Manual (v3.2.3)
-- [OCW IHE DELFT (en)](https://ocw.un-ihe.org/course/view.php?id=11)
+- QGIS and Open Data for Hydrological Applications - Exercise Manual (v3.2.3)
+  - [OCW IHE DELFT (en)](https://ocw.un-ihe.org/course/view.php?id=11)
 
-### QGIS (2.18) Aplicado ao Ordenamento Territorial Municipal
-- [SIGPampa](http://porteiras.s.unipampa.edu.br/sigpampa/publicacoes)
+- QGIS (2.18) Aplicado ao Ordenamento Territorial Municipal
+  - [SIGPampa](http://porteiras.s.unipampa.edu.br/sigpampa/publicacoes)
 
-### Análise Espacial em QGIS (2.16) - Exercícios do Módulo de Formação em Sistemas de Informação Geográfica
-- [Projeto SOPHIA](https://www.sophia-mar.pt/pt/formacoes)
+- Análise Espacial em QGIS (2.16) - Exercícios do Módulo de Formação em Sistemas de Informação Geográfica
+  - [Projeto SOPHIA](https://www.sophia-mar.pt/pt/formacoes)
 
-### Apostila Mapas Temáticos no QGIS (2.8) - Curso de Geoprocessamento com QGIS
-- [Baixar]({{ site.baseurl }}{% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
+- Apostila Mapas Temáticos no QGIS (2.8) - Curso de Geoprocessamento com QGIS
+  - [Baixar]({{ site.baseurl }}{% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
 
-### Geoprocessamento Aplicado ao Planejamento e Gestão do Território (2.6)
-- [Flávia Feitosa - UFABC](https://flaviafeitosa.wordpress.com/teaching/geopgt)
+- Geoprocessamento Aplicado ao Planejamento e Gestão do Território (2.6)
+  - [Flávia Feitosa - UFABC](https://flaviafeitosa.wordpress.com/teaching/geopgt)
 
-### Curso de Introdução ao Geoprocessamento - QGIS 2.8 Wien
-- [Universidade Mackenzie](https://www.mackenzie.br/universidade/laboratorio/labgeo/curso)
+- Curso de Introdução ao Geoprocessamento - QGIS 2.8 Wien
+  - [Universidade Mackenzie](https://www.mackenzie.br/universidade/laboratorio/labgeo/curso)
 
 ---
 ## Tutoriais
