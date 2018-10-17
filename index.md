@@ -1,5 +1,5 @@
 ---
-title: Cursos de QGIS, R, GRASS, SAGA, PostGIS (FOSS4GIS)
+title: Cursos de QGIS, R, GRASS GIS, PostGIS (FOSS4G)
 feature_text: |
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/capa_geosaber.jpg"
 excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas geotecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
@@ -16,7 +16,7 @@ excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi c
 ## [Sobre]({{ site.url }}{% link contact.md %})
 ### Geosaber - 10 anos ministrando Cursos de SIG livres, presenciais on site e in company
 - Geosaber é um projeto mantido por Sidney Schaberle Goveia.
-- Especialista em SIG (1998) e Instrutor de QGIS (desde 2009)
+  - Especialista em SIG (1998) e Instrutor de QGIS (desde 2009)
 
 Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de agregar pessoas com conhecimentos em Geoprocessamento, Sensoriamento Remoto e Geoestatística (*que passaram pelo Programa de Pós-Graduação em Recursos Minerais e Hidrogeologia do Instituto de Geociências da USP*) para ser referência no treinamento em Sistemas de Informações Geográficas Livres e Abertas, em especial as apoiadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***.
 
