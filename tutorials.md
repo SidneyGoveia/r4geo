@@ -18,7 +18,7 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [Baixar]({{ site.baseurl }}{% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
 
 ---
-## [Tutoriais](https://sites.google.com/site/geosaber)
+## Tutoriais
 - [Alternativa ao OpenLayers no QGIS](https://sites.google.com/site/geosaber/Tutoriais/alternativaaoopenlayersnoqgis)
 - [Análise Hidrológica no QGIS](https://sites.google.com/site/geosaber/Tutoriais/analisehidrologicanoqgis)
 - [Conversão para Reflectância de Imagens do Landsat 8 no QGIS](https://sites.google.com/site/geosaber/Tutoriais/conversaoparareflectanciadeimagensdolandsat8noqgis)
@@ -70,14 +70,12 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
  	<li><a href="http://tsga.ufsc.br/index.php/biblioteca/materiais-pedagogicos/apostilas2?task=weblink.go&amp;id=14">Curso Uso de Geotecnologias Livres para Apoio à Gestão de Bacias Hidrográficas</a> - Projeto TSGA, 2014 (QGIS 2.2).</li>
 </ul>
 <ul>
- 	<li><a href="http://qgisnapratica.blogspot.com/">QGIS na Prática</a> - Prof. Rodolfo Almeida, de Santarém - PA.</li>
+ 	<li><a href="http://www.rodolfo.almeida.nom.br">QGIS na Prática</a> - Prof. Rodolfo Almeida, de Santarém - PA.</li>
 </ul>
 <ol>
- 	<li style="list-style-type: none;">
  	<li>Análise de densidade de eventos pontuais utilizando o QGIS;</li>
  	<li>Georreferenciamento de imagens de sensoriamento remoto no QGIS.</li>
  	<li>Inferência espacial usando o QGIS - Análise Multicritérios.</li>
-</li>
 </ol>
 <ul>
  	<li><a href="http://qgisbrasil.org/blog/2015/08/18/qgis-classificacao-supervisionada-de-imagens-orbitais-com-o-semi-automatic-classification-plugin">QGIS Brasil</a>: Classificação Supervisionada de Imagens Orbitais com o <em><a href="http://fromgistors.blogspot.com/">Semi-Automatic Classification Plugin</a> (SCP).</em></li>
