@@ -4,6 +4,7 @@ category: Tutoriais
 feature_image: "https://picsum.photos/5032/2920?image=976"
 tag: QGIS, Perfil Topográfico
 ---
+# Ferramenta de Perfil (Seção Vertical) do QGIS
 Uma ferramenta básica em **Análise de Terreno** é a construção de **Perfis Topográficos**.
 
 No QGIS, isso pode ser feito com o Complemento ***Profile Tool*** de maneira muito simples.
