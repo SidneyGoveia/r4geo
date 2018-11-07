@@ -72,7 +72,7 @@ navigation_header:
   Busca: /search/
 
 navigation_footer:
-  Geosaber: https://www.geosaber.com.br
+  Geosaber: http://audoc.com.br
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/SS_Geosaber
