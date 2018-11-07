@@ -1,3 +1,10 @@
+---
+title: QGIS 3.x
+category: QGIS
+feature_image: "https://picsum.photos/5032/2920?image=976"
+tag: QGIS, Geopackage, SQL
+---
+# Geopackage Triggers
 ```SQL
 CREATE TRIGGER update_esn AFTER INSERT
 ON addresses
