@@ -10,7 +10,7 @@ excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi c
   - **Data**: Dias 10 a 14 de dezembro de 2018
   - **Local**: Avenida Paulista, 807 – 9º andar – cjto 902 - CEP 01311-915 – Cerqueira César
     - Próximo às Estações do Metrô Brigadeiro e Trianon-MASP
-    - Estacionamentos conveniados (<http://besidesp.com.br>):
+    - Estacionamentos conveniados [BESIDEsp](http://besidesp.com.br):
       - Av. Paulista, 620/648 esq. com Brigadeiro sentido Consolacao(ao lado da smartfit) valor R$ 15,00/dia;
       - Alameda Santos, 814(massis estacionamentos). Valor R$ 16,00/dia;
       - Alameda Santos, 787 - Valor R$ 10,00/dia.
