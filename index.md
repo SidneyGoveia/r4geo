@@ -4,6 +4,21 @@ feature_text: |
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/capa_geosaber.jpg"
 excerpt: "Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas geotecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
+## Curso de Geoprocessamento com QGIS 3
+- Presencial na cidade de São Paulo (***Noturno***)
+  - **Horário**: das 19hs às 23hs
+  - **Data**: Dias 10 a 14 de dezembro de 2018
+  - **Local**: Avenida Paulista, 807 – 9º andar – cjto 902 - CEP 01311-915 – Cerqueira César
+    - Próximo às Estações do Metrô Brigadeiro e Trianon-MASP
+    - Estacionamentos conveniados (<http://besidesp.com.br>):
+      - Av. Paulista, 620/648 esq. com Brigadeiro sentido Consolacao(ao lado da smartfit) valor R$ 15,00/dia;
+      - Alameda Santos, 814(massis estacionamentos). Valor R$ 16,00/dia;
+      - Alameda Santos, 787 - Valor R$ 10,00/dia.
+  - **Valor**: R$500,00 (preço único promocional)
+  - **Formulário de Inscrição**: <https://sites.google.com/view/geosaber>
+  - ***Vagas Limitadas***
+
+---
 ## Cursos presenciais e *in company*
 #### [Informações]({{ site.url }}{% link courses.md %})
 - **[GIS-101 Introdução ao Geoprocessamento com QGIS 3]({{ site.baseurl }}{% link docs/gis-101.md %})**
