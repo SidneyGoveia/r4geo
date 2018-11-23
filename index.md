@@ -11,7 +11,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
   - **Valor**: R$500,00 (preço único promocional)
   - **Formulário de Inscrição**: <https://sites.google.com/view/geosaber>
   - **Local**: Avenida Paulista, 807 – 9º andar – cjto 902 - CEP 01311-915 – Cerqueira César
-    - Próximo às Estações do Metrô Brigadeiro e Trianon-MASP
+    - Próximo à ***Estação Brigadeiro do Metrô*** - Linha Verde
     - Estacionamentos conveniados [BESIDEsp](http://besidesp.com.br):
       - Av. Paulista, 620/648 esq. com Brigadeiro sentido Consolacao(ao lado da smartfit) valor R$ 15,00/dia;
       - Alameda Santos, 814 (massis estacionamentos). Valor R$ 16,00/dia;
