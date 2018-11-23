@@ -1,5 +1,5 @@
 ---
-title: Cursos FOSS4G - QGIS, R, GRASS, PostGIS
+title: Cursos FOSS4G - QGIS, PostGIS, R
 feature_text: |
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/capa_geosaber.jpg"
 excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
