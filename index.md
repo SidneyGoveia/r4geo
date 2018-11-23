@@ -4,7 +4,6 @@ feature_text: |
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/capa_geosaber.jpg"
 excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
-
 ## Curso de Geoprocessamento com QGIS 3
 - Presencial na cidade de São Paulo (***Noturno***)
   - **Data**: Dias 10 a 14 de dezembro de 2018
