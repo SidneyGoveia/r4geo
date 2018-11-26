@@ -1,17 +1,22 @@
 ---
 title: "Formulario"
-excerpt: "Formulário de Inscrição"
 indexing: false
 sitemap: false
 ---
 # Formulário de Inscrição
-<html>
-<body>
-<form action="https://getform.io/f/8e5998ae-9990-4623-875f-b437b251c5da" method="POST">
-    <input type="text" name="name">
-    <input type="email" name="email">
-    <input type="tel" name="tel">
-    <button type="submit">Send</button>
-</form>
-</body>
-</html>
+<div class="field required">
+    <label for="id_username">Username</label>
+    <input type="text" name="username" id="id_username" value="test" />
+</div>
+<div class="field required">
+    <label for="id_password">Password</label>
+    <input type="password" name="password" id="id_password" value="test" />
+</div>
+<div class="field required">
+    <label for="id_confirm">Confirm</label>
+    <input type="password" name="confirm" id="id_confirm" value="test" />
+</div>
+<div class="field">
+    <label for="id_email">Email</label>
+    <input type="text" name="email" id="id_email" />
+</div>
