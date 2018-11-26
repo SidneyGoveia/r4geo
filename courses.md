@@ -7,8 +7,7 @@ feature_image: "https://picsum.photos/5032/2920?image=976"
 tags: QGIS, Curso QGIS, Curso de QGIS
 excerpt: "Cursos de QGIS e SIG livres"
 ---
-# Curso Presencial Noturno de QGIS 3.x
-### [Termos e Condições]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})
+## [Termos e Condições]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})
 
 ---
 ## Cursos Oferecidos
