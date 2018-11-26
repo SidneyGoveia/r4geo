@@ -82,6 +82,7 @@ excerpt: "Cursos de QGIS e SIG livres"
 </ul>
 <p>O usuário é o responsável pelas condições de usabilidade de seu computador, tendo domínio do S.O. escolhido e devendo o mesmo estar atualizado e protegido por antivirus (alguns antivirus podem interferir no funcionamento do QGIS). Todos os exercícios que serão executados durante as aulas foram testados usando o QGIS 2.18 Las Palmas em Windows 10 de 64 bits e garantimos o funcionamento nessas condições.</p>
 <hr />
+<div>
 <h3><strong>Termo de cancelamento:</strong></h3>
 <p>Para cancelamento de inscrição, envie um e-mail para <a href="mailto:geosaber@gmail.com">geosaber@gmail.com</a> O cancelamento será efetuado somente após a confirmação por e-mail e com uma semana de antecedência do início das aulas. Será descontado 25% referente a custos como materiais, serviços contratados, pagos antecipadamente por participante. Para substituições de participante, favor, enviar email com o nome completo, telefones de contato e email do substituto.</p>
 </div>
