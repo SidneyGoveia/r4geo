@@ -28,7 +28,7 @@ excerpt: "Cursos de QGIS e SIG livres"
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
 
 ---
-# Curso de QGIS (desde a versão 1.0 "Kore" - 2009)
+# Curso de QGIS (desde 2009)
 As aulas no Curso Básico (Condensado) são voltadas ao Mapeamento Temático, abrangendo ferramentas para criação e edição de dados Vetoriais e Raster (Imagens) e no Curso Avançado (Intensivo) é abordado a Análise Espacial, de Terreno, Delimitação de Bacias Hidrográficas, Interpolação de Dados, Classificação Automática de Imagens (Supervisionada e Não-Supervisionada), Estatística Espacial e Geoestatística.
 > Para fazer o Curso Avançado é pré-requisito o conhecimento prévio do conteúdo do Curso Básico.
 - Baixe gratuitamente nossa apostila de curso [Mapas Temáticos no QGIS 2.8]({% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
