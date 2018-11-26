@@ -36,11 +36,14 @@ excerpt: "Cursos de QGIS e SIG livres"
 <hr>
 <h3><strong>Local:</strong></h3>
 <p>Av. Paulista, 807 – 9º andar – cjto 902. CEP 01311-915 – Cerqueira César. São Paulo - SP</p>
-
 <hr>
 <div>
 <h3><strong><span style="color: #444444;">Valor da inscrição:</span></strong></h3>
-<p>As vagas são limitadas a 10 participantes. <span style="color: #444444;">- Para Profissionais o valor é de </span><b><span style="color: #ff0000;">R$600,00</span></b><span style="color: #444444;">;</span> <span style="color: #444444;">- Para Estudantes e Professores o valor é de </span><span style="color: #ff0000;"><b>R$500,00*</b></span><span style="color: #444444;">.</span></p>
+<p>As vagas são limitadas a 10 participantes.</p>
+<ul>
+<li><span style="color: #444444;">Profissionais o valor é de </span><b><span style="color: #ff0000;">R$600,00</span></b><span style="color: #444444;">;</span></li>
+<li><span style="color: #444444;">Estudantes e Professores o valor é de </span><span style="color: #ff0000;"><b>R$500,00*</b></span><span style="color: #444444;">.</span></li>
+</ul>
 <p><span style="color: #ff0000;">*</span>Somente com atestado de matrícula ou carteira funcional de professor que deverá ser enviada cópia no ato da inscrição.</p>
 </div>
 <div>
