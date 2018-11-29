@@ -1,22 +1,12 @@
 ---
-title: Cursos FOSS4G - QGIS, PostGIS, R
+title: Cursos de QGIS, GRASS, PostGIS, R
 feature_text: |
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/capa_geosaber.jpg"
 excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
 ## Curso de Geoprocessamento com QGIS 3
-- ***Presencial na cidade de São Paulo - Noturno***
-  - **Data**: Dias 10 a 14 de dezembro de 2018
-  - **Horário**: das 19hs às 23hs
-  - **Valor**: R$500,00 (preço único promocional)
-  - **Formulário de Inscrição**: <https://sites.google.com/view/geosaber>
-  - **Local**: Avenida Paulista, 807 – 9º andar – cjto 902 - CEP 01311-915 – Cerqueira César
-    - Próximo à ***Estação Brigadeiro do Metrô*** - Linha Verde
-    - Estacionamentos conveniados [BESIDEsp](http://besidesp.com.br):
-      - Av. Paulista, 620/648 esq. com Brigadeiro sentido Consolacao(ao lado da smartfit) valor R$ 15,00/dia;
-      - Alameda Santos, 814 (massis estacionamentos). Valor R$ 16,00/dia;
-      - Alameda Santos, 787 - Valor R$ 10,00/dia.
-  - ***Vagas Limitadas***
+- ***Presencial na cidade de São Paulo - SP***
+  - ***Aguarde novas turmas***
   - **[Termos e Condições]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})**
 
 ---
