@@ -45,7 +45,7 @@ excerpt: "Curso de QGIS"
 </ul>
 
 <h3><strong>Formulário de Inscrição</strong></h3>
-<p>Preencha o <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://sites.google.com/view/geosaber">Formulário</a></span> para fazer sua inscrição. Os dados  cadastrados servirão para a emissão do Certificado e da Nota Fiscal eletrônica.</p>
+<p>Preencha o <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.geosaber.com.br">Formulário</a></span> para fazer sua inscrição. Os dados  cadastrados servirão para a emissão do Certificado e da Nota Fiscal eletrônica.</p>
 
 <div>
 <h3><strong>Condições e pré-requisitos</strong></h3>
