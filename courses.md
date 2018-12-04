@@ -7,7 +7,9 @@ feature_image: "https://picsum.photos/5032/2920?image=976"
 tags: QGIS, Curso QGIS, Curso de QGIS
 excerpt: "Cursos de QGIS e SIG livres"
 ---
-## [Sobre o Curso]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})
+## [Sobre o Curso de QGIS]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})
+- Baixe gratuitamente nossa apostila de curso [Mapas Temáticos no QGIS 2.8]({% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
+### [Conteúdo Programático]({{ site.baseurl }}{% link docs/ementa.md %})
 
 ---
 ## Cursos Oferecidos
@@ -27,8 +29,5 @@ excerpt: "Cursos de QGIS e SIG livres"
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
 
 ---
-- Baixe gratuitamente nossa apostila de curso [Mapas Temáticos no QGIS 2.8]({% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
-
-### [Conteúdo Programático]({{ site.baseurl }}{% link docs/ementa.md %})
 
 [Ir para a página Inicial]({{ site.url }}{{ site.baseurl }})
