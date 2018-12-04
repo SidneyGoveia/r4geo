@@ -7,7 +7,11 @@ feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.
 tags: QGIS, Curso de QGIS
 excerpt: "Curso de QGIS"
 ---
-### Ementa do Curso Básico (NB01)
+# Curso de QGIS (único presencial desde 2009)
+As aulas no Curso Básico (Condensado) são voltadas ao Mapeamento Temático, abrangendo ferramentas para criação e edição de dados Vetoriais e Raster (Imagens) e no Curso Avançado (Intensivo) é abordado a Análise Espacial, de Terreno, Delimitação de Bacias Hidrográficas, Interpolação de Dados, Classificação Automática de Imagens (Supervisionada e Não-Supervisionada), Estatística Espacial e Geoestatística.
+> Para fazer o Curso Avançado é pré-requisito o conhecimento prévio do conteúdo do Curso Básico.
+
+## Ementa do Curso Básico (NB01)
 
 1. Introdução ao QGIS;
 
@@ -41,7 +45,7 @@ excerpt: "Curso de QGIS"
 
 16. Produção de Mapas Temáticos e Compositor de Impressão.
 
-### Ementa do Curso Avançado (NA01)
+## Ementa do Curso Avançado (NA01)
 
 1. Ferramentas de Estatística e Análise Espacial (Mapa de Calor);
 
