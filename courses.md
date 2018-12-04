@@ -9,9 +9,8 @@ excerpt: "Cursos de QGIS e SIG livres"
 ---
 ## [Sobre o Curso de QGIS]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})
 - Baixe gratuitamente nossa apostila de curso [Mapas Temáticos no QGIS 2.8]({% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
-### [Conteúdo Programático]({{ site.baseurl }}{% link docs/ementa.md %})
+- [Conteúdo Programático]({{ site.baseurl }}{% link docs/ementa.md %})
 
----
 ## Cursos Oferecidos
 ### [GIS-101 Introdução ao Geoprocessamento com QGIS 3]({{ site.baseurl }}{% link docs/gis-101.md %})
  - **Duração**: 24 horas
@@ -29,5 +28,4 @@ excerpt: "Cursos de QGIS e SIG livres"
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
 
 ---
-
 [Ir para a página Inicial]({{ site.url }}{{ site.baseurl }})
