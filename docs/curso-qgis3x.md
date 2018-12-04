@@ -8,7 +8,7 @@ tags: QGIS, Curso de QGIS
 excerpt: "Curso de QGIS"
 ---
 # Curso Presencial de QGIS - Módulo Básico
-## Termos e Condições
+## Sobre o Curso
 <h3><strong>Instrutor:</strong></h3>
 <p>Sidney Schaberle Goveia - Especialista em SIG desde 1998 e Instrutor de QGIS desde 2009</p>
 
