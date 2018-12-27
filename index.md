@@ -16,14 +16,15 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 - **[GIS-102 Geoestatística no QGIS com Rscripts (R/Gstat)]({{ site.baseurl }}{% link docs/gis-102.md %})**
 - **[GIS-103 Modelagem de Sistemas para Cadastro de Redes de Água - QGIS/PostGIS]({{ site.baseurl }}{% link docs/gis-103.md %})**
 
-{% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Blogger" icon="Blogger" link="https://geosaber.blogspot.com" color="#F4A460" %} {% include button.html text="Netlify" icon="Netlify" link="https://geosaber.netlify.com" color="#0c94a7" %}
+{% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Blogger" icon="blogger" link="https://geosaber.blogspot.com" color="#F4A460" %} {% include button.html text="Blog" icon="wordpress" link="https://geowisdom.wordpress.com" color="#0c94a7" %}
 
 ---
 ## [Sobre]({{ site.url }}{% link contact.md %})
 ### Geosaber - 10 anos ministrando Cursos de SIG livres, presenciais on site e in company
 - Geosaber é um projeto mantido por Sidney Schaberle Goveia.
-  - Especialista em SIG (1998) e Instrutor de QGIS (desde 2009)
+  - Especialista em SIG (1998)
+  - Instrutor de QGIS (desde 2009)
 
-Iniciado em 2007, o grupo [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de agregar pessoas com conhecimentos em Geoprocessamento, Sensoriamento Remoto e Geoestatística (*que passaram pelo Programa de Pós-Graduação em Recursos Minerais e Hidrogeologia do Instituto de Geociências da USP*) para ser referência no treinamento em Sistemas de Informações Geográficas Livres e Abertas, em especial as apoiadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***.
-
-Fomos os primeiros a ofertar **Cursos de QGIS** no Brasil e somos os únicos a oferecer um **Curso de QGIS com R integrado para Geoestatística** com rotinas funcionais - *Rscripts* - completas e integradas para ***Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal*** desenvolvidas por nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
+Iniciado em 2007, [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de agregar pessoas com conhecimentos em Geoprocessamento, Sensoriamento Remoto e Geoestatística para ser referência no Treinamento em Sistemas de Informações Geográficas Livres e Abertas, em especial as apoiadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***.
+- Fomos os primeiros a ofertar **Cursos de QGIS** presenciais e regulares no Brasil
+- Somos os únicos a oferecer um **Curso de QGIS com R integrado para Geoestatística** com rotinas funcionais - *Rscripts* - completas e integradas para ***Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal*** desenvolvidas por nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
