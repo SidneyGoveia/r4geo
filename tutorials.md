@@ -8,7 +8,7 @@ excerpt: "Cursos de QGIS e SIG livres"
 tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 ---
 ## *Apostilas & e-Books*
-- Caderno de Instrução de Geoinformação, 1ª edição, 2018 - Apresenta conhecimentos teóricos e práticos no uso da Geoinformação, com ênfase no software QGIS 2.18.
+- **Caderno de Instrução de Geoinformação**, 1ª edição, 2018 - Apresenta conhecimentos teóricos e práticos no uso da Geoinformação, com ênfase no software QGIS 2.18.
   - [Geoportal do Exército Brasileiro ](http://www.geoportal.eb.mil.br/portal/inde2)
   
 - QGIS and Open Data for Hydrological Applications - Exercise Manual (v3.2.3)
