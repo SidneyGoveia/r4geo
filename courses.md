@@ -19,7 +19,7 @@ excerpt: "Cursos de QGIS e SIG livres"
  
 ### [GIS-102 Geoestatística no QGIS com Rscripts (R/Gstat)]({{ site.baseurl }}{% link docs/gis-102.md %})
  - **Duração**: 16 horas
- - **Valor**: ***R$800*** para Profissionais e ***R$700*** para Estudantes e Professores (mediante apresentação de comprovante)
+ - **Valor**: ***R$900*** para Profissionais e ***R$800*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
  
 ### [GIS-103 Modelagem de Sistemas para Cadastro de Redes de Água - QGIS/PostGIS]({{ site.baseurl }}{% link docs/gis-103.md %})
