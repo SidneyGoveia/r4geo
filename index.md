@@ -6,12 +6,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 ---
 ## Curso de Geoprocessamento com QGIS 3
 - ***Presencial na cidade de São Paulo - SP***
-  - ***Aguarde novas turmas***
-  - **[Sobre o Curso]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})**
-
-<div>
-<p align=justify style="background-color:#02f3e5; border-radius:4px; font-size:16px; padding:15px; margin:5px;"><b>This is a Sample Textbox</b></p>
-</div>
+...
 
 ---
 ## Cursos presenciais e *in company*
