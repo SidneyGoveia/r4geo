@@ -4,6 +4,7 @@ indexing: false
 sitemap: false
 ---
 # Formulário de Inscrição
+{% include site-form.html %}
 <div class="field required">
     <label for="id_username">Username</label>
     <input type="text" name="username" id="id_username" value="test" />
