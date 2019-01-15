@@ -16,7 +16,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 - **[GIS-102 Geoestatística no QGIS com Rscripts (R/Gstat)]({{ site.baseurl }}{% link docs/gis-102.md %})**
 - **[GIS-103 Modelagem de Sistemas para Cadastro de Redes de Água - QGIS/PostGIS]({{ site.baseurl }}{% link docs/gis-103.md %})**
 
-{% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Blogger" icon="blogger" link="https://geosaber.blogspot.com" color="#F4A460" %} {% include button.html text="Blog" icon="wordpress" link="https://geowisdom.wordpress.com" color="#0c94a7" %}  {% include button.html text="Linkedin" icon="linkedin" link="https://www.linkedin.com/company/geosaber" color="#0f7e71" %}
+{% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Linkedin" icon="linkedin" link="https://www.linkedin.com/company/geosaber" color="#0c94a7" %}
 
 ---
 ## [Sobre]({{ site.url }}{% link contact.md %})
