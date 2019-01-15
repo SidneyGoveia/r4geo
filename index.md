@@ -1,7 +1,7 @@
 ---
 title: Cursos de QGIS, GRASS, PostGIS, R
 feature_text: |
-feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/capa_geosaber.jpg"
+feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/capa_geosaber.png"
 excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
 ## Curso de Geoprocessamento com QGIS 3
