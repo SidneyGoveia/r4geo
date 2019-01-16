@@ -4,8 +4,8 @@ category: image-classification
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.png"
 tags: Sentinel, Landsat, QGIS, R, RStudio, Queimadas
 ---
-## ***Recommended Practice: Burn Severity Mapping (UN-SPIDER)***
-- **Curso aberto online self-paced das Nações Unidas!**
+## ***Recommended Practice: Burn Severity Mapping [(UN-SPIDER)](http://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity)***
+- **[Curso aberto online self-paced das Nações Unidas!](http://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/step-by-step)**
 [![UN-SPIDER](https://github.com/geosaber/r4geo/raw/gh-pages/img/burn-workflow.jpg)](http://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity)
 
 ### Mapeamento de Severidade de Queimadas
@@ -22,7 +22,6 @@ A prática recomendada foi projetada especificamente para avaliar grandes áreas
 
 ## Referências:
 *[United Nations Platform for Space-based Information for Disaster Management and Emergency Response](http://www.un-spider.org/advisory-support/recommended-practices)*
-
 - *Browse Recommended Practices*
   - Radar-based Flood Mapping
   - Flood Hazard Mapping
@@ -30,7 +29,7 @@ A prática recomendada foi projetada especificamente para avaliar grandes áreas
   - La Generación de Mapas de Expansión y Contracción de Cuerpos de Agua
   - Exposure Mapping
   - Drought monitoring using the Standard Vegetation Index (SVI)
-  - Burn Severity Mapping
+  - ***Burn Severity Mapping***
   - Cartographie des inondations
   - Suivi de la sécheresse en utilisant l'indice de végétation standardisé (SVI)
   - Flood Mapping and Damage Assessment using Sentinel-2 (S2) Optical Data
