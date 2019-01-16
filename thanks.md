@@ -3,5 +3,6 @@ title: Thanks!
 indexing: false
 sitemap: false
 ---
+Obrigado por entrar em contato!
 
-Thanks for getting in touch! We'll respond as soon as we can.
+Nós responderemos assim que pudermos.
