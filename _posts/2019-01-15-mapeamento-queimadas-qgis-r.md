@@ -4,7 +4,8 @@ category: image-classification
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.png"
 tags: Sentinel, Landsat, QGIS, R, RStudio, Queimadas
 ---
-## ***Recommended Practice: Burn Severity Mapping***
+## ***Recommended Practice: Burn Severity Mapping (UN-SPIDER)***
+- **Curso aberto online self-paced das Nações Unidas!**
 [![UN-SPIDER](https://github.com/geosaber/r4geo/raw/gh-pages/img/burn-workflow.jpg)](http://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity)
 
 ### Mapeamento de Severidade de Queimadas
@@ -20,8 +21,7 @@ A prática recomendada foi projetada especificamente para avaliar grandes áreas
 *O objetivo desta prática recomendada é auxiliar na avaliação da gravidade da queimada pós-fogo. A metodologia aplicada utiliza a Razão Normalizada de Queima (NBR) em imagens pré e pós-fogo para avaliar a severidade da queimadura da área.*
 
 ## Referências:
-*United Nations Platform for Space-based Information for Disaster Management and Emergency Response*
-- [UN-SPIDER](http://www.un-spider.org/advisory-support/recommended-practices)
+*[United Nations Platform for Space-based Information for Disaster Management and Emergency Response](http://www.un-spider.org/advisory-support/recommended-practices)*
 
 - *Browse Recommended Practices*
   - Radar-based Flood Mapping
