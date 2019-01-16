@@ -21,4 +21,16 @@ A prática recomendada foi projetada especificamente para avaliar grandes áreas
 
 ## Referências:
 *United Nations Platform for Space-based Information for Disaster Management and Emergency Response*
-- [UN-SPIDER](http://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity)
+- [UN-SPIDER](http://www.un-spider.org/advisory-support/recommended-practices)
+
+- *Browse Recommended Practices*
+  - Radar-based Flood Mapping
+  - Flood Hazard Mapping
+  - Drought monitoring using the Vegetation Condition Index (VCI)
+  - La Generación de Mapas de Expansión y Contracción de Cuerpos de Agua
+  - Exposure Mapping
+  - Drought monitoring using the Standard Vegetation Index (SVI)
+  - Burn Severity Mapping
+  - Cartographie des inondations
+  - Suivi de la sécheresse en utilisant l'indice de végétation standardisé (SVI)
+  - Flood Mapping and Damage Assessment using Sentinel-2 (S2) Optical Data
