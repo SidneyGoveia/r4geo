@@ -17,7 +17,6 @@ A prática recomendada foi projetada especificamente para avaliar grandes áreas
 
 ## Práticas usando o QGIS ou RStudio
 [![QGIS](https://github.com/geosaber/r4geo/raw/gh-pages/img/burn_severity.png)](http://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/step-by-step)
-
 *O objetivo desta prática recomendada é auxiliar na avaliação da gravidade da queimada pós-fogo. A metodologia aplicada utiliza a Razão Normalizada de Queima (NBR) em imagens pré e pós-fogo para avaliar a severidade da queimadura da área.*
 
 ## Referências:
