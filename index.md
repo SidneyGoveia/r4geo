@@ -1,7 +1,7 @@
 ---
 title: Cursos de QGIS, GRASS, PostGIS, R
 feature_text: |
-feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/capa_geosaber2.png"
+feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/site_geosaber.png"
 excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
 ## Cursos presenciais e *in company*
@@ -23,4 +23,4 @@ Iniciado em 2007, [Geosaber](http://www.geosaber.com.br) foi criado com o intuit
   - Fomos os primeiros a ofertar **Cursos de QGIS** presenciais e regulares no Brasil
     - Somos os únicos a oferecer um **Curso de QGIS com R integrado para Geoestatística** com rotinas funcionais - *Rscripts* - completas e integradas para ***Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal*** desenvolvidas por nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
 
-{% include figure.html image="https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png" alt="Image with just alt text" %}
+{% include figure.html image="https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png" alt="Geosaber" %}
