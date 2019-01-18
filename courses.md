@@ -12,7 +12,7 @@ excerpt: "Cursos de QGIS e SIG livres"
 - [Conteúdo Programático]({{ site.baseurl }}{% link docs/ementa.md %})
 
 ## Cursos Oferecidos
-### [GIS-101 Introdução ao Geoprocessamento com QGIS 3]({{ site.baseurl }}{% link docs/gis-101.md %})
+### [GIS-101 Geoprocessamento com QGIS 3.4 Madeira]({{ site.baseurl }}{% link docs/gis-101.md %})
  - **Duração**: 24 horas
  - **Valor**: ***R$600*** para Profissionais e ***R$500*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
@@ -22,7 +22,7 @@ excerpt: "Cursos de QGIS e SIG livres"
  - **Valor**: ***R$900*** para Profissionais e ***R$800*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
  
-### [GIS-103 Modelagem de Sistemas para Cadastro de Redes de Água - QGIS/PostGIS]({{ site.baseurl }}{% link docs/gis-103.md %})
+### [GIS-103 Modelagem de Sistemas para Cadastro Técnico - QGIS/PostGIS]({{ site.baseurl }}{% link docs/gis-103.md %})
  - **Duração**: 16 horas
  - **Valor**: ***R$600*** para Profissionais e ***R$500*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
