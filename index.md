@@ -14,8 +14,8 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 
 ---
 ## [Sobre]({{ site.url }}{% link contact.md %})
-{% include figure.html image="https://github.com/geosaber/r4geo/raw/gh-pages/img/qgis-splash.png" alt="Geosaber" %}
 ### Geosaber - 10 anos ministrando Cursos de SIG livres, presenciais on site e in company
+{% include figure.html image="https://github.com/geosaber/r4geo/raw/gh-pages/img/qgis-splash.png" alt="Geosaber" %}
 - Geosaber é um projeto mantido por Sidney Schaberle Goveia.
   - Especialista em SIG (1998)
   - Instrutor de QGIS (desde 2009)
