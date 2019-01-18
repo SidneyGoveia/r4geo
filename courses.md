@@ -22,7 +22,7 @@ excerpt: "Cursos de QGIS e SIG livres"
  - **Valor**: ***R$900*** para Profissionais e ***R$800*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
  
-### [GIS-103 Modelagem de Sistemas para Cadastro Técnico - QGIS/PostGIS]({{ site.baseurl }}{% link docs/gis-103.md %})
+### [GIS-103 Modelagem de Sistemas para Cadastro Técnico/Redes - QGIS/PostGIS]({{ site.baseurl }}{% link docs/gis-103.md %})
  - **Duração**: 16 horas
  - **Valor**: ***R$600*** para Profissionais e ***R$500*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
