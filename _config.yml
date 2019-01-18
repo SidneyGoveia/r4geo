@@ -13,7 +13,9 @@ plugins:
 # 2. Gem settings
 paginate: 5 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: SS_Geosaber # jekyll-seo-tag > Owners twitter username
 author: Sidney Goveia # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Geosaber # jekyll-seo-tag > real name
@@ -36,7 +38,7 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: true
-    description: <https://geosaber.blogspot.com> # The post list page content
+    description: (2007-2017) <https://geosaber.blogspot.com> # The post list page content
     feature_text: |
       Publicações
     feature_image: "https://picsum.photos/5032/2920?image=976"
@@ -60,6 +62,8 @@ baseurl: "/"
 repo: "https://github.com/geosaber/site"
 email: "geosaber@gmail.com"
 google_analytics: 'UA-25726356-1'
+# avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 7. Site navigation
 navigation_header:
@@ -72,7 +76,7 @@ navigation_header:
   Busca: /search/
 
 navigation_footer:
-  Geosaber: http://audoc.com.br
+  Audoc.con Assessoria e Consultoria: http://audoc.com.br
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/SS_Geosaber
