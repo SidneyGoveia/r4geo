@@ -10,9 +10,9 @@ tags: QGIS, R, Statistics, Spatial Analysis, RSpatial,
 ## Exemplos
 - Histograma
 [![QGIS/R](https://github.com/geosaber/r4geo/raw/gh-pages/img/rhisto.png)](https://github.com/north-road/qgis-processing-r)
----
-[![QGIS/R](https://github.com/geosaber/r4geo/raw/gh-pages/img/rplots.png)](https://github.com/north-road/qgis-processing-r)
 
+[![QGIS/R](https://github.com/geosaber/r4geo/raw/gh-pages/img/rplots.png)](https://github.com/north-road/qgis-processing-r)
+---
 ### *A Processing provider for connecting to the R statistics framework*
 [![QGIS/R](https://github.com/geosaber/r4geo/raw/gh-pages/img/rprocessing.png)](https://github.com/north-road/qgis-processing-r)
 
