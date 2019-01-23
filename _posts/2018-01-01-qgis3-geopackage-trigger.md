@@ -12,6 +12,21 @@ BEGIN
 update addresspoints set “esn” = (select esn from polygon where st_within(new.geom, geom));
 END;
 ```
+### Calculo de área automático em Spatialite e Virtual Layers no QGIS
+```SQL
+CREATE TRIGGER 'calcula_area_alterada' AFTER UPDATE ON "plantio" 
+FOR EACH ROW BEGIN 
+    UPDATE "plantio" SET "area" = st_area(NEW."geom")/10000 
+    WHERE "pkuid" = NEW."pkuid"; 
+END;
+
+CREATE TRIGGER 'calcula_area_alterada' AFTER UPDATE ON "plantio" 
+FOR EACH ROW 
+    BEGIN UPDATE "plantio" SET "area" = st_area(NEW."geom")/10000 
+    WHERE "pkuid" = NEW."pkuid";
+END;
+```
+
 ## Referências
 - http://northredoubt.com/n/2012/10/19/spatialite-and-triggers-to-update-data
 - https://pigrecoinfinito.wordpress.com/2017/12/17/spatialite-e-i-trigger-per-il-calcolo-automatico-della-lunghezza-di-una-strada
