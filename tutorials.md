@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Tutoriais e Apostilas
-feature_text: |
-  TUTORIAIS
-feature_image: "https://picsum.photos/5032/2920?image=976"
+feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/geosaber_capa.png"
 excerpt: "Cursos de QGIS e SIG livres"
 tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 ---
