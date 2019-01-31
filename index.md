@@ -6,7 +6,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 ---
 ## Cursos presenciais e *in company*
 ### [Informações]({{ site.url }}{% link courses.md %})
-- **GIS-101 Introdução ao Geoprocessamento com QGIS 3.4 Madeira**
+- **GIS-101 Geoprocessamento com QGIS 3.4 Madeira**
 - **GIS-102 Análise Espacial e Geoestatística com QGIS e RSpatial**
 - **GIS-103 Modelagem de Sistemas para Cadastro Técnico/Redes - QGIS/PostGIS**
 
