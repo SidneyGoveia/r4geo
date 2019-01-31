@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Serviços
-feature_text: |
-  Cursos de QGIS
-feature_image: "https://picsum.photos/5032/2920?image=976"
+feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/geosaber_capa.png"
 excerpt: "Treinamentos em QGIS e Consultoria com SIG livre"
 tagline: Consultoria
 ---
+# Histórico dos Serviços
 ## Consultoria e Treinamentos em Geoprocessamento (desde 2004)
 ---
 <table style="height: 5012px;" width="90%">
