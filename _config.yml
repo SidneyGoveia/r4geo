@@ -40,8 +40,8 @@ collections:
     output: true
     description: (2007-2017) <https://geosaber.blogspot.com> # The post list page content
     feature_text: |
-      Publicações
-    feature_image: "https://picsum.photos/5032/2920?image=976"
+      
+    feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/geosaber_capa.png"
 
 # 5. Jekyll collections settings
 defaults:
