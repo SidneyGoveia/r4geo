@@ -5,10 +5,10 @@ feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/geosaber_capa
 excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
 ## Cursos presenciais e *in company*
-#### [Informações]({{ site.url }}{% link courses.md %})
-- **[GIS-101 Introdução ao Geoprocessamento com QGIS 3.4 Madeira]({{ site.baseurl }}{% link docs/gis-101.md %})**
-- **[GIS-102 Geoestatística no QGIS com Rscripts (R/Gstat)]({{ site.baseurl }}{% link docs/gis-102.md %})**
-- **[GIS-103 Modelagem de Sistemas para Cadastro Técnico/Redes - QGIS/PostGIS]({{ site.baseurl }}{% link docs/gis-103.md %})**
+### [Informações]({{ site.url }}{% link courses.md %})
+- **GIS-101 Introdução ao Geoprocessamento com QGIS 3.4 Madeira**
+- **GIS-102 Análise Espacial e Geoestatística com QGIS e RSpatial**
+- **GIS-103 Modelagem de Sistemas para Cadastro Técnico/Redes - QGIS/PostGIS**
 
 {% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Facebook" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Linkedin" icon="linkedin" link="https://www.linkedin.com/company/geosaber" color="#0c94a7" %}
 
@@ -24,4 +24,4 @@ Iniciado em 2007, [Geosaber](http://www.geosaber.com.br) foi criado com o intuit
   - Fomos os primeiros a ofertar **Cursos de QGIS** presenciais e regulares no Brasil
     - Somos os únicos a oferecer um **Curso de QGIS com R integrado para Geoestatística** com rotinas funcionais - *Rscripts* - completas e integradas para ***Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal*** desenvolvidas por nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
 
-{% include figure.html image="https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png" alt="Geosaber" %}
+[![QGIS/R](https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png)]({{ site.baseurl }}{% link docs/gis-102.md %})
