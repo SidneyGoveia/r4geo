@@ -22,6 +22,7 @@ sitemap: false
 Somos referência no Treinamento em Sistemas de Informações Geográficas Livres e Abertas, em especial as apoiadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***.
   - Fomos os primeiros a ofertar **Cursos de QGIS** presenciais e regulares no Brasil
     - Somos os únicos a oferecer um **Curso de QGIS com R integrado para Geoestatística** com rotinas funcionais - *Rscripts* - completas e integradas para ***Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal*** desenvolvidas por nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
+
 [![QGIS/R](https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png)]({{ site.baseurl }}{% link docs/gis-102.md %})
 
 ---
