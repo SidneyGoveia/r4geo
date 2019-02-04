@@ -14,14 +14,10 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 
 ---
 ## [Sobre]({{ site.url }}{% link contact.md %})
-### Geosaber - 10 anos ministrando Cursos de SIG livres, presenciais on site e in company
+### Geosaber - 15 anos ministrando Cursos de SIG livres, presenciais on site e in company
 {% include figure.html image="https://github.com/geosaber/r4geo/raw/gh-pages/img/qgis-splash.png" alt="Geosaber" %}
 - Geosaber é um projeto mantido por Sidney Schaberle Goveia.
-  - Especialista em SIG (1998)
+  - Especialista em SIG (desde 1998)
+  - Ministra cursos de SIG livre (desde 2004)
   - Instrutor de QGIS (desde 2009)
-
-Iniciado em 2007, [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de agregar pessoas com conhecimentos em Geoprocessamento, Sensoriamento Remoto e Geoestatística para ser referência no Treinamento em Sistemas de Informações Geográficas Livres e Abertas, em especial as apoiadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***.
-  - Fomos os primeiros a ofertar **Cursos de QGIS** presenciais e regulares no Brasil
-    - Somos os únicos a oferecer um **Curso de QGIS com R integrado para Geoestatística** com rotinas funcionais - *Rscripts* - completas e integradas para ***Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal*** desenvolvidas por nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
-
-[![QGIS/R](https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png)]({{ site.baseurl }}{% link docs/gis-102.md %})
+  
