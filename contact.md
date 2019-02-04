@@ -17,7 +17,7 @@ sitemap: false
 ## Sobre
 - **Geosaber** é um projeto iniciado em 2007 e mantido por Sidney Schaberle Goveia
   - Especialista em SIG (1998) e Instrutor de QGIS (desde 2009)
-  - Sócio-Consultor de TI da Audoc.con Assessoria e Consultoria Ltda.
+  - Sócio-Consultor de TIG da Audoc.con Assessoria e Consultoria Ltda.
   
 Somos referência no Treinamento em Sistemas de Informações Geográficas Livres e Abertas, em especial as apoiadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***.
   - Fomos os primeiros a ofertar **Cursos de QGIS** presenciais e regulares no Brasil
