@@ -13,7 +13,7 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
   - [OCW IHE DELFT (en)](https://ocw.un-ihe.org/course/view.php?id=11)
 
 - QGIS (2.18) Aplicado ao Ordenamento Territorial Municipal
-  - [SIGPampa](http://porteiras.s.unipampa.edu.br/sigpampa/publicacoes)
+  - [SIGPampa](https://sites.unipampa.edu.br/sigpampa/publicacoes)
 
 - Análise Espacial em QGIS (2.16) - Exercícios do Módulo de Formação em Sistemas de Informação Geográfica
   - [Projeto SOPHIA](https://www.sophia-mar.pt/pt/formacoes)
