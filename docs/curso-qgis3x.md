@@ -17,7 +17,7 @@ excerpt: "Curso de QGIS"
 <p><span style="color: #444444;">Ou via <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://web.telegram.org" target="_blank" rel="nofollow noopener">Telegram</a></span> (<span style="color: #3366ff;"><i><b>@Geosaber</b></i></span>) - App (Android/iOS/Windows Phone)</span> de mensagem instantânea e envio de dados seguro (criptografado).</p>
 
 <h3><strong>Local:</strong></h3>
-<p>Av. Paulista, 807 – 9º andar – cjto 902. CEP 01311-915 – Cerqueira César. São Paulo - SP</p>
+<p>São Paulo - SP</p>
 
 <h3><strong><span style="color: #444444;">Valor da inscrição:</span></strong></h3>
 <p>As vagas são limitadas a 10 participantes.</p>
