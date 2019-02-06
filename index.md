@@ -8,9 +8,9 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 ## Turma Fevereiro/2019 - Inscrições abertas, vagas limitadas.
 - ***Dias: 25, 26 e 27 de fevereiro.***
 - ***Local: CT Novatec (Centro de Trenamento da Editora Novatec) - ao lado do Metrô Carandiru.***
+- [**Sobre o Curso de QGIS 3.4 Madeira**]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})
 
-[**Sobre o Curso de QGIS 3.4 Madeira**]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})
-
+---
 ## Cursos presenciais e *in company*
 ### [Informações]({{ site.url }}{% link courses.md %})
 - **GIS-101 Geoprocessamento com QGIS 3.4 Madeira**
