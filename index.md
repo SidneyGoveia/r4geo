@@ -8,10 +8,10 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 # Curso de Geoprocessamento com QGIS 3.4 Madeira
 ## Turma Fevereiro/2019 - Inscrições abertas, vagas limitadas.
 - ***Dias: 25, 26 e 27 de fevereiro.***
-- ***Local: [CT Novatec (Centro de Trenamento da Editora Novatec)](https://ctnovatec.com.br)*** - ao lado do Metrô Carandiru.
+- ***Local: [CT Novatec (Centro de Treinamento da Editora Novatec)](https://ctnovatec.com.br)*** - ao lado do Metrô Carandiru.
 - [**Sobre o Curso de QGIS 3.4 Madeira**]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})
 
-{% include button.html text="Inscreva-se" icon="github" link="https://www.geosaber.com.br/docs/curso-qgis3x" color="#ea5f5a" %}
+{% include button.html text="Inscreva-se" icon="github" link="https://www.geosaber.com.br/docs/curso-qgis3x" color="#fb2e01" %}
 
 ---
 ## Cursos presenciais e *in company*
