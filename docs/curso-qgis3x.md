@@ -21,6 +21,9 @@ excerpt: "Curso de QGIS"
 ### Local:
 - [Centro de Treinamento da Editora Novatec](https://ctnovatec.com.br) - São Paulo / SP. Ao lado da estação do Metrô Carandiru.
 
+### Horário:
+- As aulas serão das 09h às 18 horas.
+
 ### Valor da inscrição:
 As vagas são limitadas a 10 participantes.
 
@@ -37,11 +40,11 @@ As vagas são limitadas a 10 participantes.
 - Agência 1992-5
 - Conta Corrente 026006-1
 
-Não esqueça de enviar os comprovantes para o e-mail <span style="color: #3366ff;">[geosaber@gmail.com](mailto:geosaber@gmail.com)</span>
+> Não esqueça de enviar os comprovantes para o e-mail <span style="color: #3366ff;">[geosaber@gmail.com](mailto:geosaber@gmail.com)</span>
 - Estamos nos Cadastros de Fornecedores para Serviços Públicos:
   - **CAUFESP** - Cadastro Unificado de Fornecedores do Estado de São Paulo.
   - **SICAF** - Sistema de Cadastramento Unificado de Fornecedores (Governo Federal).
-
+  
 ### Formulário de Inscrição
 
 Preencha o <span style="color: #3366ff;">[Formulário](https://sites.google.com/view/geosaber)</span> para fazer sua inscrição. Os dados cadastrados servirão para a emissão do Certificado e da Nota Fiscal eletrônica.
