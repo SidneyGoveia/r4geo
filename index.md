@@ -8,7 +8,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 ## Turma Fevereiro/2019 - Inscrições abertas, vagas limitadas.
 - ***Dias: 25, 26 e 27 de fevereiro.***
 - ***Local: [CT Novatec (Centro de Treinamento da Editora Novatec)](https://ctnovatec.com.br)*** - ao lado do Metrô Carandiru. São Paulo - SP.
-- [**Sobre o Curso de QGIS 3.4 Madeira**]({{ site.baseurl }}{% link docs/gis-101.md %})
+- [**Programa do Curso de QGIS 3.4 Madeira**]({{ site.baseurl }}{% link docs/gis-101.md %})
 
 {% include button.html text="Inscreva-se" icon="github" link="https://www.geosaber.com.br/docs/curso-qgis3x" color="#fb2e01" %}
 
