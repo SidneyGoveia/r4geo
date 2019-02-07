@@ -7,7 +7,7 @@ feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.
 tags: QGIS, Curso de QGIS
 excerpt: "Curso de QGIS"
 ---
-# Curso Presencial de QGIS - Módulo Básico
+# Curso Presencial de QGIS (desde 2009)
 ## Sobre o Curso
 <h3><strong>Instrutor:</strong></h3>
 <p>Sidney Schaberle Goveia - Especialista em SIG desde 1998 e Instrutor de QGIS desde 2009</p>
@@ -45,7 +45,7 @@ excerpt: "Curso de QGIS"
 </ul>
 
 <h3><strong>Formulário de Inscrição</strong></h3>
-<p>Preencha o <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://www.geosaber.com.br">Formulário</a></span> para fazer sua inscrição. Os dados  cadastrados servirão para a emissão do Certificado e da Nota Fiscal eletrônica.</p>
+<p>Preencha o <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://sites.google.com/view/geosaber">Formulário</a></span> para fazer sua inscrição. Os dados  cadastrados servirão para a emissão do Certificado e da Nota Fiscal eletrônica.</p>
 
 <div>
 <h3><strong>Condições e pré-requisitos</strong></h3>
@@ -57,7 +57,7 @@ excerpt: "Curso de QGIS"
 <li><strong>Espaço livre em Disco</strong>: mínimo de 3GB;</li>
 <li><strong>Sistema Operacional</strong>: <span style="color: #3366ff;">Windows</span> (7, 10 ou 8.1), <span style="color: #ff6600;">Linux</span> (Ubuntu) ou <span style="color: #99cc00;">MacOSX</span>.</li>
 </ul>
-<p>O usuário é o responsável pelas condições de usabilidade de seu computador, tendo domínio do S.O. escolhido e devendo o mesmo estar atualizado e protegido por antivirus (alguns antivirus podem interferir no funcionamento do QGIS). Todos os exercícios que serão executados durante as aulas foram testados usando o QGIS 2.18 Las Palmas em Windows 10 de 64 bits e garantimos o funcionamento nessas condições.</p>
+<p>O usuário é o responsável pelas condições de usabilidade de seu computador, tendo domínio do S.O. escolhido e devendo o mesmo estar atualizado e protegido por antivirus (alguns antivirus podem interferir no funcionamento do QGIS). Todos os exercícios que serão executados durante as aulas foram testados usando o QGIS 3.4 Madeira, em Windows 10 de 64 bits e garantimos o funcionamento nessas condições.</p>
 <h3><strong>Termo de cancelamento:</strong></h3>
 <p>Para cancelamento de inscrição, envie um e-mail para <a href="mailto:geosaber@gmail.com">geosaber@gmail.com</a></p>
 <p>O cancelamento será efetuado somente após a confirmação por e-mail e com uma semana de antecedência do início das aulas. Será descontado 25% referente a custos como materiais, serviços contratados, pagos antecipadamente por participante. Para substituições de participante, favor, enviar email com o nome completo, telefones de contato e email do substituto.</p>
