@@ -32,7 +32,7 @@ As vagas são limitadas a 10 participantes.
 
 > <span style="color: #ff0000;">*</span>Somente com atestado de matrícula ou carteira funcional de professor que deverá ser enviada cópia no ato da inscrição.
 
-### Conta para fazer o depósito:
+#### ***Conta para fazer o depósito:***
 - Audoc.con Assessoria e Consultoria Ltda.
 - CNPJ 04.040.661/0001-00
 - Inscrição Municipal 3.507.944-4
