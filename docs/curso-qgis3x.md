@@ -19,8 +19,7 @@ excerpt: "Curso de QGIS"
   - <span style="color: #444444;">Ou via <span style="color: #3366ff;">[Telegram](https://web.telegram.org)</span> (<span style="color: #3366ff;">_**@Geosaber**_</span>) - App (Android/iOS/Windows Phone)</span> de mensagem instantânea e envio de dados seguro (criptografado).
 
 ### Local:
-- Centro de Treinamento Novatec - São Paulo / SP
-Ao lado da estação do Metrô Carandiru
+- Centro de Treinamento Novatec - São Paulo / SP. Ao lado da estação do Metrô Carandiru.
 
 ### Valor da inscrição:
 As vagas são limitadas a 10 participantes.
