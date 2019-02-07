@@ -50,7 +50,7 @@ Preencha o <span style="color: #3366ff;">[Formulário](https://sites.google.com/
 ### Condições e pré-requisitos
 
 Para participar do Curso são requisitos conhecimentos básicos de informática e de nível médio de ensino. Todos os participantes devem trazer consigo um ***Notebook*** e ***Mouse***.
-![](https://github.com/geosaber/r4geo/raw/gh-pages/img/notebook.png)
+{% include figure.html image="https://github.com/geosaber/r4geo/raw/gh-pages/img/notebook.png" alt="Geosaber" %}
 
 - Configuração recomendada:
   - **Processador**: Core i5 (_Dual Core_);
