@@ -7,7 +7,7 @@ feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.
 tags: QGIS, Curso de QGIS
 excerpt: "Curso de QGIS"
 ---
-# Curso Presencial de QGIS (desde 2009)
+# Curso Presencial de QGIS
 ## Sobre o Curso
 <h3><strong>Instrutor:</strong></h3>
 <p>Sidney Schaberle Goveia - Especialista em SIG desde 1998 e Instrutor de QGIS desde 2009</p>
@@ -17,7 +17,8 @@ excerpt: "Curso de QGIS"
 <p><span style="color: #444444;">Ou via <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://web.telegram.org" target="_blank" rel="nofollow noopener">Telegram</a></span> (<span style="color: #3366ff;"><i><b>@Geosaber</b></i></span>) - App (Android/iOS/Windows Phone)</span> de mensagem instantânea e envio de dados seguro (criptografado).</p>
 
 <h3><strong>Local:</strong></h3>
-<p>São Paulo - SP</p>
+<p>Centro de Treinamento Novatec - São Paulo / SP</p>
+<p>Ao lado da estação do Metrô Carandiru</p>
 
 <h3><strong><span style="color: #444444;">Valor da inscrição:</span></strong></h3>
 <p>As vagas são limitadas a 10 participantes.</p>
