@@ -7,7 +7,7 @@ feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.
 tags: QGIS, Curso de QGIS
 excerpt: "Curso de QGIS"
 ---
-## Curso Presencial de QGIS em São Paulo - SP
+## Curso Presencial de QGIS
 ### Sobre o Curso
 - **Instrutor:** Sidney Schaberle Goveia
   - Especialista em SIG desde 1998
@@ -15,7 +15,7 @@ excerpt: "Curso de QGIS"
 
 - **Contatos:**
   - Tel: <span style="color: #444444;">(11) 9-8233-1208 TIM
-  - e-mail: </span><span style="color: #3366ff;">[sidney.goveia@audoc.com.br](mailto:sidney.goveia@localhost)</span> 
+  - e-mail: <span style="color: #3366ff;">[sidney.goveia@audoc.com.br](mailto:sidney.goveia@localhost)</span> 
   - <span style="color: #444444;">Ou via <span style="color: #3366ff;">[Telegram](https://web.telegram.org)</span> (<span style="color: #3366ff;">_**@Geosaber**_</span>) - App (Android/iOS/Windows Phone)</span> de mensagem instantânea e envio de dados seguro (criptografado).
 
 ### Local:
