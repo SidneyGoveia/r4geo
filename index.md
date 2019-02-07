@@ -18,6 +18,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 - **GIS-101 Geoprocessamento com QGIS 3.4 Madeira**
 - **GIS-102 Análise Espacial e Geoestatística com QGIS e RSpatial**
 - **GIS-103 Modelagem de Sistemas para Cadastro Técnico/Redes - QGIS/PostGIS**
+- **GIS-104 Processamento Digital de Imagens de Sensores Remotos - QGIS/GDAL/OTB**
 
 {% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Facebook" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Linkedin" icon="linkedin" link="https://www.linkedin.com/company/geosaber" color="#0c94a7" %}
 
@@ -27,6 +28,6 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 {% include figure.html image="https://github.com/geosaber/r4geo/raw/gh-pages/img/qgis-splash.png" alt="Geosaber" %}
 - Geosaber é um projeto mantido por Sidney Schaberle Goveia.
   - Especialista em SIG (desde 1998)
-  - Ministra cursos de SIG livre (desde 2004)
-  - Instrutor de QGIS (desde 2009)
+  - Ministra cursos de SIG livre desde 2004 (TerraView/SPRING)
+  - Instrutor de QGIS desde 2009 (versão QGIS 1.0 "Kore")
   
