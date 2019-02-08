@@ -3,9 +3,12 @@ title: QGIS 3.0 e Whitebox GAT
 category: General
 feature_image: "https://picsum.photos/200/300/?random"
 ---
+# *WhiteBox for Processing*
+## Integra ferramentas do Whitebox Tools no framework de Processamento do QGIS.
+O Whitebox Tools é um avançado mecanismo de análise de dados geoespaciais desenvolvido no Grupo de Pesquisa de Geomorfometria e Hidrogeomática da Universidade de Guelph. As Ferramentas do Whitebox podem ser usadas para executar operações de análise de sistemas de informações geográficas (GIS) comuns, como análise de custo-distância, buffer de distância, reclassificação de rasterização e muito mais.
+[![WhiteBoxTools](https://github.com/geosaber/r4geo/raw/gh-pages/img/whitebox-settings.png)](https://plugins.bruy.me/processing-whitebox.html)
 
-# *WhiteboxTools library*
-
+## *WhiteboxTools library*
 ![WhiteboxTools](https://github.com/geosaber/r4geo/raw/gh-pages/img/whiteboxtoolslogoblue.png)
 ---
 >***WhiteboxTools*** é um mecanismo avançado de análise de dados geoespaciais.
