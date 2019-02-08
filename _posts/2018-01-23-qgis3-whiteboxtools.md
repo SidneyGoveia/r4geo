@@ -1,7 +1,7 @@
 ---
 title: QGIS 3.0 e Whitebox GAT
 category: General
-feature_image: "https://picsum.photos/200/300/?random"
+feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.png"
 ---
 # *WhiteBox for Processing*
 ## Integra ferramentas do Whitebox Tools no framework de Processamento do QGIS.
