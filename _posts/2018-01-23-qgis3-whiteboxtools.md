@@ -20,6 +20,10 @@ Isso porque a ***Rust*** é geralmente mais rápida do que o código Java equiva
 
 - [WhiteboxTools library](https://whiteboxgeospatial.wordpress.com/2017/07/10/announcing-the-whiteboxtools-library)
 
-- [Whitebox Geospatial Analysis Tools - GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox)
+- [***Whitebox Geospatial Analysis Tools - GAT***](http://www.uoguelph.ca/~hydrogeo/Whitebox)
 
-- [Github Whitebox](https://github.com/jblindsay/whitebox-geospatial-analysis-tools)
+- [**Whitebox Tools**](https://github.com/jblindsay/whitebox-tools)
+
+- [*WhiteboxTools User Manual*](https://jblindsay.github.io/wbt_book)
+
+- [*WhiteboxTools R Frontend*](https://github.com/giswqs/whiteboxR)
