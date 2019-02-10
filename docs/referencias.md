@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-#Referências
+# Referências
 - [GEOG2210 GRASS Tutorial](https://iweb.langara.bc.ca/geography/GRASS_tutorial/introduction.html)
 - [GIS and Mapping with R](http://www.richardcondit.org/workshops/Rgis/tupper2015/index.html)
 - [Learn to use earth science and other data in R & Python](https://www.earthdatascience.org)
