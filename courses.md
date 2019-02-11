@@ -28,12 +28,12 @@ excerpt: "Cursos de QGIS e SIG livres"
  - **Valor**: ***R$600*** para Profissionais e ***R$500*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
  
- ### [GIS-104 Processamento Digital de Imagens]({{ site.baseurl }}{% link docs/gis-104.md %})
+### [GIS-104 Processamento Digital de Imagens]({{ site.baseurl }}{% link docs/gis-104.md %})
  - **Duração**: 16 horas
  - **Valor**: ***R$600*** para Profissionais e ***R$500*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
  
- ### [GIS-105 Curso Avançado de QGIS]({{ site.baseurl }}{% link docs/gis-105.md %})
+### [GIS-105 Curso Avançado de QGIS]({{ site.baseurl }}{% link docs/gis-105.md %})
  - **Duração**: 40 horas
  - **Valor**: ***R$1200*** para Profissionais e ***R$990*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
