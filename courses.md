@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cursos
-feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/geosaber_capa.png"
+feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/site_curso_qgis.png"
 tags: QGIS, Curso QGIS, Curso de QGIS
 excerpt: "Cursos de QGIS e SIG livres"
 ---
