@@ -2,112 +2,39 @@
 layout: page
 ---
 # Hands-On Geospatial Analysis with R and QGIS
-- Practical examples with real-world projects in GIS, Remote sensing, Geospatial data management and Analysis using the R programming language
+> Practical examples with real-world projects in GIS, Remote sensing, Geospatial data management and Analysis using the R programming language
 
-Table of Contents
+## Table of Contents
 -----------------
 
-Chapter 1: Setting Up R and QGIS Environments for Geospatial Tasks
+### Chapter 1: Setting Up R and QGIS Environments for Geospatial Tasks
+- [Installing R](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec10/installing-r)
+- [Basic data types and data structures in R](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec11/basic-data-types-and-data-structures-in-r)
+- [Looping, functions, and apply family in R](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec12/looping%2c-functions%2c-and-apply-family-in-r)
+- [Plotting in R](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec13/plotting-in-r)
+- [Installing QGIS](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec14/installing-qgis)
+- [Getting to know the QGIS environment](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec15/getting-to-know-the-qgis-environment)
+- [Summary](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec16/summary)
+- [Questions](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec17/questions)
+- [Further reading](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec18/further-reading)
 
-[
+### Chapter 2: Fundamentals of GIS Using R and QGIS
 
-Installing R
+[GIS in R](https://subscription.packtpub.com/book/application_development/9781788991674/2/ch02lvl1sec19/gis-in-r)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec10/installing-r)
+[Vector data in QGIS](https://subscription.packtpub.com/book/application_development/9781788991674/2/ch02lvl1sec20/vector-data-in-qgis)
 
-[
+[Summary](https://subscription.packtpub.com/book/application_development/9781788991674/2/ch02lvl1sec21/summary)
 
-Basic data types and data structures in R
+[Questions](https://subscription.packtpub.com/book/application_development/9781788991674/2/ch02lvl1sec22/questions)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec11/basic-data-types-and-data-structures-in-r)
+[Further reading](https://subscription.packtpub.com/book/application_development/9781788991674/2/ch02lvl1sec23/further-reading)
 
-[
+### Chapter 3: Creating Geospatial Data
 
-Looping, functions, and apply family in R
+[Getting data from the web](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec24/getting-data-from-the-web)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec12/looping%2c-functions%2c-and-apply-family-in-r)
-
-[
-
-Plotting in R
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec13/plotting-in-r)
-
-[
-
-Installing QGIS
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec14/installing-qgis)
-
-[
-
-Getting to know the QGIS environment
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec15/getting-to-know-the-qgis-environment)
-
-[
-
-Summary
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec16/summary)
-
-[
-
-Questions
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec17/questions)
-
-[
-
-Further reading
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/1/ch01lvl1sec18/further-reading)
-
-Chapter 2: Fundamentals of GIS Using R and QGIS
-
-[
-
-GIS in R
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/2/ch02lvl1sec19/gis-in-r)
-
-[
-
-Vector data in QGIS
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/2/ch02lvl1sec20/vector-data-in-qgis)
-
-[
-
-Summary
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/2/ch02lvl1sec21/summary)
-
-[
-
-Questions
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/2/ch02lvl1sec22/questions)
-
-[
-
-Further reading
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/2/ch02lvl1sec23/further-reading)
-
-Chapter 3: Creating Geospatial Data
-
-[
-
-Getting data from the web
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec24/getting-data-from-the-web)
-
-[
-
-Creating vector data
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec25/creating-vector-data)
+[Creating vector data](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec25/creating-vector-data)
 
 [
 
