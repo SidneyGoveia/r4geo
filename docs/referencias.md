@@ -8,3 +8,5 @@ layout: page
 - [R tips](http://wiki.cbr.washington.edu/qerm/index.php/R_tips)
 - [R2VR: Meshing Uluru From Polygons and Rasters](https://milesmcbain.xyz/r2v1-meshing-uluru-from-polygons-and-rasters)
 - [Plots of spatial predictions using projections and  rasterVis](https://kimura.univ-montp2.fr/~rousset/spaMM/example_raster.html)
+- [Geostatistics Lessons](http://geostatisticslessons.com)
+- [Geospatial Institute  Educational Resources for Geospatial Science](https://www.geospatial.institute)
