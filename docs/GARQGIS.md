@@ -36,211 +36,83 @@ layout: page
 
 [Creating vector data](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec25/creating-vector-data)
 
-[
+[Digitizing a map](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec26/digitizing-a-map)
 
-Digitizing a map
+[Working with databases](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec27/working-with-databases)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec26/digitizing-a-map)
+[Summary](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec28/summary)
 
-[
+[Questions](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec29/questions)
 
-Working with databases
+[Further reading](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec30/further-reading)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec27/working-with-databases)
+### Chapter 4: Working with Geospatial Data
 
-[
+[Working with vector data in R](https://subscription.packtpub.com/book/application_development/9781788991674/4/ch04lvl1sec31/working-with-vector-data-in-r)
 
-Summary
+[Working with vector data in QGIS](https://subscription.packtpub.com/book/application_development/9781788991674/4/ch04lvl1sec32/working-with-vector-data-in-qgis)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec28/summary)
+[Summary](https://subscription.packtpub.com/book/application_development/9781788991674/4/ch04lvl1sec33/summary)
 
-[
+### Chapter 5: Remote Sensing Using R and QGIS
 
-Questions
+[Basics of remote sensing](https://subscription.packtpub.com/book/application_development/9781788991674/5/ch05lvl1sec34/basics-of-remote-sensing)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec29/questions)
+[Working with raster data in R](https://subscription.packtpub.com/book/application_development/9781788991674/5/ch05lvl1sec35/working-with-raster-data-in-r)
 
-[
+[Working with raster data in QGIS](https://subscription.packtpub.com/book/application_development/9781788991674/5/ch05lvl1sec36/working-with-raster-data-in-qgis)
 
-Further reading
+[Summary](https://subscription.packtpub.com/book/application_development/9781788991674/5/ch05lvl1sec37/summary)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/3/ch03lvl1sec30/further-reading)
+[Questions](https://subscription.packtpub.com/book/application_development/9781788991674/5/ch05lvl1sec38/questions)
 
-Chapter 4: Working with Geospatial Data
+### Chapter 6: Point Pattern Analysis
 
-[
+[Introduction to point pattern analysis](https://subscription.packtpub.com/book/application_development/9781788991674/6/ch06lvl1sec39/introduction-to-point-pattern-analysis)
 
-Working with vector data in R
+[Analysis of point patterns](https://subscription.packtpub.com/book/application_development/9781788991674/6/ch06lvl1sec40/analysis-of-point-patterns)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/4/ch04lvl1sec31/working-with-vector-data-in-r)
+[Summary](https://subscription.packtpub.com/book/application_development/9781788991674/6/ch06lvl1sec41/summary)
 
-[
+### Chapter 7: Spatial Analysis
 
-Working with vector data in QGIS
+[Testing autocorrelation](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec42/testing-autocorrelation)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/4/ch04lvl1sec32/working-with-vector-data-in-qgis)
+[Modeling autocorrelation](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec43/modeling-autocorrelation)
 
-[
+[Generalized linear model](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec44/generalized-linear-model)
 
-Summary
+[Spatial interpolation](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec45/spatial-interpolation)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/4/ch04lvl1sec33/summary)
+[Geostatistics](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec46/geostatistics)
 
-Chapter 5: Remote Sensing Using R and QGIS
+[Summary](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec47/summary)
 
-[
+### Chapter 8: GRASS, Graphical Modelers, and Web Mapping
 
-Basics of remote sensing
+[GRASS GIS](https://subscription.packtpub.com/book/application_development/9781788991674/8/ch08lvl1sec48/grass-gis)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/5/ch05lvl1sec34/basics-of-remote-sensing)
+[Web mapping](https://subscription.packtpub.com/book/application_development/9781788991674/8/ch08lvl1sec49/web-mapping)
 
-[
+[Summary](https://subscription.packtpub.com/book/application_development/9781788991674/8/ch08lvl1sec50/summary)
 
-Working with raster data in R
+### Chapter 9: Classification of Remote Sensing Images
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/5/ch05lvl1sec35/working-with-raster-data-in-r)
+[Classification of raster data](https://subscription.packtpub.com/book/application_development/9781788991674/9/ch09lvl1sec51/classification-of-raster-data)
 
-[
+[Supervised classification](https://subscription.packtpub.com/book/application_development/9781788991674/9/ch09lvl1sec52/supervised-classification)
 
-Working with raster data in QGIS
+[Unsupervised classification](https://subscription.packtpub.com/book/application_development/9781788991674/9/ch09lvl1sec53/unsupervised-classification)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/5/ch05lvl1sec36/working-with-raster-data-in-qgis)
+[Summary](https://subscription.packtpub.com/book/application_development/9781788991674/9/ch09lvl1sec54/summary)
 
-[
+### Chapter 10: Landslide Susceptibility Mapping
 
-Summary
+[Landslides in Bangladesh](https://subscription.packtpub.com/book/application_development/9781788991674/10/ch10lvl1sec55/landslides-in-bangladesh)
 
-](https://subscription.packtpub.com/book/application_development/9781788991674/5/ch05lvl1sec37/summary)
+[Landslide susceptibility modeling](https://subscription.packtpub.com/book/application_development/9781788991674/10/ch10lvl1sec56/landslide-susceptibility-modeling)
 
-[
-
-Questions
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/5/ch05lvl1sec38/questions)
-
-Chapter 6: Point Pattern Analysis
-
-[
-
-Introduction to point pattern analysis
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/6/ch06lvl1sec39/introduction-to-point-pattern-analysis)
-
-[
-
-Analysis of point patterns
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/6/ch06lvl1sec40/analysis-of-point-patterns)
-
-[
-
-Summary
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/6/ch06lvl1sec41/summary)
-
-Chapter 7: Spatial Analysis
-
-[
-
-Testing autocorrelation
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec42/testing-autocorrelation)
-
-[
-
-Modeling autocorrelation
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec43/modeling-autocorrelation)
-
-[
-
-Generalized linear model
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec44/generalized-linear-model)
-
-[
-
-Spatial interpolation
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec45/spatial-interpolation)
-
-[
-
-Geostatistics
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec46/geostatistics)
-
-[
-
-Summary
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/7/ch07lvl1sec47/summary)
-
-Chapter 8: GRASS, Graphical Modelers, and Web Mapping
-
-[
-
-GRASS GIS
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/8/ch08lvl1sec48/grass-gis)
-
-[
-
-Web mapping
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/8/ch08lvl1sec49/web-mapping)
-
-[
-
-Summary
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/8/ch08lvl1sec50/summary)
-
-Chapter 9: Classification of Remote Sensing Images
-
-[
-
-Classification of raster data
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/9/ch09lvl1sec51/classification-of-raster-data)
-
-[
-
-Supervised classification
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/9/ch09lvl1sec52/supervised-classification)
-
-[
-
-Unsupervised classification
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/9/ch09lvl1sec53/unsupervised-classification)
-
-[
-
-Summary
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/9/ch09lvl1sec54/summary)
-
-Chapter 10: Landslide Susceptibility Mapping
-
-[
-
-Landslides in Bangladesh
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/10/ch10lvl1sec55/landslides-in-bangladesh)
-
-[
-
-Landslide susceptibility modeling
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/10/ch10lvl1sec56/landslide-susceptibility-modeling)
-
-[
-
-Summary
-
-](https://subscription.packtpub.com/book/application_development/9781788991674/10/ch10lvl1sec57/summary)
+[Summary](https://subscription.packtpub.com/book/application_development/9781788991674/10/ch10lvl1sec57/summary)
 
 ## Objectives
 ### Install R and QGIS
