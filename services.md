@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Historico
+title: Serviços
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/geosaber_capa.png"
 excerpt: "Treinamentos em QGIS e Consultoria com SIG livre"
 tagline: Consultoria
