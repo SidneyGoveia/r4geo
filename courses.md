@@ -41,5 +41,6 @@ excerpt: "Cursos de QGIS e SIG livres"
  - **Duração**: 20 horas
  - **Valor**: ***R$990*** para Profissionais e ***R$890*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
+ 
 ---
 [Ir para a página Inicial]({{ site.url }}{{ site.baseurl }})
