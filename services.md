@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Serviços
+title: Histórico
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/geosaber_capa.png"
 excerpt: "Treinamentos em QGIS e Consultoria com SIG livre"
 tagline: Consultoria
 ---
-# Histórico dos Serviços
-## Consultoria e Treinamentos em Geoprocessamento (desde 2004)
+# Serviços de Consultoria e Treinamentos em Geoprocessamento (desde 2004)
 ---
 <table style="height: 5012px;" width="90%">
 <tbody>
