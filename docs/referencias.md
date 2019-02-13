@@ -10,3 +10,7 @@ layout: page
 - [Plots of spatial predictions using projections and  rasterVis](https://kimura.univ-montp2.fr/~rousset/spaMM/example_raster.html)
 - [Geostatistics Lessons](http://geostatisticslessons.com)
 - [Geospatial Institute  Educational Resources for Geospatial Science](https://www.geospatial.institute)
+- [Analyses for spatial autocorrelation](https://gwenantell.com/analyses-for-spatial-autocorrelation)
+- [Paul Julian II Blog](https://swampthingpaul.github.io/blog)
+- [Florian Privé Blog](https://privefl.github.io/blog)
+- [Water Rules](https://brfry.github.io)
