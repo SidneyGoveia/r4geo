@@ -18,7 +18,7 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - Análise Espacial em QGIS (2.16) - Exercícios do Módulo de Formação em Sistemas de Informação Geográfica
   - [Projeto SOPHIA](https://www.sophia-mar.pt/pt/formacoes)
 
-- Apostila Mapas Temáticos no QGIS (2.8) - Curso de Geoprocessamento com QGIS
+- ***Apostila Mapas Temáticos no QGIS (2.8) - Curso de Geoprocessamento com QGIS***
   - [Baixar]({{ site.baseurl }}{% link /docs/Mapas-Tematicos-QGIS-2.8.pdf %})
 
 - Geoprocessamento Aplicado ao Planejamento e Gestão do Território (2.6)
