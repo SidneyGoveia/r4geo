@@ -29,29 +29,33 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 
 ---
 ## Tutoriais
-- [Alternativa ao OpenLayers no QGIS](https://sites.google.com/site/geosaber/Tutoriais/alternativaaoopenlayersnoqgis)
-- [Análise Hidrológica no QGIS](https://sites.google.com/site/geosaber/Tutoriais/analisehidrologicanoqgis)
-- [Conversão para Reflectância de Imagens do Landsat 8 no QGIS](https://sites.google.com/site/geosaber/Tutoriais/conversaoparareflectanciadeimagensdolandsat8noqgis)
-- [Dados de Elevação](https://sites.google.com/site/geosaber/Tutoriais/dadosdeelevacao)
-- [Dados SRTM de 30 metros de resolução espacial gratuitos](https://sites.google.com/site/geosaber/Tutoriais/dadossrtmde30metrosderesolucaoespacialgratuitos)
-- [Delimitação de Bacias Hidrográficas - QGIS 2](https://www.geosaber.com.br/tutoriais/2017/01/02/delimitacao-bacias-hidrograficas)
-- [Delimitação de Bacias Hidrográficas usando o SAGA-GIS e R](https://sites.google.com/site/geosaber/Tutoriais/delimitacaodebaciashidrograficasusandoosaga-giser)
-- [ESA Sentinel Sattelites Data](https://sites.google.com/site/geosaber/Tutoriais/esasentinelsattelitesdata)
-- [FOSS4G (GeoAcademy)](https://sites.google.com/site/geosaber/Tutoriais/FOSS4G)
-- [Fusão de Imagens no QGIS 2.6](https://sites.google.com/site/geosaber/Tutoriais/fusaodeimagensnoqgis26)
-- [Geração de Memorial Descritivo no QGIS](https://sites.google.com/site/geosaber/Tutoriais/geracaodememorialdescritivonoqgis)
-- [Imagens do Satélite CBERS-4](https://sites.google.com/site/geosaber/Tutoriais/imagensdosatelitecbers-4)
-- [Mapas temáticos no QGIS](https://sites.google.com/site/geosaber/Tutoriais/mapastematicosnoqgis)
-- [Paletas de Cores no QGIS](https://sites.google.com/site/geosaber/Tutoriais/paletasdecoresnoqgis)
-- [QGIS Server in the Cloud](https://sites.google.com/site/geosaber/Tutoriais/qgisserverinthecloud)
-- [Simulando Cores Reais em Imagens ASTER](https://sites.google.com/site/geosaber/Tutoriais/imagensaster)
+1. **Delimitação de Bacias Hidrográficas**
+    - [Análise Hidrológica no QGIS](https://sites.google.com/site/geosaber/Tutoriais/analisehidrologicanoqgis)
+    - [Delimitação de Bacias Hidrográficas - QGIS 2](https://www.geosaber.com.br/tutoriais/2017/01/02/delimitacao-bacias-hidrograficas)
+    - [Delimitação de Bacias Hidrográficas usando o SAGA-GIS e R](https://sites.google.com/site/geosaber/Tutoriais/delimitacaodebaciashidrograficasusandoosaga-giser)
+2. **Processamento de Imagens**
+    - [Conversão para Reflectância de Imagens do Landsat 8 no QGIS](https://sites.google.com/site/geosaber/Tutoriais/conversaoparareflectanciadeimagensdolandsat8noqgis)
+    - [Fusão de Imagens no QGIS 2.6](https://sites.google.com/site/geosaber/Tutoriais/fusaodeimagensnoqgis26)
+    - [Simulando Cores Reais em Imagens ASTER](https://sites.google.com/site/geosaber/Tutoriais/imagensaster)
+    - [ESA Sentinel Sattelites Data](https://sites.google.com/site/geosaber/Tutoriais/esasentinelsattelitesdata)
+    - [Imagens do Satélite CBERS-4](https://sites.google.com/site/geosaber/Tutoriais/imagensdosatelitecbers-4)
+3. **Modelos Digitais de Elevação**
+    - [Dados de Elevação](https://sites.google.com/site/geosaber/Tutoriais/dadosdeelevacao)
+    - [Dados SRTM de 30 metros de resolução espacial gratuitos](https://sites.google.com/site/geosaber/Tutoriais/dadossrtmde30metrosderesolucaoespacialgratuitos)
+4. **SIG**
+    - [Alternativa ao OpenLayers no QGIS](https://sites.google.com/site/geosaber/Tutoriais/alternativaaoopenlayersnoqgis)
+    - [FOSS4G (GeoAcademy)](https://sites.google.com/site/geosaber/Tutoriais/FOSS4G)
+    - [Geração de Memorial Descritivo no QGIS](https://sites.google.com/site/geosaber/Tutoriais/geracaodememorialdescritivonoqgis)
+    - [Mapas temáticos no QGIS](https://sites.google.com/site/geosaber/Tutoriais/mapastematicosnoqgis)
+    - [Paletas de Cores no QGIS](https://sites.google.com/site/geosaber/Tutoriais/paletasdecoresnoqgis)
+    - [QGIS Server in the Cloud](https://sites.google.com/site/geosaber/Tutoriais/qgisserverinthecloud)
 
 ## Materiais de Estudo
 [Livros/Apostilas](https://sites.google.com/site/geosaber/Livros)
 
 <h4>Referências usadas no Curso de Geoprocessamento</h4>
 <ul>
- 	<li><a href="https://drive.google.com/open?id=0B7o53zMePi1MZVZ0YXBqMDNmMVk">Mapas Temáticos no QGIS</a> - Guia de elaboração de Mapas Temáticos no QGIS 2.8 LTR. Geoasaber / S. S. Goveia, 2015.</li>
+ 	<li><a href="https://drive.google.com/open?id=0B7o53zMePi1MZVZ0YXBqMDNmMVk">Mapas Temáticos no QGIS</a> - Guia de elaboração de Mapas Temáticos no QGIS 2.8 LTR. Geosaber / S.S.Goveia, 2015.</li>
 </ul>
 <ul>
  	<li><a href="https://2016.foss4g-na.org/sites/default/files/slides/QGIS%20Workshop.pdf">Introduction to QGIS</a> (Slides do Workshop - FOSS4G-NA, 2016).</li>
