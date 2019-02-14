@@ -7,8 +7,8 @@ excerpt: "Cursos de QGIS e SIG livres"
 ---
 ## [Sobre o Curso de QGIS 3.4 Madeira]({{ site.baseurl }}{% link docs/gis-101.md %})
 {% include figure.html image="https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_curso_qgis.png" alt="Geosaber" %}
-- [***Inscreva-se***]({{ site.baseurl }}{% link docs/curso-qgis3x.md %})
 
+---
 ## Cursos Oferecidos
 ### [GIS-101 Geoprocessamento com QGIS 3.4 Madeira]({{ site.baseurl }}{% link docs/gis-101.md %})
  - **Duração**: 24 horas
