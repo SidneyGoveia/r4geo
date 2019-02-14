@@ -38,7 +38,7 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: true
-    description: (Blogger 2007-2017) <https://geosaber.blogspot.com> # The post list page content
+    description: (2007-2017) <https://geosaber.blogspot.com> # The post list page content
     feature_text: |
       
     feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/geosaber_capa.png"
@@ -71,7 +71,7 @@ navigation_header:
   Cursos: /courses/
   Blog: /blog/
   Tutoriais: /tutorials/
-  Historico: /services/
+  Serviços: /services/
   Contato: /contact/
   Busca: /search/
 
