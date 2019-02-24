@@ -29,6 +29,7 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 
 ---
 ## Tutoriais
+- [Referencias]({{ site.baseurl }}{% link /docs/referencias.md %})
 1. **Delimitação de Bacias Hidrográficas**
     - [Análise Hidrológica no QGIS](https://sites.google.com/site/geosaber/Tutoriais/analisehidrologicanoqgis)
     - [Delimitação de Bacias Hidrográficas - QGIS 2](https://www.geosaber.com.br/tutoriais/2017/01/02/delimitacao-bacias-hidrograficas)
