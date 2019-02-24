@@ -14,3 +14,5 @@ layout: page
 - [Paul Julian II Blog](https://swampthingpaul.github.io/blog)
 - [Florian Privé Blog](https://privefl.github.io/blog)
 - [Water Rules](https://brfry.github.io)
+- [GEOG 4/595: Geographic Data Analysis (Geospatial analysis in R)](https://pjbartlein.github.io/GeogDataAnalysis)
+- [GEOG 4/590: R for Earth-System Science | Fall 2016.](http://geog.uoregon.edu/bartlein/courses/geog490)
