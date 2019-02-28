@@ -10,8 +10,6 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 - ***Local: [CT Novatec (Centro de Treinamento da Editora Novatec)](https://ctnovatec.com.br)*** - ao lado do Metrô Carandiru. São Paulo - SP.
 - [**Programa do Curso de QGIS 3.4 Madeira**]({{ site.baseurl }}{% link docs/gis-101.md %})
 
-{% include button.html text="Inscreva-se" icon="github" link="https://www.geosaber.com.br/docs/curso-qgis3x" color="#fb2e01" %}
-
 ---
 ## Cursos presenciais e *in company*
 ### [Informações]({{ site.url }}{% link courses.md %})
