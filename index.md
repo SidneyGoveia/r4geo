@@ -4,9 +4,9 @@ feature_text: |
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/site_geosaber.png"
 excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
-# GIS-101 Geoprocessamento com QGIS 3.4 Madeira
-## Turma Abril/2019 - Inscrições abertas, vagas limitadas.
-- ***Dias: 08 a 10***
+## ***GIS-101 Geoprocessamento com QGIS 3.4 Madeira***
+### Turma Abril/2019 - Inscrições abertas, vagas limitadas.
+- ***Dias: 08 a 10 de abril de 2019***
 - ***Local: [CT Novatec (Centro de Treinamento da Editora Novatec)](https://ctnovatec.com.br)*** - ao lado do Metrô Carandiru. São Paulo - SP.
 - [**Programa do Curso de QGIS 3.4 Madeira**]({{ site.baseurl }}{% link docs/gis-101.md %})
 
