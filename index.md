@@ -31,5 +31,4 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 - Geosaber é um projeto mantido por Sidney Schaberle Goveia.
   - Especialista em SIG (desde 1998)
   - Ministra cursos de SIG livre desde 2004 (TerraView/SPRING)
-  - Instrutor de QGIS desde 2009 (versão QGIS 1.0 "Kore")
-  
+  - Instrutor de QGIS desde 2009 (versão QGIS 1.0 "Kore") 
