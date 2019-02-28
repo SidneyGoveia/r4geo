@@ -37,7 +37,7 @@ excerpt: "Cursos de QGIS e SIG livres"
  - **Valor**: ***R$1200*** para Profissionais e ***R$990*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
 
-### GIS-106 Análise Geoespacial no R
+### [GIS-106 Análise Geoespacial no R]({{ site.baseurl }}{% link docs/gis-106.md %})
  - **Duração**: 20 horas
  - **Valor**: ***R$990*** para Profissionais e ***R$890*** para Estudantes e Professores (mediante apresentação de comprovante)
  - **Descontos**: temos descontos especiais para turmas e Cursos *in company*
