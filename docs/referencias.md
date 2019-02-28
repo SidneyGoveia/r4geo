@@ -1,5 +1,9 @@
 ---
 layout: page
+title: Referências
+feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/geosaber_capa.png"
+excerpt: "Cursos de QGIS e SIG livres"
+tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 ---
 # Referências
 - [GEOG2210 GRASS Tutorial](https://iweb.langara.bc.ca/geography/GRASS_tutorial/introduction.html)
