@@ -20,3 +20,4 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [Water Rules](https://brfry.github.io)
 - [GEOG 4/595: Geographic Data Analysis (Geospatial analysis in R)](https://pjbartlein.github.io/GeogDataAnalysis)
 - [GEOG 4/590: R for Earth-System Science | Fall 2016.](http://geog.uoregon.edu/bartlein/courses/geog490)
+- [CURSOS DE INTRODUCCIÓN Y ESPECIALIZACIÓN EN ANÁLISIS ESPACIAL CON R/2014](http://santiago.begueria.es/2014/05/cursos-de-introduccion-y-especializacion-en-analisis-espacial-con-r)
