@@ -6,7 +6,7 @@ tags: QGIS, Curso QGIS, Curso de QGIS
 excerpt: "Cursos de QGIS e SIG livres"
 ---
 ## [Sobre o Curso de QGIS 3.4 Madeira]({{ site.baseurl }}{% link docs/gis-101.md %})
-{% include figure.html image="https://github.com/geosaber/r4geo/raw/gh-pages/img/curso_qgis_8abril.png" alt="Geosaber" %}
+[![QGIS3.4](https://github.com/geosaber/r4geo/raw/gh-pages/img/curso_qgis_8abril.png)](https://www.geosaber.com.br/docs/gis-101)
 
 ---
 ## Cursos Oferecidos
