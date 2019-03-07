@@ -21,3 +21,8 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [GEOG 4/595: Geographic Data Analysis (Geospatial analysis in R)](https://pjbartlein.github.io/GeogDataAnalysis)
 - [GEOG 4/590: R for Earth-System Science | Fall 2016.](http://geog.uoregon.edu/bartlein/courses/geog490)
 - [CURSOS DE INTRODUCCIÓN Y ESPECIALIZACIÓN EN ANÁLISIS ESPACIAL CON R/2014](http://santiago.begueria.es/2014/05/cursos-de-introduccion-y-especializacion-en-analisis-espacial-con-r)
+- [GeoDa](https://geodacenter.github.io)
+- [Kriging Interpolation – The Prediction Is Strong in this One](https://gisgeography.com/kriging-interpolation-prediction)
+- [Talleres_R_GvSIG](https://gitlab.com/RichDeto/Talleres_R_GvSIG/tree/master/presentacion_R_espacial)
+- [Calling the SpatialPosition package from within QGIS](https://cran.r-project.org/web/packages/SpatialPosition/vignettes/QGISInterface.html)
+- [Image Classification with RandomForests in R (and QGIS)](http://amsantac.co/blog/en/2015/11/28/classification-r.html)
