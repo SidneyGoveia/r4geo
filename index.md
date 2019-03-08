@@ -17,7 +17,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 ---
 ## Cursos presenciais e *in company*
 ### [Informações]({{ site.url }}{% link courses.md %})
-- **GIS-100 Introdução ao QGIS 3.4 (Curso básico de 16 horas)**
+- **GIS-100 Mapas Temáticos no QGIS 3.4 (Curso básico introdutório de 16 horas)**
 - **GIS-101 Geoprocessamento com QGIS 3.4 Madeira**
 - **GIS-102 Geoestatística no QGIS com R/Gstat**
 - **GIS-103 Modelagem de Sistemas para Cadastro Técnico/Redes - QGIS/PostGIS**
