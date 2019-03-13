@@ -26,3 +26,5 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [Talleres_R_GvSIG](https://gitlab.com/RichDeto/Talleres_R_GvSIG/tree/master/presentacion_R_espacial)
 - [Calling the SpatialPosition package from within QGIS](https://cran.r-project.org/web/packages/SpatialPosition/vignettes/QGISInterface.html)
 - [Image Classification with RandomForests in R (and QGIS)](http://amsantac.co/blog/en/2015/11/28/classification-r.html)
+- [Statistics How To](https://www.statisticshowto.datasciencecentral.com)
+- [PostGIS](https://slides.com/fxku/postgis/fullscreen)
