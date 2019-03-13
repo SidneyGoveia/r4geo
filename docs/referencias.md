@@ -28,3 +28,8 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [Image Classification with RandomForests in R (and QGIS)](http://amsantac.co/blog/en/2015/11/28/classification-r.html)
 - [Statistics How To](https://www.statisticshowto.datasciencecentral.com)
 - [PostGIS](https://slides.com/fxku/postgis/fullscreen)
+- [The Visual Raster Cheat Sheet](http://rpubs.com/etiennebr/visualraster)
+- [Kriging - An illustration with the Meuse dataset from the gstat package](http://www.rpubs.com/liem/63374)
+- [Introduction to Kriging in R](https://rpubs.com/nabilabd/118172)
+- [Surface Interpolation in R](https://rpubs.com/adam_dennett/46259)
+- [Automatic spatial interpolation with R: the automap package](http://www.numbertheory.nl/2013/02/17/automatic-spatial-interpolation-with-r-the-automap-package)
