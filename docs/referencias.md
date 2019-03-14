@@ -33,3 +33,4 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [Introduction to Kriging in R](https://rpubs.com/nabilabd/118172)
 - [Surface Interpolation in R](https://rpubs.com/adam_dennett/46259)
 - [Automatic spatial interpolation with R: the automap package](http://www.numbertheory.nl/2013/02/17/automatic-spatial-interpolation-with-r-the-automap-package)
+- [Mapping Spatial Data in R](https://rpubs.com/mharris/r_mapping_spatial_data)
