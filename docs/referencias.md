@@ -34,3 +34,4 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [Surface Interpolation in R](https://rpubs.com/adam_dennett/46259)
 - [Automatic spatial interpolation with R: the automap package](http://www.numbertheory.nl/2013/02/17/automatic-spatial-interpolation-with-r-the-automap-package)
 - [Mapping Spatial Data in R](https://rpubs.com/mharris/r_mapping_spatial_data)
+- [EPIC: Epidemiologic Analysis Using R, June 2015](http://www.columbia.edu/~sjm2186/EPIC_R/)
