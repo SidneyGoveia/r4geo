@@ -48,3 +48,4 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [Spatial Statistics and Surface Interpolations](http://www.nickeubank.com/wp-content/uploads/2015/11/RGIS5_spatialstatistics.html)
 - [spatstat analysing spatial point patterns](http://spatstat.org)
   - [Spatial Point Patterns: Methodology and Applications with R](http://book.spatstat.org)
+- [An Introduction to Spatial Data Analysis and Visualisation in R](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
