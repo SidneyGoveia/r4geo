@@ -15,7 +15,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 {% include button.html text="Inscreva-se" icon="github" link="https://www.geosaber.com.br/docs/curso-qgis3x" color="#fb2e01" %}
 
 ---
-## Cursos presenciais e *in company*
+## Cursos presenciais e *in company* (turmas fechadas)
 ### [Informações]({{ site.url }}{% link courses.md %})
 - **GIS-100 Mapas Temáticos no QGIS 3.4 (Curso básico introdutório de 16 horas)**
 - **GIS-101 Geoprocessamento com QGIS 3.4 Madeira**
