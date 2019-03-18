@@ -48,4 +48,7 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [Spatial Statistics and Surface Interpolations](http://www.nickeubank.com/wp-content/uploads/2015/11/RGIS5_spatialstatistics.html)
 - [spatstat analysing spatial point patterns](http://spatstat.org)
   - [Spatial Point Patterns: Methodology and Applications with R](http://book.spatstat.org)
-- [An Introduction to Spatial Data Analysis and Visualisation in R](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
+- [CDRC Tutorials](https://data.cdrc.ac.uk/tutorial)
+  - [An Introduction to Spatial Data Analysis and Visualisation in R](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
+  - [Creating a Geodemographic Classification Using K-means Clustering in R](https://data.cdrc.ac.uk/tutorial/creating-a-geodemographic-classification-using-k-means-clustering-in-r)
+  - [Geographic Data Science in Python](https://data.cdrc.ac.uk/tutorial/geographic-data-science-in-python)
