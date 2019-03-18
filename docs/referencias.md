@@ -42,3 +42,4 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [Applied Data Analytics training program – Social Benefit Programs (2017)](https://github.com/Coleridge-Initiative/ada-2017-welfare)
 - [Applied Spatial Data Analysis with R](https://asdar-book.org)
   - [SpringerLink](https://link.springer.com/book/10.1007%2F978-1-4614-7618-4)
+- [Spatial Data Science with R](https://rspatial.org)
