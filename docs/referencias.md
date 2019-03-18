@@ -37,3 +37,6 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [EPIC: Epidemiologic Analysis Using R, June 2015](http://www.columbia.edu/~sjm2186/EPIC_R/)
 - [Bivariate Choropleth Maps: A How-to Guide](http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
 - [Economia Regional: Mapas em R](http://rpubs.com/amrofi/Regional_Economics_Spatial)
+- [R Spatial Workshop](https://spatialanalysis.github.io/tutorials)
+- [Spatial Data Prep & Analytics Tutorials](https://makosak.github.io/SpatialDataScience-Notebooks)
+- [Applied Data Analytics training program – Social Benefit Programs (2017)](https://github.com/Coleridge-Initiative/ada-2017-welfare)
