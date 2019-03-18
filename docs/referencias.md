@@ -8,6 +8,7 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 # Referências
 - [GEOG2210 GRASS Tutorial](https://iweb.langara.bc.ca/geography/GRASS_tutorial/introduction.html)
 - [GIS and Mapping with R](http://www.richardcondit.org/workshops/Rgis/tupper2015/index.html)
+- [GIS in R](http://www.nickeubank.com/gis-in-r)
 - [Learn to use earth science and other data in R & Python](https://www.earthdatascience.org)
 - [R tips](http://wiki.cbr.washington.edu/qerm/index.php/R_tips)
 - [R2VR: Meshing Uluru From Polygons and Rasters](https://milesmcbain.xyz/r2v1-meshing-uluru-from-polygons-and-rasters)
@@ -43,3 +44,7 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 - [Applied Spatial Data Analysis with R](https://asdar-book.org)
   - [SpringerLink](https://link.springer.com/book/10.1007%2F978-1-4614-7618-4)
 - [Spatial Data Science with R](https://rspatial.org)
+- [Introduction to GIS with R - Spatial data with the sp and sf packages](https://www.jessesadler.com/post/gis-with-r-intro)
+- [Spatial Statistics and Surface Interpolations](http://www.nickeubank.com/wp-content/uploads/2015/11/RGIS5_spatialstatistics.html)
+- [spatstat analysing spatial point patterns](http://spatstat.org)
+  - [Spatial Point Patterns: Methodology and Applications with R](http://book.spatstat.org)
