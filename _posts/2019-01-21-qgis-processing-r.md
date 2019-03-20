@@ -30,3 +30,4 @@ hist(Layer[[Field]],main=paste("Histogram of",Field),xlab=paste(Field))
 
 ## Referências:
 - [Processing R Provider](https://plugins.qgis.org/plugins/processing_r)
+- [QGIS resources repository - A repository with scripts and models downloadable from the Processing toolbox](https://github.com/qgis/QGIS-Processing)
